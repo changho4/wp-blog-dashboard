@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>yangchangho.com 대시보드</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #f8f8f6; --surface: #ffffff; --border: #e8e6e0; --text: #1a1a1a;
+      --muted: #888; --accent: #185FA5; --green: #1D9E75; --amber: #EF9F27;
+      --gray: #888780; --radius: 12px;
+    }
+    body { font-family: -apple-system, 'Helvetica Neue', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; }
+    header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem; }
+    header h1 { font-size: 18px; font-weight: 600; }
+    .updated { font-size: 12px; color: var(--muted); background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 4px 12px; }
+    .section-label { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; color: var(--muted); text-transform: uppercase; margin-bottom: 10px; }
+    .metric-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
+    .metric-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 18px; }
+    .metric-card .label { font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+    .metric-card .value { font-size: 26px; font-weight: 600; }
+    .chart-row { display: grid; grid-template-columns: 1.6fr 1fr; gap: 14px; margin-bottom: 1.5rem; }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem; }
+    .card-title { font-size: 13px; font-weight: 500; color: var(--muted); margin-bottom: 1rem; }
+    .legend { display: flex; gap: 14px; margin-bottom: 12px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+    .legend span { display: flex; align-items: center; gap: 5px; }
+    .legend-dot { width: 9px; height: 9px; border-radius: 2px; flex-shrink: 0; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th { text-align: left; font-size: 11px; font-weight: 600; color: var(--muted); padding: 0 0 8px; border-bottom: 1px solid var(--border); }
+    th:not(:first-child) { text-align: right; }
+    td { padding: 8px 0; border-bottom: 1px solid var(--border); color: var(--text); }
+    td:not(:first-child) { text-align: right; color: var(--muted); }
+    tr:last-child td { border-bottom: none; }
+    .device-row { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; font-size: 13px; }
+    .device-label { width: 68px; color: var(--muted); flex-shrink: 0; }
+    .device-bar-wrap { flex: 1; background: var(--bg); border-radius: 4px; height: 8px; }
+    .device-bar { height: 8px; border-radius: 4px; }
+    .device-pct { width: 36px; text-align: right; color: var(--muted); font-size: 12px; }
+    .bar-mini { background: var(--bg); border-radius: 3px; height: 4px; width: 100%; margin-top: 4px; }
+    .bar-mini-fill { height: 4px; border-radius: 3px; background: var(--accent); }
+    .loading { text-align: center; padding: 4rem; color: var(--muted); font-size: 14px; }
+    .error { text-align: center; padding: 4rem; color: #c0392b; font-size: 14px; }
+    @media (max-width: 768px) {
+      .metric-grid { grid-template-columns: repeat(2, 1fr); }
+      .chart-row { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div id="loading" class="loading">데이터 불러오는 중...</div>
+  <div id="dashboard" style="display:none;">
+    <header>
+      <h1>📊 yangchangho.com</h1>
+      <div class="updated" id="updatedAt"></div>
+    </header>
+    <p class="section-label">핵심 지표 · 최근 28일</p>
+    <div class="metric-grid">
+      <div class="metric-card"><div class="label">세션</div><div class="value" id="m-sessions">—</div></div>
+      <div class="metric-card"><div class="label">사용자</div><div class="value" id="m-users">—</div></div>
+      <div class="metric-card"><div class="label">검색 클릭</div><div class="value" id="m-clicks">—</div></div>
+      <div class="metric-card"><div class="label">평균 CTR</div><div class="value" id="m-ctr">—</div></div>
+    </div>
+    <div class="chart-row">
+      <div class="card">
+        <p class="card-title">세션 / 검색 클릭 추이</p>
+        <div class="legend">
+          <span><span class="legend-dot" style="background:#185FA5;"></span>세션</span>
+          <span><span class="legend-dot" style="background:#1D9E75;"></span>검색 클릭</span>
+        </div>
+        <div style="position:relative; height:200px;"><canvas id="trendChart"></canvas></div>
+      </div>
+      <div class="card">
+        <p class="card-title">디바이스 유형</p>
+        <div id="deviceBars"></div>
+        <div style="margin-top:1.25rem;">
+          <p class="card-title">유입 채널</p>
+          <div style="position:relative; height:130px;"><canvas id="channelChart"></canvas></div>
+          <div class="legend" id="channelLegend" style="margin-top:8px; justify-content:center;"></div>
+        </div>
+      </div>
+    </div>
+    <div class="chart-row">
+      <div class="card">
+        <p class="card-title">상위 검색 쿼리 (Search Console)</p>
+        <table><thead><tr><th>쿼리</th><th>클릭</th><th>노출</th><th>CTR</th><th>순위</th></tr></thead><tbody id="queryBody"></tbody></table>
+      </div>
+      <div class="card">
+        <p class="card-title">상위 페이지 (GA4)</p>
+        <table><thead><tr><th>페이지</th><th>뷰</th></tr></thead><tbody id="pageBody"></tbody></table>
+      </div>
+    </div>
+  </div>
+  <div id="error" class="error" style="display:none;"></div>
+</div>
+<script>
+async function init() {
+  try {
+    const res = await fetch('data/dashboard.json');
+    if (!res.ok) throw new Error('데이터 파일을 찾을 수 없습니다.');
+    const d = await res.json();
+    render(d);
+  } catch(e) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error').style.display = 'block';
+    document.getElementById('error').textContent = '⚠️ ' + e.message;
+  }
+}
+function fmt(n) { return Number(n).toLocaleString(); }
+function render(d) {
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('dashboard').style.display = 'block';
+  document.getElementById('updatedAt').textContent = '업데이트: ' + d.updated_at;
+  const ga = d.ga4.summary; const gsc = d.gsc.summary;
+  document.getElementById('m-sessions').textContent = fmt(ga.sessions);
+  document.getElementById('m-users').textContent = fmt(ga.users);
+  document.getElementById('m-clicks').textContent = fmt(gsc.clicks);
+  document.getElementById('m-ctr').textContent = gsc.ctr + '%';
+  const trendLabels = d.ga4.trend.map(r => r.date.slice(4,6)+'/'+r.date.slice(6,8));
+  const gscMap = {}; d.gsc.trend.forEach(r => { gscMap[r.date.replace(/-/g,'')] = r.clicks; });
+  const gscClicks = d.ga4.trend.map(r => gscMap[r.date] || 0);
+  new Chart(document.getElementById('trendChart'), {
+    type: 'line',
+    data: { labels: trendLabels, datasets: [
+      { label: '세션', data: d.ga4.trend.map(r=>r.sessions), borderColor:'#185FA5', backgroundColor:'rgba(24,95,165,0.07)', fill:true, tension:0.4, pointRadius:0, borderWidth:2 },
+      { label: '검색 클릭', data: gscClicks, borderColor:'#1D9E75', backgroundColor:'rgba(29,158,117,0.07)', fill:true, tension:0.4, pointRadius:0, borderWidth:2, borderDash:[4,3] }
+    ]},
+    options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}}, scales:{ x:{grid:{display:false}, ticks:{autoSkip:true, maxTicksLimit:7, font:{size:11}}}, y:{grid:{color:'rgba(0,0,0,0.05)'}, ticks:{font:{size:11}}} } }
+  });
+  const totalSessions = d.ga4.devices.reduce((a,b)=>a+b.sessions,0);
+  const deviceColors = { mobile:'#185FA5', desktop:'#1D9E75', tablet:'#EF9F27' };
+  const deviceLabels = { mobile:'모바일', desktop:'데스크톱', tablet:'태블릿' };
+  const dWrap = document.getElementById('deviceBars');
+  d.ga4.devices.forEach(dv => {
+    const pct = Math.round(dv.sessions / totalSessions * 100);
+    const color = deviceColors[dv.device] || '#888';
+    const label = deviceLabels[dv.device] || dv.device;
+    dWrap.innerHTML += '<div class="device-row"><div class="device-label">'+label+'</div><div class="device-bar-wrap"><div class="device-bar" style="width:'+pct+'%;background:'+color+';"></div></div><div class="device-pct">'+pct+'%</div></div>';
+  });
+  const chColors = ['#185FA5','#1D9E75','#EF9F27','#888780','#D85A30','#534AB7'];
+  new Chart(document.getElementById('channelChart'), {
+    type: 'doughnut',
+    data: { labels: d.ga4.channels.map(c=>c.channel), datasets: [{ data: d.ga4.channels.map(c=>c.sessions), backgroundColor: chColors.slice(0, d.ga4.channels.length), borderWidth:0, hoverOffset:4 }] },
+    options: { responsive:true, maintainAspectRatio:false, cutout:'65%', plugins:{legend:{display:false}} }
+  });
+  const legEl = document.getElementById('channelLegend');
+  d.ga4.channels.forEach((c,i) => { legEl.innerHTML += '<span><span class="legend-dot" style="background:'+chColors[i]+';"></span>'+c.channel+'</span>'; });
+  const maxClicks = Math.max(...d.gsc.queries.map(q=>q.clicks));
+  const qBody = document.getElementById('queryBody');
+  d.gsc.queries.forEach(q => {
+    const pct = Math.round(q.clicks / maxClicks * 100);
+    const tr = document.createElement('tr');
+    tr.innerHTML = '<td style="max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">'+q.query+'<div class="bar-mini"><div class="bar-mini-fill" style="width:'+pct+'%"></div></div></td><td>'+fmt(q.clicks)+'</td><td>'+fmt(q.impressions)+'</td><td>'+q.ctr+'%</td><td>'+q.position+'</td>';
+    qBody.appendChild(tr);
+  });
+  const pBody = document.getElementById('pageBody');
+  d.ga4.pages.forEach(p => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = '<td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="'+p.path+'">'+p.title+'</td><td>'+fmt(p.pageviews)+'</td>';
+    pBody.appendChild(tr);
+  });
+}
+init();
+</script>
+</body>
+</html>
