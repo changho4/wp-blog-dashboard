@@ -1,0 +1,169 @@
+{
+  "updated_at": "2026-05-29 10:37",
+  "ga4": {
+    "trend": [
+      {
+        "date": "20260502",
+        "sessions": 4,
+        "users": 4
+      },
+      {
+        "date": "20260503",
+        "sessions": 7,
+        "users": 6
+      },
+      {
+        "date": "20260504",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260505",
+        "sessions": 4,
+        "users": 4
+      },
+      {
+        "date": "20260506",
+        "sessions": 4,
+        "users": 4
+      },
+      {
+        "date": "20260507",
+        "sessions": 5,
+        "users": 5
+      },
+      {
+        "date": "20260508",
+        "sessions": 4,
+        "users": 3
+      },
+      {
+        "date": "20260509",
+        "sessions": 8,
+        "users": 8
+      },
+      {
+        "date": "20260510",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260511",
+        "sessions": 5,
+        "users": 5
+      },
+      {
+        "date": "20260512",
+        "sessions": 7,
+        "users": 7
+      },
+      {
+        "date": "20260513",
+        "sessions": 6,
+        "users": 6
+      },
+      {
+        "date": "20260514",
+        "sessions": 10,
+        "users": 7
+      },
+      {
+        "date": "20260528",
+        "sessions": 4,
+        "users": 3
+      },
+      {
+        "date": "20260529",
+        "sessions": 6,
+        "users": 6
+      }
+    ],
+    "summary": {
+      "sessions": 79,
+      "users": 70,
+      "bounceRate": 19.0,
+      "avgSessionDuration": 116
+    },
+    "pages": [
+      {
+        "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
+        "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
+        "pageviews": 28,
+        "avgDuration": 232
+      },
+      {
+        "title": "changho world - about what I think, like, enjoy and have",
+        "path": "/",
+        "pageviews": 25,
+        "avgDuration": 23
+      },
+      {
+        "title": "브롬톤 2단 6단 장점 단점 - changho world",
+        "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
+        "pageviews": 14,
+        "avgDuration": 124
+      },
+      {
+        "title": "코스모스핌 Archives - Page 2 of 3 - changho world",
+        "path": "/tag/코스모스핌/page/2/",
+        "pageviews": 10,
+        "avgDuration": 5
+      },
+      {
+        "title": "대학 입시 관련 연도별 정보모음 - changho world",
+        "path": "/2021/06/대학-입시-관련-연도별-정보모음/",
+        "pageviews": 9,
+        "avgDuration": 386
+      }
+    ],
+    "devices": [
+      {
+        "device": "desktop",
+        "sessions": 38
+      },
+      {
+        "device": "mobile",
+        "sessions": 37
+      },
+      {
+        "device": "tablet",
+        "sessions": 4
+      }
+    ],
+    "channels": [
+      {
+        "channel": "Direct",
+        "sessions": 76
+      },
+      {
+        "channel": "Organic Search",
+        "sessions": 2
+      },
+      {
+        "channel": "Organic Social",
+        "sessions": 1
+      }
+    ]
+  },
+  "gsc": {
+    "summary": {
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    "queries": [],
+    "trend": [
+      {
+        "date": "2026-05-26",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-05-27",
+        "clicks": 0,
+        "impressions": 0
+      }
+    ]
+  }
+}
