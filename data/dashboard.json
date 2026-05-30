@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-05-29 10:37",
+  "updated_at": "2026-05-30 04:54",
   "ga4": {
     "trend": [
-      {
-        "date": "20260502",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260503",
         "sessions": 7,
@@ -76,25 +71,30 @@
         "date": "20260529",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20260530",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 79,
-      "users": 70,
-      "bounceRate": 19.0,
-      "avgSessionDuration": 116
+      "sessions": 76,
+      "users": 67,
+      "bounceRate": 21.1,
+      "avgSessionDuration": 117
     },
     "pages": [
       {
         "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
         "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 28,
-        "avgDuration": 232
+        "pageviews": 26,
+        "avgDuration": 246
       },
       {
         "title": "changho world - about what I think, like, enjoy and have",
         "path": "/",
-        "pageviews": 25,
+        "pageviews": 23,
         "avgDuration": 23
       },
       {
@@ -123,7 +123,7 @@
       },
       {
         "device": "mobile",
-        "sessions": 37
+        "sessions": 34
       },
       {
         "device": "tablet",
@@ -133,7 +133,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 76
+        "sessions": 73
       },
       {
         "channel": "Organic Search",
