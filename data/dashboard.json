@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-05-30 04:54",
+  "updated_at": "2026-05-31 05:21",
   "ga4": {
     "trend": [
-      {
-        "date": "20260503",
-        "sessions": 7,
-        "users": 6
-      },
       {
         "date": "20260504",
         "sessions": 2,
@@ -74,15 +69,15 @@
       },
       {
         "date": "20260530",
-        "sessions": 1,
-        "users": 1
+        "sessions": 3,
+        "users": 3
       }
     ],
     "summary": {
-      "sessions": 76,
-      "users": 67,
+      "sessions": 71,
+      "users": 63,
       "bounceRate": 21.1,
-      "avgSessionDuration": 117
+      "avgSessionDuration": 110
     },
     "pages": [
       {
@@ -94,8 +89,8 @@
       {
         "title": "changho world - about what I think, like, enjoy and have",
         "path": "/",
-        "pageviews": 23,
-        "avgDuration": 23
+        "pageviews": 21,
+        "avgDuration": 25
       },
       {
         "title": "브롬톤 2단 6단 장점 단점 - changho world",
@@ -104,26 +99,26 @@
         "avgDuration": 124
       },
       {
-        "title": "코스모스핌 Archives - Page 2 of 3 - changho world",
-        "path": "/tag/코스모스핌/page/2/",
-        "pageviews": 10,
-        "avgDuration": 5
+        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
+        "path": "/tag/코스모스핌/page/3/",
+        "pageviews": 8,
+        "avgDuration": 4
       },
       {
-        "title": "대학 입시 관련 연도별 정보모음 - changho world",
-        "path": "/2021/06/대학-입시-관련-연도별-정보모음/",
-        "pageviews": 9,
-        "avgDuration": 386
+        "title": "Changho World -",
+        "path": "/",
+        "pageviews": 5,
+        "avgDuration": 20
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 38
+        "sessions": 35
       },
       {
         "device": "mobile",
-        "sessions": 34
+        "sessions": 32
       },
       {
         "device": "tablet",
@@ -133,15 +128,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 73
+        "sessions": 66
       },
       {
         "channel": "Organic Search",
-        "sessions": 2
+        "sessions": 3
       },
       {
         "channel": "Organic Social",
-        "sessions": 1
+        "sessions": 2
       }
     ]
   },
@@ -161,6 +156,16 @@
       },
       {
         "date": "2026-05-27",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-05-28",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-05-29",
         "clicks": 0,
         "impressions": 0
       }
