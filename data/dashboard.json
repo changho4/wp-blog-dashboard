@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02 01:38",
+  "updated_at": "2026-06-02 05:52",
   "yesterday": "2026-06-01",
   "ga4": {
     "yesterday": {
@@ -184,16 +184,16 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.54,
-      "impressions": 4,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.06,
       "rpm": 0.23,
-      "impressions": 260,
+      "impressions": 256,
       "clicks": 1
     },
     "trend": [
@@ -286,13 +286,6 @@
         "earnings": 0.0,
         "rpm": 0.02,
         "impressions": 1,
-        "clicks": 0
-      },
-      {
-        "date": "2026-06-01",
-        "earnings": 0.0,
-        "rpm": 0.54,
-        "impressions": 4,
         "clicks": 0
       }
     ]
