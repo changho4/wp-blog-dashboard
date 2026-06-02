@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-06-01 06:07",
+  "updated_at": "2026-06-02 01:27",
   "ga4": {
     "trend": [
-      {
-        "date": "20260505",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260506",
         "sessions": 4,
@@ -74,14 +69,14 @@
       },
       {
         "date": "20260601",
-        "sessions": 2,
+        "sessions": 4,
         "users": 2
       }
     ],
     "summary": {
-      "sessions": 73,
-      "users": 64,
-      "bounceRate": 23.3,
+      "sessions": 71,
+      "users": 60,
+      "bounceRate": 26.8,
       "avgSessionDuration": 110
     },
     "pages": [
@@ -100,30 +95,30 @@
       {
         "title": "브롬톤 2단 6단 장점 단점 - changho world",
         "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
-        "pageviews": 12,
-        "avgDuration": 114
-      },
-      {
-        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
-        "path": "/tag/코스모스핌/page/3/",
         "pageviews": 8,
-        "avgDuration": 4
+        "avgDuration": 131
       },
       {
         "title": "Changho World -",
         "path": "/",
         "pageviews": 6,
         "avgDuration": 17
+      },
+      {
+        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
+        "path": "/tag/코스모스핌/page/3/",
+        "pageviews": 6,
+        "avgDuration": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 36
+        "sessions": 37
       },
       {
         "device": "mobile",
-        "sessions": 33
+        "sessions": 30
       },
       {
         "device": "tablet",
@@ -133,7 +128,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 66
+        "sessions": 64
       },
       {
         "channel": "Organic Search",
