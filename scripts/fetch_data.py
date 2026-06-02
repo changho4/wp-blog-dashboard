@@ -17,6 +17,7 @@ GSC_SITE_URL = os.environ["GSC_SITE_URL"]
 SCOPES = [
     "https://www.googleapis.com/auth/analytics.readonly",
     "https://www.googleapis.com/auth/webmasters.readonly",
+    "https://www.googleapis.com/auth/adsense.readonly",
 ]
 
 def get_credentials():
@@ -29,17 +30,39 @@ def get_credentials():
         scopes=SCOPES,
     )
 
-def fetch_ga4(creds):
-    client = BetaAnalyticsDataClient(credentials=creds)
-    end_date = datetime.today().strftime("%Y-%m-%d")
-    start_date = (datetime.today() - timedelta(days=27)).strftime("%Y-%m-%d")
+def get_dates():
+    today = datetime.today()
+    yesterday = today - timedelta(days=1)
+    start_28 = today - timedelta(days=27)
+    return {
+        "yesterday": yesterday.strftime("%Y-%m-%d"),
+        "start_28": start_28.strftime("%Y-%m-%d"),
+        "today": today.strftime("%Y-%m-%d"),
+    }
 
-    # 일별 세션/사용자 추이
+def fetch_ga4(creds, dates):
+    client = BetaAnalyticsDataClient(credentials=creds)
+
+    # 어제 요약
+    yesterday_req = RunReportRequest(
+        property=f"properties/{GA4_PROPERTY_ID}",
+        metrics=[Metric(name="sessions"), Metric(name="activeUsers"), Metric(name="screenPageViews")],
+        date_ranges=[DateRange(start_date=dates["yesterday"], end_date=dates["yesterday"])],
+    )
+    y_res = client.run_report(yesterday_req)
+    y_row = y_res.rows[0] if y_res.rows else None
+    yesterday_summary = {
+        "sessions": int(y_row.metric_values[0].value) if y_row else 0,
+        "users": int(y_row.metric_values[1].value) if y_row else 0,
+        "pageviews": int(y_row.metric_values[2].value) if y_row else 0,
+    }
+
+    # 28일 추이
     trend_req = RunReportRequest(
         property=f"properties/{GA4_PROPERTY_ID}",
         dimensions=[Dimension(name="date")],
         metrics=[Metric(name="sessions"), Metric(name="activeUsers")],
-        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
+        date_ranges=[DateRange(start_date=dates["start_28"], end_date=dates["yesterday"])],
         order_bys=[OrderBy(dimension=OrderBy.DimensionOrderBy(dimension_name="date"))]
     )
     trend_res = client.run_report(trend_req)
@@ -52,16 +75,11 @@ def fetch_ga4(creds):
         for r in trend_res.rows
     ]
 
-    # 요약 지표
+    # 28일 요약
     summary_req = RunReportRequest(
         property=f"properties/{GA4_PROPERTY_ID}",
-        metrics=[
-            Metric(name="sessions"),
-            Metric(name="activeUsers"),
-            Metric(name="bounceRate"),
-            Metric(name="averageSessionDuration"),
-        ],
-        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
+        metrics=[Metric(name="sessions"), Metric(name="activeUsers"), Metric(name="bounceRate")],
+        date_ranges=[DateRange(start_date=dates["start_28"], end_date=dates["yesterday"])],
     )
     summary_res = client.run_report(summary_req)
     row = summary_res.rows[0]
@@ -69,15 +87,14 @@ def fetch_ga4(creds):
         "sessions": int(row.metric_values[0].value),
         "users": int(row.metric_values[1].value),
         "bounceRate": round(float(row.metric_values[2].value) * 100, 1),
-        "avgSessionDuration": round(float(row.metric_values[3].value)),
     }
 
     # 상위 페이지
     pages_req = RunReportRequest(
         property=f"properties/{GA4_PROPERTY_ID}",
         dimensions=[Dimension(name="pageTitle"), Dimension(name="pagePath")],
-        metrics=[Metric(name="screenPageViews"), Metric(name="averageSessionDuration")],
-        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
+        metrics=[Metric(name="screenPageViews")],
+        date_ranges=[DateRange(start_date=dates["start_28"], end_date=dates["yesterday"])],
         order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"), desc=True)],
         limit=5,
     )
@@ -87,124 +104,179 @@ def fetch_ga4(creds):
             "title": r.dimension_values[0].value,
             "path": r.dimension_values[1].value,
             "pageviews": int(r.metric_values[0].value),
-            "avgDuration": round(float(r.metric_values[1].value)),
         }
         for r in pages_res.rows
     ]
 
-    # 디바이스 유형
+    # 디바이스
     device_req = RunReportRequest(
         property=f"properties/{GA4_PROPERTY_ID}",
         dimensions=[Dimension(name="deviceCategory")],
         metrics=[Metric(name="sessions")],
-        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
+        date_ranges=[DateRange(start_date=dates["start_28"], end_date=dates["yesterday"])],
     )
     device_res = client.run_report(device_req)
-    devices = [
-        {
-            "device": r.dimension_values[0].value,
-            "sessions": int(r.metric_values[0].value),
-        }
-        for r in device_res.rows
-    ]
+    devices = [{"device": r.dimension_values[0].value, "sessions": int(r.metric_values[0].value)} for r in device_res.rows]
 
-    # 유입 채널
+    # 채널
     channel_req = RunReportRequest(
         property=f"properties/{GA4_PROPERTY_ID}",
         dimensions=[Dimension(name="sessionDefaultChannelGroup")],
         metrics=[Metric(name="sessions")],
-        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
+        date_ranges=[DateRange(start_date=dates["start_28"], end_date=dates["yesterday"])],
         order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="sessions"), desc=True)],
     )
     channel_res = client.run_report(channel_req)
-    channels = [
-        {
-            "channel": r.dimension_values[0].value,
-            "sessions": int(r.metric_values[0].value),
-        }
-        for r in channel_res.rows
-    ]
+    channels = [{"channel": r.dimension_values[0].value, "sessions": int(r.metric_values[0].value)} for r in channel_res.rows]
 
-    return {"trend": trend, "summary": summary, "pages": pages, "devices": devices, "channels": channels}
+    return {"yesterday": yesterday_summary, "trend": trend, "summary": summary, "pages": pages, "devices": devices, "channels": channels}
 
 
-def fetch_gsc(creds):
+def fetch_gsc(creds, dates):
     service = build("searchconsole", "v1", credentials=creds)
-    end_date = datetime.today().strftime("%Y-%m-%d")
-    start_date = (datetime.today() - timedelta(days=27)).strftime("%Y-%m-%d")
 
-    # 요약 지표
+    # 어제 요약
+    y_res = service.searchanalytics().query(
+        siteUrl=GSC_SITE_URL,
+        body={"startDate": dates["yesterday"], "endDate": dates["yesterday"], "dimensions": []}
+    ).execute()
+    y_row = y_res.get("rows", [{}])[0]
+    yesterday_summary = {
+        "clicks": int(y_row.get("clicks", 0)),
+        "impressions": int(y_row.get("impressions", 0)),
+        "ctr": round(y_row.get("ctr", 0) * 100, 2),
+        "position": round(y_row.get("position", 0), 1),
+    }
+
+    # 28일 요약
     summary_res = service.searchanalytics().query(
         siteUrl=GSC_SITE_URL,
-        body={"startDate": start_date, "endDate": end_date, "dimensions": []}
+        body={"startDate": dates["start_28"], "endDate": dates["yesterday"], "dimensions": []}
     ).execute()
-    summary = summary_res.get("rows", [{}])[0]
-    gsc_summary = {
-        "clicks": int(summary.get("clicks", 0)),
-        "impressions": int(summary.get("impressions", 0)),
-        "ctr": round(summary.get("ctr", 0) * 100, 2),
-        "position": round(summary.get("position", 0), 1),
+    s_row = summary_res.get("rows", [{}])[0]
+    summary = {
+        "clicks": int(s_row.get("clicks", 0)),
+        "impressions": int(s_row.get("impressions", 0)),
+        "ctr": round(s_row.get("ctr", 0) * 100, 2),
+        "position": round(s_row.get("position", 0), 1),
     }
 
     # 상위 쿼리
     queries_res = service.searchanalytics().query(
         siteUrl=GSC_SITE_URL,
-        body={
-            "startDate": start_date,
-            "endDate": end_date,
-            "dimensions": ["query"],
-            "rowLimit": 10,
-        }
+        body={"startDate": dates["start_28"], "endDate": dates["yesterday"], "dimensions": ["query"], "rowLimit": 10}
     ).execute()
     queries = [
-        {
-            "query": r["keys"][0],
-            "clicks": int(r.get("clicks", 0)),
-            "impressions": int(r.get("impressions", 0)),
-            "ctr": round(r.get("ctr", 0) * 100, 2),
-            "position": round(r.get("position", 0), 1),
-        }
+        {"query": r["keys"][0], "clicks": int(r.get("clicks", 0)), "impressions": int(r.get("impressions", 0)),
+         "ctr": round(r.get("ctr", 0) * 100, 2), "position": round(r.get("position", 0), 1)}
         for r in queries_res.get("rows", [])
     ]
 
-    # 일별 클릭 추이
+    # 28일 추이
     trend_res = service.searchanalytics().query(
         siteUrl=GSC_SITE_URL,
-        body={
-            "startDate": start_date,
-            "endDate": end_date,
-            "dimensions": ["date"],
-        }
+        body={"startDate": dates["start_28"], "endDate": dates["yesterday"], "dimensions": ["date"]}
     ).execute()
     trend = [
-        {
-            "date": r["keys"][0],
-            "clicks": int(r.get("clicks", 0)),
-            "impressions": int(r.get("impressions", 0)),
-        }
+        {"date": r["keys"][0], "clicks": int(r.get("clicks", 0)), "impressions": int(r.get("impressions", 0))}
         for r in trend_res.get("rows", [])
     ]
 
-    return {"summary": gsc_summary, "queries": queries, "trend": trend}
+    return {"yesterday": yesterday_summary, "summary": summary, "queries": queries, "trend": trend}
+
+
+def fetch_adsense(creds, dates):
+    service = build("adsense", "v2", credentials=creds)
+
+    # 계정 목록 가져오기
+    accounts = service.accounts().list().execute()
+    account_id = accounts["accounts"][0]["name"]
+
+    # 어제 수익
+    y_report = service.accounts().reports().generate(
+        account=account_id,
+        dateRange="CUSTOM",
+        startDate_year=int(dates["yesterday"][:4]),
+        startDate_month=int(dates["yesterday"][5:7]),
+        startDate_day=int(dates["yesterday"][8:10]),
+        endDate_year=int(dates["yesterday"][:4]),
+        endDate_month=int(dates["yesterday"][5:7]),
+        endDate_day=int(dates["yesterday"][8:10]),
+        metrics=["ESTIMATED_EARNINGS", "PAGE_VIEWS_RPM", "IMPRESSIONS", "CLICKS", "PAGE_VIEWS_CTR"]
+    ).execute()
+    y_row = y_report.get("rows", [{}])[0].get("cells", []) if y_report.get("rows") else []
+    yesterday_summary = {
+        "earnings": round(float(y_row[0].get("value", 0)), 2) if y_row else 0,
+        "rpm": round(float(y_row[1].get("value", 0)), 2) if y_row else 0,
+        "impressions": int(float(y_row[2].get("value", 0))) if y_row else 0,
+        "clicks": int(float(y_row[3].get("value", 0))) if y_row else 0,
+        "ctr": round(float(y_row[4].get("value", 0)) * 100, 2) if y_row else 0,
+    }
+
+    # 28일 추이
+    report = service.accounts().reports().generate(
+        account=account_id,
+        dateRange="CUSTOM",
+        startDate_year=int(dates["start_28"][:4]),
+        startDate_month=int(dates["start_28"][5:7]),
+        startDate_day=int(dates["start_28"][8:10]),
+        endDate_year=int(dates["yesterday"][:4]),
+        endDate_month=int(dates["yesterday"][5:7]),
+        endDate_day=int(dates["yesterday"][8:10]),
+        dimensions=["DATE"],
+        metrics=["ESTIMATED_EARNINGS", "PAGE_VIEWS_RPM", "IMPRESSIONS", "CLICKS"]
+    ).execute()
+
+    trend = []
+    for r in report.get("rows", []):
+        cells = r.get("cells", [])
+        trend.append({
+            "date": cells[0].get("value", "") if cells else "",
+            "earnings": round(float(cells[1].get("value", 0)), 4) if len(cells) > 1 else 0,
+            "rpm": round(float(cells[2].get("value", 0)), 2) if len(cells) > 2 else 0,
+            "impressions": int(float(cells[3].get("value", 0))) if len(cells) > 3 else 0,
+            "clicks": int(float(cells[4].get("value", 0))) if len(cells) > 4 else 0,
+        })
+
+    # 28일 합계
+    total_earnings = sum(r["earnings"] for r in trend)
+    total_impressions = sum(r["impressions"] for r in trend)
+    total_clicks = sum(r["clicks"] for r in trend)
+    avg_rpm = round(total_earnings / total_impressions * 1000, 2) if total_impressions > 0 else 0
+
+    summary = {
+        "earnings": round(total_earnings, 2),
+        "rpm": avg_rpm,
+        "impressions": total_impressions,
+        "clicks": total_clicks,
+    }
+
+    return {"yesterday": yesterday_summary, "summary": summary, "trend": trend}
 
 
 def main():
     creds = get_credentials()
-    ga4_data = fetch_ga4(creds)
-    gsc_data = fetch_gsc(creds)
+    dates = get_dates()
+    ga4_data = fetch_ga4(creds, dates)
+    gsc_data = fetch_gsc(creds, dates)
+    try:
+        adsense_data = fetch_adsense(creds, dates)
+    except Exception as e:
+        print(f"AdSense 오류 (건너뜀): {e}")
+        adsense_data = {"yesterday": {}, "summary": {}, "trend": []}
 
     output = {
         "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "yesterday": dates["yesterday"],
         "ga4": ga4_data,
         "gsc": gsc_data,
+        "adsense": adsense_data,
     }
 
     os.makedirs("data", exist_ok=True)
     with open("data/dashboard.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-
     print("✅ data/dashboard.json 생성 완료")
-
 
 if __name__ == "__main__":
     main()
