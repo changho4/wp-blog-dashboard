@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-02 01:27",
+  "updated_at": "2026-06-02 01:38",
+  "yesterday": "2026-06-01",
   "ga4": {
+    "yesterday": {
+      "sessions": 4,
+      "users": 2,
+      "pageviews": 3
+    },
     "trend": [
       {
         "date": "20260506",
@@ -76,39 +82,33 @@
     "summary": {
       "sessions": 71,
       "users": 60,
-      "bounceRate": 26.8,
-      "avgSessionDuration": 110
+      "bounceRate": 26.8
     },
     "pages": [
       {
         "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
         "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 26,
-        "avgDuration": 246
+        "pageviews": 26
       },
       {
         "title": "changho world - about what I think, like, enjoy and have",
         "path": "/",
-        "pageviews": 21,
-        "avgDuration": 25
+        "pageviews": 21
       },
       {
         "title": "브롬톤 2단 6단 장점 단점 - changho world",
         "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
-        "pageviews": 8,
-        "avgDuration": 131
+        "pageviews": 8
       },
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 6,
-        "avgDuration": 17
+        "pageviews": 6
       },
       {
         "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
         "path": "/tag/코스모스핌/page/3/",
-        "pageviews": 6,
-        "avgDuration": 4
+        "pageviews": 6
       }
     ],
     "devices": [
@@ -141,6 +141,12 @@
     ]
   },
   "gsc": {
+    "yesterday": {
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
     "summary": {
       "clicks": 0,
       "impressions": 0,
@@ -173,6 +179,121 @@
         "date": "2026-05-30",
         "clicks": 0,
         "impressions": 0
+      }
+    ]
+  },
+  "adsense": {
+    "yesterday": {
+      "earnings": 0.0,
+      "rpm": 0.54,
+      "impressions": 4,
+      "clicks": 0,
+      "ctr": 0.0
+    },
+    "summary": {
+      "earnings": 0.06,
+      "rpm": 0.23,
+      "impressions": 260,
+      "clicks": 1
+    },
+    "trend": [
+      {
+        "date": "2026-05-06",
+        "earnings": 0.0,
+        "rpm": 0.61,
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-07",
+        "earnings": 0.01,
+        "rpm": 1.65,
+        "impressions": 39,
+        "clicks": 1
+      },
+      {
+        "date": "2026-05-08",
+        "earnings": 0.01,
+        "rpm": 1.61,
+        "impressions": 26,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-09",
+        "earnings": 0.01,
+        "rpm": 1.86,
+        "impressions": 17,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-10",
+        "earnings": 0.0,
+        "rpm": 0.62,
+        "impressions": 32,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-11",
+        "earnings": 0.01,
+        "rpm": 0.89,
+        "impressions": 34,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-12",
+        "earnings": 0.01,
+        "rpm": 2.06,
+        "impressions": 26,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-13",
+        "earnings": 0.01,
+        "rpm": 0.68,
+        "impressions": 32,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-14",
+        "earnings": 0.0,
+        "rpm": 0.96,
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-26",
+        "earnings": 0.0,
+        "rpm": 0.4,
+        "impressions": 29,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-27",
+        "earnings": 0.0,
+        "rpm": 0.06,
+        "impressions": 14,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-28",
+        "earnings": 0.0,
+        "rpm": 0.03,
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "date": "2026-05-31",
+        "earnings": 0.0,
+        "rpm": 0.02,
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-01",
+        "earnings": 0.0,
+        "rpm": 0.54,
+        "impressions": 4,
+        "clicks": 0
       }
     ]
   }
