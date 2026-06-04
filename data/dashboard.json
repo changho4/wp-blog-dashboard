@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-06-03 06:06",
-  "yesterday": "2026-06-02",
+  "updated_at": "2026-06-04 05:59",
+  "yesterday": "2026-06-03",
   "ga4": {
     "yesterday": {
-      "sessions": 5,
-      "users": 4,
-      "pageviews": 12
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260507",
-        "sessions": 5,
-        "users": 5
-      },
       {
         "date": "20260508",
         "sessions": 4,
@@ -77,12 +72,17 @@
         "date": "20260602",
         "sessions": 5,
         "users": 4
+      },
+      {
+        "date": "20260603",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 72,
-      "users": 61,
-      "bounceRate": 30.6
+      "sessions": 68,
+      "users": 57,
+      "bounceRate": 33.8
     },
     "pages": [
       {
@@ -103,22 +103,22 @@
       {
         "title": "브롬톤 2단 6단 장점 단점 - changho world",
         "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
-        "pageviews": 8
+        "pageviews": 7
       },
       {
-        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
-        "path": "/tag/코스모스핌/page/3/",
-        "pageviews": 6
+        "title": "2024 수능 고속성장분석기 구매방법 - changho world",
+        "path": "/2023/11/2024-수능-고속성장분석기-구매방법/",
+        "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 39
+        "sessions": 38
       },
       {
         "device": "mobile",
-        "sessions": 29
+        "sessions": 26
       },
       {
         "device": "tablet",
@@ -128,7 +128,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 65
+        "sessions": 61
       },
       {
         "channel": "Organic Search",
@@ -194,26 +194,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.04,
-      "impressions": 3,
+      "earnings": 0.01,
+      "rpm": 2.42,
+      "impressions": 13,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.06,
-      "rpm": 0.23,
-      "impressions": 257,
-      "clicks": 1
+      "rpm": 0.26,
+      "impressions": 231,
+      "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-05-07",
-        "earnings": 0.01,
-        "rpm": 1.65,
-        "impressions": 39,
-        "clicks": 1
-      },
       {
         "date": "2026-05-08",
         "earnings": 0.01,
@@ -296,6 +289,13 @@
         "earnings": 0.0,
         "rpm": 0.04,
         "impressions": 3,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-03",
+        "earnings": 0.01,
+        "rpm": 2.42,
+        "impressions": 13,
         "clicks": 0
       }
     ]
