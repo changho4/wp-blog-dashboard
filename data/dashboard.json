@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-06-05 05:22",
-  "yesterday": "2026-06-04",
+  "updated_at": "2026-06-06 04:56",
+  "yesterday": "2026-06-05",
   "ga4": {
     "yesterday": {
       "sessions": 3,
-      "users": 3,
-      "pageviews": 7
+      "users": 2,
+      "pageviews": 3
     },
     "trend": [
-      {
-        "date": "20260509",
-        "sessions": 8,
-        "users": 8
-      },
       {
         "date": "20260510",
         "sessions": 3,
@@ -77,23 +72,28 @@
         "date": "20260604",
         "sessions": 3,
         "users": 3
+      },
+      {
+        "date": "20260605",
+        "sessions": 3,
+        "users": 2
       }
     ],
     "summary": {
-      "sessions": 67,
-      "users": 56,
-      "bounceRate": 32.8
+      "sessions": 62,
+      "users": 51,
+      "bounceRate": 37.1
     },
     "pages": [
       {
         "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
         "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 22
+        "pageviews": 19
       },
       {
         "title": "changho world - about what I think, like, enjoy and have",
         "path": "/",
-        "pageviews": 15
+        "pageviews": 12
       },
       {
         "title": "Changho World -",
@@ -101,24 +101,24 @@
         "pageviews": 8
       },
       {
-        "title": "브롬톤 2단 6단 장점 단점 - changho world",
-        "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
-        "pageviews": 7
-      },
-      {
         "title": "2024 수능 고속성장분석기 구매방법 - changho world",
         "path": "/2023/11/2024-수능-고속성장분석기-구매방법/",
+        "pageviews": 4
+      },
+      {
+        "title": "브롬톤 2단 6단 장점 단점 - changho world",
+        "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 36
+        "sessions": 34
       },
       {
         "device": "mobile",
-        "sessions": 27
+        "sessions": 24
       },
       {
         "device": "tablet",
@@ -128,7 +128,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 59
+        "sessions": 55
       },
       {
         "channel": "Organic Search",
@@ -136,7 +136,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 2
+        "sessions": 1
       }
     ]
   },
@@ -194,26 +194,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.38,
-      "impressions": 6,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
-      "earnings": 0.05,
-      "rpm": 0.24,
-      "impressions": 211,
+      "earnings": 0.04,
+      "rpm": 0.21,
+      "impressions": 194,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-05-09",
-        "earnings": 0.01,
-        "rpm": 1.86,
-        "impressions": 17,
-        "clicks": 0
-      },
       {
         "date": "2026-05-10",
         "earnings": 0.0,
