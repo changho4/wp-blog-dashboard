@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-06-06 04:56",
-  "yesterday": "2026-06-05",
+  "updated_at": "2026-06-07 05:25",
+  "yesterday": "2026-06-06",
   "ga4": {
     "yesterday": {
-      "sessions": 3,
-      "users": 2,
-      "pageviews": 3
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260510",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260511",
         "sessions": 5,
@@ -77,23 +72,28 @@
         "date": "20260605",
         "sessions": 3,
         "users": 2
+      },
+      {
+        "date": "20260606",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 62,
-      "users": 51,
-      "bounceRate": 37.1
+      "sessions": 60,
+      "users": 49,
+      "bounceRate": 38.3
     },
     "pages": [
       {
         "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
         "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 19
+        "pageviews": 17
       },
       {
         "title": "changho world - about what I think, like, enjoy and have",
         "path": "/",
-        "pageviews": 12
+        "pageviews": 11
       },
       {
         "title": "Changho World -",
@@ -114,11 +114,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 34
+        "sessions": 35
       },
       {
         "device": "mobile",
-        "sessions": 24
+        "sessions": 21
       },
       {
         "device": "tablet",
@@ -128,7 +128,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 55
+        "sessions": 53
       },
       {
         "channel": "Organic Search",
@@ -189,6 +189,16 @@
         "date": "2026-06-01",
         "clicks": 0,
         "impressions": 0
+      },
+      {
+        "date": "2026-06-02",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-03",
+        "clicks": 0,
+        "impressions": 0
       }
     ]
   },
@@ -202,18 +212,11 @@
     },
     "summary": {
       "earnings": 0.04,
-      "rpm": 0.21,
-      "impressions": 194,
+      "rpm": 0.25,
+      "impressions": 162,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-05-10",
-        "earnings": 0.0,
-        "rpm": 0.62,
-        "impressions": 32,
-        "clicks": 0
-      },
       {
         "date": "2026-05-11",
         "earnings": 0.01,
