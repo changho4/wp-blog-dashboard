@@ -1,5 +1,7 @@
 # yangchangho.com 블로그 대시보드
 
+
+🔗 **대시보드 URL:** https://changho4.github.io/wp-blog-dashboard
 GA4 + Google Search Console 데이터를 GitHub Actions로 매일 자동 수집해서 GitHub Pages로 보여주는 대시보드입니다.
 
 ## 구조
