@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-06-07 05:25",
-  "yesterday": "2026-06-06",
+  "updated_at": "2026-06-08 05:54",
+  "yesterday": "2026-06-07",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20260511",
-        "sessions": 5,
-        "users": 5
-      },
       {
         "date": "20260512",
         "sessions": 7,
@@ -77,18 +72,23 @@
         "date": "20260606",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260607",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 60,
-      "users": 49,
-      "bounceRate": 38.3
+      "sessions": 59,
+      "users": 48,
+      "bounceRate": 45.8
     },
     "pages": [
       {
         "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
         "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 17
+        "pageviews": 15
       },
       {
         "title": "changho world - about what I think, like, enjoy and have",
@@ -98,37 +98,37 @@
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 8
+        "pageviews": 10
       },
       {
-        "title": "2024 수능 고속성장분석기 구매방법 - changho world",
-        "path": "/2023/11/2024-수능-고속성장분석기-구매방법/",
+        "title": "코스모스핌 Archives - Page 2 of 3 - changho world",
+        "path": "/tag/코스모스핌/page/2/",
         "pageviews": 4
       },
       {
-        "title": "브롬톤 2단 6단 장점 단점 - changho world",
-        "path": "/2019/10/브롬톤-2단-6단-장점-단점/",
+        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
+        "path": "/tag/코스모스핌/page/3/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 35
+        "sessions": 36
       },
       {
         "device": "mobile",
-        "sessions": 21
+        "sessions": 20
       },
       {
         "device": "tablet",
-        "sessions": 4
+        "sessions": 3
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 53
+        "sessions": 52
       },
       {
         "channel": "Organic Search",
@@ -149,9 +149,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 0,
+      "impressions": 1,
       "ctr": 0,
-      "position": 0
+      "position": 12
     },
     "queries": [],
     "trend": [
@@ -199,6 +199,16 @@
         "date": "2026-06-03",
         "clicks": 0,
         "impressions": 0
+      },
+      {
+        "date": "2026-06-04",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-05",
+        "clicks": 0,
+        "impressions": 1
       }
     ]
   },
@@ -211,19 +221,12 @@
       "ctr": 0
     },
     "summary": {
-      "earnings": 0.04,
-      "rpm": 0.25,
-      "impressions": 162,
+      "earnings": 0.03,
+      "rpm": 0.23,
+      "impressions": 128,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-05-11",
-        "earnings": 0.01,
-        "rpm": 0.89,
-        "impressions": 34,
-        "clicks": 0
-      },
       {
         "date": "2026-05-12",
         "earnings": 0.01,
