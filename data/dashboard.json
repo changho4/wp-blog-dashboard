@@ -1,28 +1,13 @@
 {
-  "updated_at": "2026-06-08 05:54",
-  "yesterday": "2026-06-07",
+  "updated_at": "2026-06-15 07:17",
+  "yesterday": "2026-06-14",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260512",
-        "sessions": 7,
-        "users": 7
-      },
-      {
-        "date": "20260513",
-        "sessions": 6,
-        "users": 6
-      },
-      {
-        "date": "20260514",
-        "sessions": 10,
-        "users": 7
-      },
       {
         "date": "20260528",
         "sessions": 4,
@@ -77,65 +62,104 @@
         "date": "20260607",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260608",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260609",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260610",
+        "sessions": 5,
+        "users": 5
+      },
+      {
+        "date": "20260611",
+        "sessions": 1,
+        "users": 1
+      },
+      {
+        "date": "20260612",
+        "sessions": 1,
+        "users": 1
+      },
+      {
+        "date": "20260613",
+        "sessions": 1,
+        "users": 1
+      },
+      {
+        "date": "20260614",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 59,
-      "users": 48,
-      "bounceRate": 45.8
+      "sessions": 50,
+      "users": 43,
+      "bounceRate": 66.0
     },
     "pages": [
       {
-        "title": "6단 브롬톤 기어비 - 로드바이크와 비교 - changho world",
-        "path": "/2021/09/6단-브롬톤-기어비-로드바이크와-비교/",
+        "title": "Changho World -",
+        "path": "/",
         "pageviews": 15
       },
       {
-        "title": "changho world - about what I think, like, enjoy and have",
-        "path": "/",
-        "pageviews": 11
+        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
+        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
+        "pageviews": 4
       },
       {
         "title": "Changho World -",
-        "path": "/",
-        "pageviews": 10
-      },
-      {
-        "title": "코스모스핌 Archives - Page 2 of 3 - changho world",
-        "path": "/tag/코스모스핌/page/2/",
+        "path": "/wp/",
         "pageviews": 4
       },
       {
-        "title": "코스모스핌 Archives - Page 3 of 3 - changho world",
-        "path": "/tag/코스모스핌/page/3/",
-        "pageviews": 4
+        "title": "[원두] 페루 게이샤 - Changho World",
+        "path": "/wp/2026/05/28/원두-페루-게이샤/",
+        "pageviews": 3
+      },
+      {
+        "title": "브롬톤과 버디 비교 - Changho World",
+        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "pageviews": 3
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 36
+        "sessions": 31
       },
       {
         "device": "mobile",
-        "sessions": 20
+        "sessions": 17
       },
       {
         "device": "tablet",
-        "sessions": 3
+        "sessions": 2
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 52
+        "sessions": 39
       },
       {
         "channel": "Organic Search",
-        "sessions": 6
+        "sessions": 7
       },
       {
         "channel": "Organic Social",
+        "sessions": 3
+      },
+      {
+        "channel": "Referral",
         "sessions": 1
       }
     ]
@@ -149,9 +173,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 6,
       "ctr": 0,
-      "position": 12
+      "position": 16.7
     },
     "queries": [],
     "trend": [
@@ -209,6 +233,46 @@
         "date": "2026-06-05",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-06-06",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-06-07",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-08",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-09",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-10",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-06-11",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-12",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-06-13",
+        "clicks": 0,
+        "impressions": 1
       }
     ]
   },
@@ -221,33 +285,12 @@
       "ctr": 0
     },
     "summary": {
-      "earnings": 0.03,
-      "rpm": 0.23,
-      "impressions": 128,
+      "earnings": 0.02,
+      "rpm": 0.24,
+      "impressions": 85,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-05-12",
-        "earnings": 0.01,
-        "rpm": 2.06,
-        "impressions": 26,
-        "clicks": 0
-      },
-      {
-        "date": "2026-05-13",
-        "earnings": 0.01,
-        "rpm": 0.68,
-        "impressions": 32,
-        "clicks": 0
-      },
-      {
-        "date": "2026-05-14",
-        "earnings": 0.0,
-        "rpm": 0.96,
-        "impressions": 2,
-        "clicks": 0
-      },
       {
         "date": "2026-05-26",
         "earnings": 0.0,
@@ -295,6 +338,34 @@
         "earnings": 0.0,
         "rpm": 0.38,
         "impressions": 6,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-08",
+        "earnings": 0.0,
+        "rpm": 0.38,
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-09",
+        "earnings": 0.0,
+        "rpm": 0.28,
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-10",
+        "earnings": 0.01,
+        "rpm": 3.15,
+        "impressions": 7,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-12",
+        "earnings": 0.0,
+        "rpm": 0.03,
+        "impressions": 1,
         "clicks": 0
       }
     ]
