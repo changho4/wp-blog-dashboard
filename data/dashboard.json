@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-15 07:17",
-  "yesterday": "2026-06-14",
+  "updated_at": "2026-06-16 06:35",
+  "yesterday": "2026-06-15",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 0,
+      "users": 0,
+      "pageviews": 0
     },
     "trend": [
       {
@@ -173,9 +173,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 16.7
+      "position": 15.6
     },
     "queries": [],
     "trend": [
@@ -271,6 +271,11 @@
       },
       {
         "date": "2026-06-13",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-06-14",
         "clicks": 0,
         "impressions": 1
       }
