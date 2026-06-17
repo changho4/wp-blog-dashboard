@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-16 06:35",
-  "yesterday": "2026-06-15",
+  "updated_at": "2026-06-17 06:18",
+  "yesterday": "2026-06-16",
   "ga4": {
     "yesterday": {
-      "sessions": 0,
-      "users": 0,
-      "pageviews": 0
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
       {
@@ -97,12 +97,17 @@
         "date": "20260614",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260616",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 50,
-      "users": 43,
-      "bounceRate": 66.0
+      "sessions": 51,
+      "users": 44,
+      "bounceRate": 66.7
     },
     "pages": [
       {
@@ -134,7 +139,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 31
+        "sessions": 32
       },
       {
         "device": "mobile",
@@ -148,7 +153,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 39
+        "sessions": 40
       },
       {
         "channel": "Organic Search",
@@ -173,9 +178,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 15.6
+      "position": 15
     },
     "queries": [],
     "trend": [
@@ -278,21 +283,26 @@
         "date": "2026-06-14",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-06-15",
+        "clicks": 0,
+        "impressions": 1
       }
     ]
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.02,
+      "impressions": 4,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.24,
-      "impressions": 85,
+      "rpm": 0.22,
+      "impressions": 89,
       "clicks": 0
     },
     "trend": [
@@ -371,6 +381,13 @@
         "earnings": 0.0,
         "rpm": 0.03,
         "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "date": "2026-06-16",
+        "earnings": 0.0,
+        "rpm": 0.02,
+        "impressions": 4,
         "clicks": 0
       }
     ]
