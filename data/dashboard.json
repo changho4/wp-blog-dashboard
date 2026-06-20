@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-19 06:23",
-  "yesterday": "2026-06-18",
+  "updated_at": "2026-06-20 05:19",
+  "yesterday": "2026-06-19",
   "ga4": {
     "yesterday": {
-      "sessions": 8,
-      "users": 8,
-      "pageviews": 8
+      "sessions": 15,
+      "users": 15,
+      "pageviews": 15
     },
     "trend": [
       {
@@ -112,12 +112,17 @@
         "date": "20260618",
         "sessions": 8,
         "users": 8
+      },
+      {
+        "date": "20260619",
+        "sessions": 15,
+        "users": 15
       }
     ],
     "summary": {
-      "sessions": 65,
-      "users": 58,
-      "bounceRate": 73.8
+      "sessions": 80,
+      "users": 73,
+      "bounceRate": 78.8
     },
     "pages": [
       {
@@ -128,7 +133,7 @@
       {
         "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
         "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 5
+        "pageviews": 6
       },
       {
         "title": "Changho World -",
@@ -136,20 +141,20 @@
         "pageviews": 5
       },
       {
-        "title": "[원두] 페루 게이샤 - Changho World",
-        "path": "/wp/2026/05/28/원두-페루-게이샤/",
-        "pageviews": 3
-      },
-      {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "pageviews": 4
+      },
+      {
+        "title": "[원두] 페루 게이샤 - Changho World",
+        "path": "/wp/2026/05/28/원두-페루-게이샤/",
         "pageviews": 3
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 46
+        "sessions": 61
       },
       {
         "device": "mobile",
@@ -163,7 +168,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 52
+        "sessions": 67
       },
       {
         "channel": "Organic Search",
@@ -301,6 +306,16 @@
       },
       {
         "date": "2026-06-16",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-17",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-06-18",
         "clicks": 0,
         "impressions": 0
       }
