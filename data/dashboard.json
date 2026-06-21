@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-20 05:19",
-  "yesterday": "2026-06-19",
+  "updated_at": "2026-06-21 06:07",
+  "yesterday": "2026-06-20",
   "ga4": {
     "yesterday": {
-      "sessions": 15,
-      "users": 15,
-      "pageviews": 15
+      "sessions": 17,
+      "users": 17,
+      "pageviews": 17
     },
     "trend": [
       {
@@ -115,20 +115,25 @@
       },
       {
         "date": "20260619",
-        "sessions": 15,
-        "users": 15
+        "sessions": 13,
+        "users": 13
+      },
+      {
+        "date": "20260620",
+        "sessions": 17,
+        "users": 17
       }
     ],
     "summary": {
-      "sessions": 80,
-      "users": 73,
-      "bounceRate": 78.8
+      "sessions": 95,
+      "users": 88,
+      "bounceRate": 81.1
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 15
+        "pageviews": 17
       },
       {
         "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
@@ -143,18 +148,18 @@
       {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 4
+        "pageviews": 5
       },
       {
         "title": "[원두] 페루 게이샤 - Changho World",
         "path": "/wp/2026/05/28/원두-페루-게이샤/",
-        "pageviews": 3
+        "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 61
+        "sessions": 76
       },
       {
         "device": "mobile",
@@ -168,11 +173,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 67
+        "sessions": 81
       },
       {
         "channel": "Organic Search",
-        "sessions": 9
+        "sessions": 10
       },
       {
         "channel": "Organic Social",
@@ -193,9 +198,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 15
+      "position": 14.3
     },
     "queries": [],
     "trend": [
@@ -318,6 +323,11 @@
         "date": "2026-06-18",
         "clicks": 0,
         "impressions": 0
+      },
+      {
+        "date": "2026-06-19",
+        "clicks": 0,
+        "impressions": 1
       }
     ]
   },
