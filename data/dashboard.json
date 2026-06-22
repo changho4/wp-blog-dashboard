@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-21 06:07",
-  "yesterday": "2026-06-20",
+  "updated_at": "2026-06-22 06:31",
+  "yesterday": "2026-06-21",
   "ga4": {
     "yesterday": {
-      "sessions": 17,
-      "users": 17,
-      "pageviews": 17
+      "sessions": 19,
+      "users": 19,
+      "pageviews": 19
     },
     "trend": [
       {
@@ -122,32 +122,37 @@
         "date": "20260620",
         "sessions": 17,
         "users": 17
+      },
+      {
+        "date": "20260621",
+        "sessions": 19,
+        "users": 19
       }
     ],
     "summary": {
-      "sessions": 95,
-      "users": 88,
-      "bounceRate": 81.1
+      "sessions": 114,
+      "users": 107,
+      "bounceRate": 84.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 17
+        "pageviews": 20
       },
       {
         "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
         "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
+        "pageviews": 7
+      },
+      {
+        "title": "브롬톤과 버디 비교 - Changho World",
+        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
         "pageviews": 6
       },
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 5
-      },
-      {
-        "title": "브롬톤과 버디 비교 - Changho World",
-        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
         "pageviews": 5
       },
       {
@@ -159,11 +164,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 76
+        "sessions": 93
       },
       {
         "device": "mobile",
-        "sessions": 17
+        "sessions": 19
       },
       {
         "device": "tablet",
@@ -173,7 +178,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 81
+        "sessions": 100
       },
       {
         "channel": "Organic Search",
@@ -198,9 +203,9 @@
     },
     "summary": {
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 14.3
+      "position": 13.8
     },
     "queries": [],
     "trend": [
@@ -326,6 +331,11 @@
       },
       {
         "date": "2026-06-19",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-06-20",
         "clicks": 0,
         "impressions": 1
       }
