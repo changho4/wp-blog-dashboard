@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-06-30 05:39",
-  "yesterday": "2026-06-29",
+  "updated_at": "2026-07-01 05:25",
+  "yesterday": "2026-06-30",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
+      "sessions": 2,
       "users": 1,
-      "pageviews": 1
+      "pageviews": 7
     },
     "trend": [
-      {
-        "date": "20260603",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260604",
         "sessions": 3,
@@ -132,18 +127,23 @@
         "date": "20260629",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260630",
+        "sessions": 2,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 224,
-      "users": 223,
-      "bounceRate": 94.2
+      "sessions": 225,
+      "users": 222,
+      "bounceRate": 93.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 20
+        "pageviews": 22
       },
       {
         "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
@@ -151,29 +151,29 @@
         "pageviews": 9
       },
       {
+        "title": "Changho World -",
+        "path": "/wp/",
+        "pageviews": 6
+      },
+      {
+        "title": "[원두] 페루 게이샤 - Changho World",
+        "path": "/wp/2026/05/28/원두-페루-게이샤/",
+        "pageviews": 6
+      },
+      {
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
         "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
         "pageviews": 5
-      },
-      {
-        "title": "2021 레인보우테이블 (원점수별 등급, 표점, 백분위) - Changho World",
-        "path": "/wp/2020/12/22/2021-레인보우테이블-원점수별-등급-표점-백분위/",
-        "pageviews": 4
-      },
-      {
-        "title": "Changho World -",
-        "path": "/wp/",
-        "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 205
+        "sessions": 207
       },
       {
         "device": "mobile",
-        "sessions": 18
+        "sessions": 17
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 211
+        "sessions": 212
       },
       {
         "channel": "Organic Search",
@@ -208,8 +208,8 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 216,
-      "ctr": 0.46,
+      "impressions": 220,
+      "ctr": 0.45,
       "position": 9.9
     },
     "queries": [
@@ -230,7 +230,7 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 103,
+        "impressions": 104,
         "ctr": 0,
         "position": 9.4
       },
@@ -243,11 +243,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-06-03",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-06-04",
         "clicks": 0,
@@ -367,6 +362,16 @@
         "date": "2026-06-27",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-06-28",
+        "clicks": 0,
+        "impressions": 4
+      },
+      {
+        "date": "2026-06-29",
+        "clicks": 0,
+        "impressions": 6
       }
     ]
   },
@@ -379,19 +384,12 @@
       "ctr": 0
     },
     "summary": {
-      "earnings": 0.05,
-      "rpm": 0.67,
-      "impressions": 75,
+      "earnings": 0.04,
+      "rpm": 0.65,
+      "impressions": 62,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-06-03",
-        "earnings": 0.01,
-        "rpm": 2.42,
-        "impressions": 13,
-        "clicks": 0
-      },
       {
         "date": "2026-06-04",
         "earnings": 0.0,
