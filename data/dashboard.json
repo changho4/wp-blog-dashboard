@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-07-01 05:25",
-  "yesterday": "2026-06-30",
+  "updated_at": "2026-07-02 05:00",
+  "yesterday": "2026-07-01",
   "ga4": {
     "yesterday": {
-      "sessions": 2,
+      "sessions": 1,
       "users": 1,
-      "pageviews": 7
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260604",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260605",
         "sessions": 3,
@@ -132,12 +127,17 @@
         "date": "20260630",
         "sessions": 2,
         "users": 1
+      },
+      {
+        "date": "20260701",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 225,
-      "users": 222,
-      "bounceRate": 93.8
+      "sessions": 223,
+      "users": 221,
+      "bounceRate": 95.1
     },
     "pages": [
       {
@@ -148,12 +148,7 @@
       {
         "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
         "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 9
-      },
-      {
-        "title": "Changho World -",
-        "path": "/wp/",
-        "pageviews": 6
+        "pageviews": 8
       },
       {
         "title": "[원두] 페루 게이샤 - Changho World",
@@ -164,16 +159,21 @@
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
         "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
         "pageviews": 5
+      },
+      {
+        "title": "Changho World -",
+        "path": "/wp/",
+        "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 207
+        "sessions": 206
       },
       {
         "device": "mobile",
-        "sessions": 17
+        "sessions": 16
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 212
+        "sessions": 210
       },
       {
         "channel": "Organic Search",
@@ -208,8 +208,8 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 220,
-      "ctr": 0.45,
+      "impressions": 209,
+      "ctr": 0.48,
       "position": 9.9
     },
     "queries": [
@@ -230,7 +230,7 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 104,
+        "impressions": 99,
         "ctr": 0,
         "position": 9.4
       },
@@ -243,11 +243,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-06-04",
-        "clicks": 0,
-        "impressions": 11
-      },
       {
         "date": "2026-06-05",
         "clicks": 0,
@@ -377,26 +372,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.02,
+      "rpm": 8.73,
+      "impressions": 6,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.04,
-      "rpm": 0.65,
+      "earnings": 0.06,
+      "rpm": 0.97,
       "impressions": 62,
       "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-06-04",
-        "earnings": 0.0,
-        "rpm": 0.38,
-        "impressions": 6,
-        "clicks": 0
-      },
       {
         "date": "2026-06-08",
         "earnings": 0.0,
@@ -465,6 +453,13 @@
         "earnings": 0.01,
         "rpm": 2.63,
         "impressions": 13,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-01",
+        "earnings": 0.02,
+        "rpm": 8.73,
+        "impressions": 6,
         "clicks": 0
       }
     ]
