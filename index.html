@@ -129,6 +129,13 @@
         <table><thead><tr><th>페이지</th><th>뷰</th></tr></thead><tbody id="pageBody"></tbody></table>
       </div>
     </div>
+
+    <div class="chart-row">
+      <div class="card" style="grid-column: 1 / -1;">
+        <p class="card-title" id="yesterdayPagesTitle">어제 노출된 콘텐츠</p>
+        <table><thead><tr><th>페이지</th><th>클릭</th><th>노출</th><th>CTR</th><th>순위</th></tr></thead><tbody id="yesterdayPageBody"></tbody></table>
+      </div>
+    </div>
   </div>
   <div id="error" class="error" style="display:none;"></div>
 </div>
@@ -250,6 +257,22 @@ function render(d) {
     tr.innerHTML = '<td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="'+p.path+'">'+p.title+'</td><td>'+fmt(p.pageviews)+'</td>';
     pBody.appendChild(tr);
   });
+
+  // 어제 노출된 콘텐츠
+  document.getElementById('yesterdayPagesTitle').textContent = '어제 노출된 콘텐츠' + (d.yesterday ? ' (' + d.yesterday + ')' : '');
+  const ypBody = document.getElementById('yesterdayPageBody');
+  const yPages = (d.gsc && d.gsc.yesterday_pages) || [];
+  if (yPages.length === 0) {
+    ypBody.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--muted);">어제 노출된 콘텐츠가 없습니다</td></tr>';
+  } else {
+    yPages.forEach(p => {
+      let shortPath = p.page;
+      try { shortPath = new URL(p.page).pathname; } catch(e) {}
+      const tr = document.createElement('tr');
+      tr.innerHTML = '<td style="max-width:340px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="'+p.page+'">'+shortPath+'</td><td>'+fmt(p.clicks)+'</td><td>'+fmt(p.impressions)+'</td><td>'+p.ctr+'%</td><td>'+p.position+'</td>';
+      ypBody.appendChild(tr);
+    });
+  }
 }
 init();
 </script>
