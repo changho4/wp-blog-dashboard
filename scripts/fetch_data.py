@@ -182,7 +182,30 @@ def fetch_gsc(creds, dates):
         for r in trend_res.get("rows", [])
     ]
 
-    return {"yesterday": yesterday_summary, "summary": summary, "queries": queries, "trend": trend}
+    # 어제 노출된 콘텐츠 (페이지별)
+    yesterday_pages_res = service.searchanalytics().query(
+        siteUrl=GSC_SITE_URL,
+        body={"startDate": dates["yesterday"], "endDate": dates["yesterday"], "dimensions": ["page"], "rowLimit": 25}
+    ).execute()
+    yesterday_pages = [
+        {
+            "page": r["keys"][0],
+            "clicks": int(r.get("clicks", 0)),
+            "impressions": int(r.get("impressions", 0)),
+            "ctr": round(r.get("ctr", 0) * 100, 2),
+            "position": round(r.get("position", 0), 1),
+        }
+        for r in yesterday_pages_res.get("rows", [])
+    ]
+    yesterday_pages.sort(key=lambda x: x["impressions"], reverse=True)
+
+    return {
+        "yesterday": yesterday_summary,
+        "summary": summary,
+        "queries": queries,
+        "trend": trend,
+        "yesterday_pages": yesterday_pages,
+    }
 
 
 def fetch_adsense(creds, dates):
