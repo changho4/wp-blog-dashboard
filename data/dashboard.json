@@ -1,193 +1,196 @@
 {
-  "updated_at": "2026-07-07 04:56",
-  "yesterday": "2026-07-06",
+  "updated_at": "2026-08-10 06:44",
+  "yesterday": "2026-08-09",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
       {
-        "date": "20260610",
-        "sessions": 5,
-        "users": 5
+        "date": "20260714",
+        "sessions": 3,
+        "users": 2
       },
       {
-        "date": "20260611",
+        "date": "20260715",
         "sessions": 1,
         "users": 1
       },
       {
-        "date": "20260612",
+        "date": "20260716",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260717",
         "sessions": 1,
         "users": 1
       },
       {
-        "date": "20260613",
+        "date": "20260719",
         "sessions": 1,
         "users": 1
       },
       {
-        "date": "20260614",
-        "sessions": 1,
-        "users": 1
+        "date": "20260720",
+        "sessions": 3,
+        "users": 3
       },
       {
-        "date": "20260616",
-        "sessions": 1,
-        "users": 1
-      },
-      {
-        "date": "20260617",
-        "sessions": 6,
-        "users": 6
-      },
-      {
-        "date": "20260618",
-        "sessions": 8,
-        "users": 8
-      },
-      {
-        "date": "20260619",
-        "sessions": 13,
-        "users": 13
-      },
-      {
-        "date": "20260620",
-        "sessions": 17,
-        "users": 17
-      },
-      {
-        "date": "20260621",
-        "sessions": 19,
-        "users": 19
-      },
-      {
-        "date": "20260622",
-        "sessions": 26,
-        "users": 26
-      },
-      {
-        "date": "20260623",
-        "sessions": 33,
-        "users": 33
-      },
-      {
-        "date": "20260624",
-        "sessions": 42,
-        "users": 42
-      },
-      {
-        "date": "20260625",
-        "sessions": 26,
-        "users": 26
-      },
-      {
-        "date": "20260626",
+        "date": "20260721",
         "sessions": 2,
         "users": 2
       },
       {
-        "date": "20260628",
+        "date": "20260722",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260723",
+        "sessions": 5,
+        "users": 4
+      },
+      {
+        "date": "20260724",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260725",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260726",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260727",
+        "sessions": 4,
+        "users": 2
+      },
+      {
+        "date": "20260730",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260731",
         "sessions": 4,
         "users": 4
       },
       {
-        "date": "20260629",
-        "sessions": 1,
-        "users": 1
-      },
-      {
-        "date": "20260630",
+        "date": "20260801",
         "sessions": 2,
-        "users": 1
+        "users": 2
       },
       {
-        "date": "20260701",
-        "sessions": 1,
-        "users": 1
+        "date": "20260802",
+        "sessions": 2,
+        "users": 2
       },
       {
-        "date": "20260702",
+        "date": "20260803",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "date": "20260804",
+        "sessions": 5,
+        "users": 3
+      },
+      {
+        "date": "20260805",
+        "sessions": 3,
+        "users": 3
+      },
+      {
+        "date": "20260806",
         "sessions": 3,
         "users": 2
       },
       {
-        "date": "20260703",
+        "date": "20260807",
+        "sessions": 4,
+        "users": 4
+      },
+      {
+        "date": "20260808",
         "sessions": 3,
         "users": 3
       },
       {
-        "date": "20260704",
-        "sessions": 3,
-        "users": 3
-      },
-      {
-        "date": "20260705",
-        "sessions": 1,
-        "users": 1
-      },
-      {
-        "date": "20260706",
-        "sessions": 1,
-        "users": 1
+        "date": "20260809",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 221,
-      "users": 219,
-      "bounceRate": 96.4
+      "sessions": 67,
+      "users": 56,
+      "bounceRate": 56.7
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 19
+        "pageviews": 32
       },
       {
-        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
-        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
+        "title": "Changho World -",
+        "path": "/wp/",
+        "pageviews": 10
+      },
+      {
+        "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
+        "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
+        "pageviews": 9
+      },
+      {
+        "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
+        "path": "/wp/elementor-페이지-1792/",
+        "pageviews": 7
+      },
+      {
+        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니 - Changho World",
+        "path": "/wp/2026/07/08/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 6
-      },
-      {
-        "title": "[원두] 페루 게이샤 - Changho World",
-        "path": "/wp/2026/05/28/원두-페루-게이샤/",
-        "pageviews": 6
-      },
-      {
-        "title": "2022 고속성장분석기 구하는 법 - Changho World",
-        "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
-        "pageviews": 5
-      },
-      {
-        "title": "브롬톤과 버디 비교 - Changho World",
-        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 208
+        "sessions": 37
       },
       {
         "device": "mobile",
-        "sessions": 13
+        "sessions": 30
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 209
+        "sessions": 40
       },
       {
         "channel": "Organic Search",
-        "sessions": 6
+        "sessions": 18
       },
       {
         "channel": "Organic Social",
-        "sessions": 6
+        "sessions": 7
+      },
+      {
+        "channel": "Referral",
+        "sessions": 1
+      },
+      {
+        "channel": "Unassigned",
+        "sessions": 1
       }
     ]
   },
@@ -199,178 +202,150 @@
       "position": 0
     },
     "summary": {
-      "clicks": 1,
-      "impressions": 144,
-      "ctr": 0.69,
-      "position": 10.4
+      "clicks": 4,
+      "impressions": 59,
+      "ctr": 6.78,
+      "position": 8.5
     },
     "queries": [
       {
-        "query": "고속성장분석기",
-        "clicks": 0,
-        "impressions": 2,
-        "ctr": 0,
-        "position": 30.5
-      },
-      {
-        "query": "고속성장분석기 사용법",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 16
-      },
-      {
-        "query": "임베드",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 8
-      },
-      {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 53,
+        "impressions": 19,
         "ctr": 0,
-        "position": 8.8
-      },
-      {
-        "query": "파파안달부루스 고속성장분석기",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 16
+        "position": 10.3
       }
     ],
     "trend": [
       {
-        "date": "2026-06-10",
+        "date": "2026-07-14",
+        "clicks": 0,
+        "impressions": 4
+      },
+      {
+        "date": "2026-07-15",
+        "clicks": 1,
+        "impressions": 3
+      },
+      {
+        "date": "2026-07-16",
+        "clicks": 0,
+        "impressions": 6
+      },
+      {
+        "date": "2026-07-17",
+        "clicks": 0,
+        "impressions": 5
+      },
+      {
+        "date": "2026-07-18",
+        "clicks": 0,
+        "impressions": 3
+      },
+      {
+        "date": "2026-07-19",
         "clicks": 1,
         "impressions": 7
       },
       {
-        "date": "2026-06-11",
-        "clicks": 0,
-        "impressions": 4
-      },
-      {
-        "date": "2026-06-12",
-        "clicks": 0,
-        "impressions": 9
-      },
-      {
-        "date": "2026-06-13",
-        "clicks": 0,
-        "impressions": 7
-      },
-      {
-        "date": "2026-06-14",
-        "clicks": 0,
-        "impressions": 12
-      },
-      {
-        "date": "2026-06-15",
-        "clicks": 0,
-        "impressions": 7
-      },
-      {
-        "date": "2026-06-16",
-        "clicks": 0,
-        "impressions": 3
-      },
-      {
-        "date": "2026-06-17",
-        "clicks": 0,
-        "impressions": 6
-      },
-      {
-        "date": "2026-06-18",
-        "clicks": 0,
-        "impressions": 0
-      },
-      {
-        "date": "2026-06-19",
+        "date": "2026-07-20",
         "clicks": 0,
         "impressions": 1
       },
       {
-        "date": "2026-06-20",
-        "clicks": 0,
-        "impressions": 3
-      },
-      {
-        "date": "2026-06-21",
+        "date": "2026-07-21",
         "clicks": 0,
         "impressions": 0
       },
       {
-        "date": "2026-06-22",
-        "clicks": 0,
-        "impressions": 5
+        "date": "2026-07-22",
+        "clicks": 1,
+        "impressions": 3
       },
       {
-        "date": "2026-06-23",
-        "clicks": 0,
-        "impressions": 4
-      },
-      {
-        "date": "2026-06-24",
-        "clicks": 0,
-        "impressions": 4
-      },
-      {
-        "date": "2026-06-25",
-        "clicks": 0,
-        "impressions": 8
-      },
-      {
-        "date": "2026-06-26",
-        "clicks": 0,
-        "impressions": 4
-      },
-      {
-        "date": "2026-06-27",
-        "clicks": 0,
-        "impressions": 6
-      },
-      {
-        "date": "2026-06-28",
-        "clicks": 0,
-        "impressions": 4
-      },
-      {
-        "date": "2026-06-29",
-        "clicks": 0,
-        "impressions": 6
-      },
-      {
-        "date": "2026-06-30",
-        "clicks": 0,
-        "impressions": 10
-      },
-      {
-        "date": "2026-07-01",
-        "clicks": 0,
-        "impressions": 11
-      },
-      {
-        "date": "2026-07-02",
-        "clicks": 0,
-        "impressions": 10
-      },
-      {
-        "date": "2026-07-03",
-        "clicks": 0,
-        "impressions": 5
-      },
-      {
-        "date": "2026-07-04",
+        "date": "2026-07-23",
         "clicks": 0,
         "impressions": 1
       },
       {
-        "date": "2026-07-05",
+        "date": "2026-07-24",
         "clicks": 0,
+        "impressions": 4
+      },
+      {
+        "date": "2026-07-25",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-07-26",
+        "clicks": 0,
+        "impressions": 3
+      },
+      {
+        "date": "2026-07-27",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-07-28",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-07-29",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-07-30",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-07-31",
+        "clicks": 1,
         "impressions": 7
+      },
+      {
+        "date": "2026-08-01",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-08-02",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-08-03",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-08-04",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-08-05",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-08-06",
+        "clicks": 0,
+        "impressions": 1
+      },
+      {
+        "date": "2026-08-07",
+        "clicks": 0,
+        "impressions": 0
+      },
+      {
+        "date": "2026-08-08",
+        "clicks": 0,
+        "impressions": 2
       }
     ],
     "yesterday_pages": []
@@ -384,87 +359,136 @@
       "ctr": 0
     },
     "summary": {
-      "earnings": 0.06,
-      "rpm": 1.05,
-      "impressions": 57,
-      "clicks": 0
+      "earnings": 0.02,
+      "rpm": 0.04,
+      "impressions": 453,
+      "clicks": 10
     },
     "trend": [
       {
-        "date": "2026-06-10",
-        "earnings": 0.01,
-        "rpm": 3.15,
-        "impressions": 7,
+        "date": "2026-07-15",
+        "earnings": 0.0,
+        "rpm": 0.87,
+        "impressions": 15,
+        "clicks": 1
+      },
+      {
+        "date": "2026-07-16",
+        "earnings": 0.0,
+        "rpm": 0.14,
+        "impressions": 5,
         "clicks": 0
       },
       {
-        "date": "2026-06-12",
+        "date": "2026-07-19",
+        "earnings": 0.01,
+        "rpm": 0.61,
+        "impressions": 23,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-20",
         "earnings": 0.0,
-        "rpm": 0.03,
+        "rpm": 0.51,
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-21",
+        "earnings": 0.0,
+        "rpm": 1.01,
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-22",
+        "earnings": 0.0,
+        "rpm": 0.54,
+        "impressions": 14,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-23",
+        "earnings": 0.0,
+        "rpm": 0.74,
+        "impressions": 13,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-24",
+        "earnings": 0.0,
+        "rpm": 1.15,
+        "impressions": 3,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-25",
+        "earnings": 0.0,
+        "rpm": 0.61,
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-29",
+        "earnings": 0.0,
+        "rpm": 0.61,
+        "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "date": "2026-07-30",
+        "earnings": 0.0,
+        "rpm": 0.05,
         "impressions": 1,
         "clicks": 0
       },
       {
-        "date": "2026-06-16",
+        "date": "2026-07-31",
+        "earnings": 0.0,
+        "rpm": 0.11,
+        "impressions": 3,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-01",
+        "earnings": 0.0,
+        "rpm": 0.01,
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-02",
+        "earnings": 0.0,
+        "rpm": 0.47,
+        "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-03",
+        "earnings": 0.01,
+        "rpm": 0.21,
+        "impressions": 322,
+        "clicks": 9
+      },
+      {
+        "date": "2026-08-05",
+        "earnings": 0.0,
+        "rpm": 0.16,
+        "impressions": 8,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-06",
         "earnings": 0.0,
         "rpm": 0.02,
         "impressions": 4,
         "clicks": 0
       },
       {
-        "date": "2026-06-17",
+        "date": "2026-08-08",
         "earnings": 0.0,
-        "rpm": 0.13,
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "date": "2026-06-22",
-        "earnings": 0.0,
-        "rpm": 0.0,
-        "impressions": 1,
-        "clicks": 0
-      },
-      {
-        "date": "2026-06-23",
-        "earnings": 0.02,
-        "rpm": 0.44,
-        "impressions": 10,
-        "clicks": 0
-      },
-      {
-        "date": "2026-06-26",
-        "earnings": 0.0,
-        "rpm": 1.41,
-        "impressions": 5,
-        "clicks": 0
-      },
-      {
-        "date": "2026-06-27",
-        "earnings": 0.01,
-        "rpm": 2.63,
-        "impressions": 13,
-        "clicks": 0
-      },
-      {
-        "date": "2026-07-01",
-        "earnings": 0.02,
-        "rpm": 8.73,
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "date": "2026-07-03",
-        "earnings": 0.0,
-        "rpm": 0.18,
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "date": "2026-07-05",
-        "earnings": 0.0,
-        "rpm": 0.1,
-        "impressions": 2,
+        "rpm": 0.24,
+        "impressions": 8,
         "clicks": 0
       }
     ]
