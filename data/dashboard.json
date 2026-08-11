@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-10 06:44",
-  "yesterday": "2026-08-09",
+  "updated_at": "2026-08-11 03:05",
+  "yesterday": "2026-08-10",
   "ga4": {
     "yesterday": {
       "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "users": 3,
+      "pageviews": 11
     },
     "trend": [
-      {
-        "date": "20260714",
-        "sessions": 3,
-        "users": 2
-      },
       {
         "date": "20260715",
         "sessions": 1,
@@ -127,28 +122,33 @@
         "date": "20260809",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260810",
+        "sessions": 4,
+        "users": 3
       }
     ],
     "summary": {
-      "sessions": 67,
-      "users": 56,
-      "bounceRate": 56.7
+      "sessions": 68,
+      "users": 57,
+      "bounceRate": 54.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 32
-      },
-      {
-        "title": "Changho World -",
-        "path": "/wp/",
-        "pageviews": 10
+        "pageviews": 33
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
         "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
-        "pageviews": 9
+        "pageviews": 11
+      },
+      {
+        "title": "Changho World -",
+        "path": "/wp/",
+        "pageviews": 8
       },
       {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
@@ -158,13 +158,13 @@
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니 - Changho World",
         "path": "/wp/2026/07/08/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 6
+        "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 37
+        "sessions": 38
       },
       {
         "device": "mobile",
@@ -174,7 +174,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 40
+        "sessions": 41
       },
       {
         "channel": "Organic Search",
@@ -203,25 +203,20 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 59,
-      "ctr": 6.78,
-      "position": 8.5
+      "impressions": 55,
+      "ctr": 7.27,
+      "position": 8.7
     },
     "queries": [
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 19,
+        "impressions": 18,
         "ctr": 0,
-        "position": 10.3
+        "position": 10.6
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-14",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-07-15",
         "clicks": 1,
