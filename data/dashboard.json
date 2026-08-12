@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-11 03:05",
-  "yesterday": "2026-08-10",
+  "updated_at": "2026-08-12 03:24",
+  "yesterday": "2026-08-11",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 3,
-      "pageviews": 11
+      "sessions": 6,
+      "users": 5,
+      "pageviews": 10
     },
     "trend": [
-      {
-        "date": "20260715",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260716",
         "sessions": 3,
@@ -127,18 +122,23 @@
         "date": "20260810",
         "sessions": 4,
         "users": 3
+      },
+      {
+        "date": "20260811",
+        "sessions": 6,
+        "users": 5
       }
     ],
     "summary": {
-      "sessions": 68,
-      "users": 57,
-      "bounceRate": 54.4
+      "sessions": 73,
+      "users": 60,
+      "bounceRate": 54.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 33
+        "pageviews": 34
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -148,7 +148,7 @@
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 8
+        "pageviews": 10
       },
       {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
@@ -156,29 +156,29 @@
         "pageviews": 7
       },
       {
-        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니 - Changho World",
-        "path": "/wp/2026/07/08/원두-코스타리카-에르바수-비야-사르치-허니/",
+        "title": "2020년용 코스모스핌 고속성장분석기 - Changho World",
+        "path": "/wp/2019/11/18/2020년용-코스모스핌-고속성장분석기/",
         "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 38
+        "sessions": 42
       },
       {
         "device": "mobile",
-        "sessions": 30
+        "sessions": 31
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 41
+        "sessions": 46
       },
       {
         "channel": "Organic Search",
-        "sessions": 18
+        "sessions": 17
       },
       {
         "channel": "Organic Social",
@@ -186,7 +186,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 1
+        "sessions": 2
       },
       {
         "channel": "Unassigned",
@@ -202,26 +202,21 @@
       "position": 0
     },
     "summary": {
-      "clicks": 4,
-      "impressions": 55,
-      "ctr": 7.27,
-      "position": 8.7
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 5.77,
+      "position": 8.8
     },
     "queries": [
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 18,
+        "impressions": 17,
         "ctr": 0,
-        "position": 10.6
+        "position": 10.8
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-15",
-        "clicks": 1,
-        "impressions": 3
-      },
       {
         "date": "2026-07-16",
         "clicks": 0,
@@ -341,32 +336,30 @@
         "date": "2026-08-08",
         "clicks": 0,
         "impressions": 2
+      },
+      {
+        "date": "2026-08-09",
+        "clicks": 0,
+        "impressions": 0
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.26,
+      "impressions": 4,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.04,
-      "impressions": 453,
-      "clicks": 10
+      "rpm": 0.05,
+      "impressions": 442,
+      "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-15",
-        "earnings": 0.0,
-        "rpm": 0.87,
-        "impressions": 15,
-        "clicks": 1
-      },
       {
         "date": "2026-07-16",
         "earnings": 0.0,
@@ -484,6 +477,13 @@
         "earnings": 0.0,
         "rpm": 0.24,
         "impressions": 8,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-11",
+        "earnings": 0.0,
+        "rpm": 0.26,
+        "impressions": 4,
         "clicks": 0
       }
     ]
