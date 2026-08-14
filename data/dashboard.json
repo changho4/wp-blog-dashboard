@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-13 03:27",
-  "yesterday": "2026-08-12",
+  "updated_at": "2026-08-14 03:25",
+  "yesterday": "2026-08-13",
   "ga4": {
     "yesterday": {
       "sessions": 7,
-      "users": 7,
-      "pageviews": 9
+      "users": 4,
+      "pageviews": 11
     },
     "trend": [
-      {
-        "date": "20260717",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260719",
         "sessions": 1,
@@ -127,12 +122,17 @@
         "date": "20260812",
         "sessions": 7,
         "users": 7
+      },
+      {
+        "date": "20260813",
+        "sessions": 7,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 77,
-      "users": 63,
-      "bounceRate": 54.5
+      "sessions": 83,
+      "users": 64,
+      "bounceRate": 54.2
     },
     "pages": [
       {
@@ -141,14 +141,14 @@
         "pageviews": 37
       },
       {
+        "title": "Changho World -",
+        "path": "/wp/",
+        "pageviews": 14
+      },
+      {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
         "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
         "pageviews": 11
-      },
-      {
-        "title": "Changho World -",
-        "path": "/wp/",
-        "pageviews": 10
       },
       {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
@@ -164,7 +164,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 42
+        "sessions": 47
       },
       {
         "device": "mobile",
@@ -172,13 +172,13 @@
       },
       {
         "device": "tablet",
-        "sessions": 1
+        "sessions": 2
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 50
+        "sessions": 56
       },
       {
         "channel": "Organic Search",
@@ -207,24 +207,24 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 159,
-      "ctr": 2.52,
-      "position": 11.1
+      "impressions": 160,
+      "ctr": 2.5,
+      "position": 11.5
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 4,
         "ctr": 0,
-        "position": 28.3
+        "position": 28.5
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 12,
         "ctr": 0,
-        "position": 19.8
+        "position": 20
       },
       {
         "query": "스타벅스 리스트레토 추출",
@@ -236,24 +236,19 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 12,
         "ctr": 0,
-        "position": 11.3
+        "position": 11.4
       },
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 11,
         "ctr": 0,
         "position": 20.9
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-17",
-        "clicks": 0,
-        "impressions": 9
-      },
       {
         "date": "2026-07-18",
         "clicks": 0,
@@ -373,6 +368,11 @@
         "date": "2026-08-10",
         "clicks": 0,
         "impressions": 9
+      },
+      {
+        "date": "2026-08-11",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
@@ -380,15 +380,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.53,
-      "impressions": 9,
+      "rpm": 0.26,
+      "impressions": 16,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
       "rpm": 0.04,
-      "impressions": 446,
+      "impressions": 462,
       "clicks": 9
     },
     "trend": [
@@ -514,8 +514,15 @@
       {
         "date": "2026-08-12",
         "earnings": 0.0,
-        "rpm": 0.53,
+        "rpm": 0.23,
         "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-13",
+        "earnings": 0.0,
+        "rpm": 0.26,
+        "impressions": 16,
         "clicks": 0
       }
     ]
