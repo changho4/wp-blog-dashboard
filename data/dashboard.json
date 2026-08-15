@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-14 03:25",
-  "yesterday": "2026-08-13",
+  "updated_at": "2026-08-15 02:14",
+  "yesterday": "2026-08-14",
   "ga4": {
     "yesterday": {
-      "sessions": 7,
-      "users": 4,
-      "pageviews": 11
+      "sessions": 8,
+      "users": 6,
+      "pageviews": 15
     },
     "trend": [
       {
@@ -127,12 +127,17 @@
         "date": "20260813",
         "sessions": 7,
         "users": 4
+      },
+      {
+        "date": "20260814",
+        "sessions": 8,
+        "users": 6
       }
     ],
     "summary": {
-      "sessions": 83,
-      "users": 64,
-      "bounceRate": 54.2
+      "sessions": 91,
+      "users": 68,
+      "bounceRate": 53.8
     },
     "pages": [
       {
@@ -143,7 +148,7 @@
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 14
+        "pageviews": 18
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -164,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 47
+        "sessions": 54
       },
       {
         "device": "mobile",
-        "sessions": 34
+        "sessions": 35
       },
       {
         "device": "tablet",
@@ -178,15 +183,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 56
+        "sessions": 62
       },
       {
         "channel": "Organic Search",
-        "sessions": 17
+        "sessions": 18
       },
       {
         "channel": "Organic Social",
-        "sessions": 7
+        "sessions": 8
       },
       {
         "channel": "Referral",
@@ -207,24 +212,24 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 160,
-      "ctr": 2.5,
-      "position": 11.5
+      "impressions": 159,
+      "ctr": 2.52,
+      "position": 12.1
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 6,
         "ctr": 0,
-        "position": 28.5
+        "position": 29
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 13,
         "ctr": 0,
-        "position": 20
+        "position": 20.1
       },
       {
         "query": "스타벅스 리스트레토 추출",
@@ -236,24 +241,26 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 11,
         "ctr": 0,
-        "position": 11.4
+        "position": 11.5
+      },
+      {
+        "query": "프라하 부다페스트 기차",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 26
       },
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 12,
         "ctr": 0,
-        "position": 20.9
+        "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-18",
-        "clicks": 0,
-        "impressions": 9
-      },
       {
         "date": "2026-07-19",
         "clicks": 1,
@@ -373,6 +380,11 @@
         "date": "2026-08-11",
         "clicks": 0,
         "impressions": 10
+      },
+      {
+        "date": "2026-08-12",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
@@ -380,15 +392,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.26,
-      "impressions": 16,
+      "rpm": 0.05,
+      "impressions": 1,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
       "rpm": 0.04,
-      "impressions": 462,
+      "impressions": 468,
       "clicks": 9
     },
     "trend": [
@@ -521,8 +533,15 @@
       {
         "date": "2026-08-13",
         "earnings": 0.0,
-        "rpm": 0.26,
-        "impressions": 16,
+        "rpm": 0.29,
+        "impressions": 21,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-14",
+        "earnings": 0.0,
+        "rpm": 0.05,
+        "impressions": 1,
         "clicks": 0
       }
     ]
