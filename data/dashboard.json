@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-15 02:14",
-  "yesterday": "2026-08-14",
+  "updated_at": "2026-08-16 02:21",
+  "yesterday": "2026-08-15",
   "ga4": {
     "yesterday": {
-      "sessions": 8,
-      "users": 6,
-      "pageviews": 15
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260719",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260720",
         "sessions": 3,
@@ -132,6 +127,11 @@
         "date": "20260814",
         "sessions": 8,
         "users": 6
+      },
+      {
+        "date": "20260815",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
@@ -143,12 +143,12 @@
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 37
+        "pageviews": 36
       },
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 18
+        "pageviews": 19
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -214,20 +214,20 @@
       "clicks": 4,
       "impressions": 159,
       "ctr": 2.52,
-      "position": 12.1
+      "position": 12.3
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 29
+        "position": 28
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 14,
         "ctr": 0,
         "position": 20.1
       },
@@ -241,9 +241,16 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 8,
         "ctr": 0,
-        "position": 11.5
+        "position": 11.9
+      },
+      {
+        "query": "파파안달부루스 고속성장분석기",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
       },
       {
         "query": "프라하 부다페스트 기차",
@@ -255,17 +262,12 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 13,
         "ctr": 0,
         "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-19",
-        "clicks": 1,
-        "impressions": 8
-      },
       {
         "date": "2026-07-20",
         "clicks": 0,
@@ -385,6 +387,11 @@
         "date": "2026-08-12",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-08-13",
+        "clicks": 1,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
@@ -392,25 +399,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.05,
-      "impressions": 1,
+      "rpm": 0.13,
+      "impressions": 3,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.02,
-      "rpm": 0.04,
-      "impressions": 468,
+      "earnings": 0.01,
+      "rpm": 0.02,
+      "impressions": 448,
       "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-19",
-        "earnings": 0.01,
-        "rpm": 0.61,
-        "impressions": 23,
-        "clicks": 0
-      },
       {
         "date": "2026-07-20",
         "earnings": 0.0,
@@ -540,8 +540,15 @@
       {
         "date": "2026-08-14",
         "earnings": 0.0,
-        "rpm": 0.05,
+        "rpm": 0.03,
         "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-15",
+        "earnings": 0.0,
+        "rpm": 0.13,
+        "impressions": 3,
         "clicks": 0
       }
     ]
