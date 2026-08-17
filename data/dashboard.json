@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-16 02:21",
-  "yesterday": "2026-08-15",
+  "updated_at": "2026-08-17 02:20",
+  "yesterday": "2026-08-16",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 3,
+      "users": 3,
+      "pageviews": 3
     },
     "trend": [
-      {
-        "date": "20260720",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260721",
         "sessions": 2,
@@ -132,23 +127,28 @@
         "date": "20260815",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260816",
+        "sessions": 3,
+        "users": 3
       }
     ],
     "summary": {
       "sessions": 91,
-      "users": 68,
-      "bounceRate": 53.8
+      "users": 69,
+      "bounceRate": 54.9
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 36
+        "pageviews": 32
       },
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 19
+        "pageviews": 20
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -161,19 +161,19 @@
         "pageviews": 7
       },
       {
-        "title": "2020년용 코스모스핌 고속성장분석기 - Changho World",
-        "path": "/wp/2019/11/18/2020년용-코스모스핌-고속성장분석기/",
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 54
+        "sessions": 53
       },
       {
         "device": "mobile",
-        "sessions": 35
+        "sessions": 36
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 62
+        "sessions": 61
       },
       {
         "channel": "Organic Search",
@@ -191,7 +191,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 8
+        "sessions": 9
       },
       {
         "channel": "Referral",
@@ -212,43 +212,57 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 159,
-      "ctr": 2.52,
-      "position": 12.3
+      "impressions": 217,
+      "ctr": 1.84,
+      "position": 12.0
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 8,
         "ctr": 0,
-        "position": 28
+        "position": 27.2
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 15,
         "ctr": 0,
         "position": 20.1
       },
       {
         "query": "스타벅스 리스트레토 추출",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 22
+        "position": 24
+      },
+      {
+        "query": "슬리퍼 가격",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
       },
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 7,
         "ctr": 0,
-        "position": 11.9
+        "position": 12.1
+      },
+      {
+        "query": "파파 안달 부루스 고속성장분석기",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 10
       },
       {
         "query": "파파안달부루스 고속성장분석기",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 32,
         "ctr": 0,
         "position": 10
       },
@@ -262,17 +276,12 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 13,
+        "impressions": 14,
         "ctr": 0,
         "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-20",
-        "clicks": 0,
-        "impressions": 11
-      },
       {
         "date": "2026-07-21",
         "clicks": 0,
@@ -392,6 +401,11 @@
         "date": "2026-08-13",
         "clicks": 1,
         "impressions": 8
+      },
+      {
+        "date": "2026-08-14",
+        "clicks": 0,
+        "impressions": 69
       }
     ],
     "yesterday_pages": []
@@ -399,25 +413,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.13,
-      "impressions": 3,
+      "rpm": 0.54,
+      "impressions": 7,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 448,
+      "impressions": 451,
       "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-20",
-        "earnings": 0.0,
-        "rpm": 0.51,
-        "impressions": 4,
-        "clicks": 0
-      },
       {
         "date": "2026-07-21",
         "earnings": 0.0,
@@ -549,6 +556,13 @@
         "earnings": 0.0,
         "rpm": 0.13,
         "impressions": 3,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-16",
+        "earnings": 0.0,
+        "rpm": 0.54,
+        "impressions": 7,
         "clicks": 0
       }
     ]
