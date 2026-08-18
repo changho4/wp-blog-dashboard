@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17 02:20",
-  "yesterday": "2026-08-16",
+  "updated_at": "2026-08-18 02:16",
+  "yesterday": "2026-08-17",
   "ga4": {
     "yesterday": {
       "sessions": 3,
@@ -8,11 +8,6 @@
       "pageviews": 3
     },
     "trend": [
-      {
-        "date": "20260721",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260722",
         "sessions": 2,
@@ -132,23 +127,28 @@
         "date": "20260816",
         "sessions": 3,
         "users": 3
+      },
+      {
+        "date": "20260817",
+        "sessions": 3,
+        "users": 3
       }
     ],
     "summary": {
-      "sessions": 91,
-      "users": 69,
-      "bounceRate": 54.9
+      "sessions": 92,
+      "users": 70,
+      "bounceRate": 55.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 32
+        "pageviews": 31
       },
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 20
+        "pageviews": 22
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 53
+        "sessions": 56
       },
       {
         "device": "mobile",
-        "sessions": 36
+        "sessions": 34
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 61
+        "sessions": 63
       },
       {
         "channel": "Organic Search",
@@ -191,7 +191,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 9
+        "sessions": 8
       },
       {
         "channel": "Referral",
@@ -212,8 +212,8 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 217,
-      "ctr": 1.84,
+      "impressions": 225,
+      "ctr": 1.78,
       "position": 12.0
     },
     "queries": [
@@ -255,14 +255,14 @@
       {
         "query": "파파 안달 부루스 고속성장분석기",
         "clicks": 0,
-        "impressions": 26,
+        "impressions": 29,
         "ctr": 0,
         "position": 10
       },
       {
         "query": "파파안달부루스 고속성장분석기",
         "clicks": 0,
-        "impressions": 32,
+        "impressions": 37,
         "ctr": 0,
         "position": 10
       },
@@ -282,11 +282,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-21",
-        "clicks": 0,
-        "impressions": 3
-      },
       {
         "date": "2026-07-22",
         "clicks": 1,
@@ -406,6 +401,11 @@
         "date": "2026-08-14",
         "clicks": 0,
         "impressions": 69
+      },
+      {
+        "date": "2026-08-15",
+        "clicks": 0,
+        "impressions": 11
       }
     ],
     "yesterday_pages": []
@@ -413,25 +413,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.54,
-      "impressions": 7,
+      "rpm": 0.11,
+      "impressions": 8,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 451,
+      "impressions": 454,
       "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-21",
-        "earnings": 0.0,
-        "rpm": 1.01,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-07-22",
         "earnings": 0.0,
@@ -561,8 +554,15 @@
       {
         "date": "2026-08-16",
         "earnings": 0.0,
-        "rpm": 0.54,
+        "rpm": 0.36,
         "impressions": 7,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-17",
+        "earnings": 0.0,
+        "rpm": 0.11,
+        "impressions": 8,
         "clicks": 0
       }
     ]
