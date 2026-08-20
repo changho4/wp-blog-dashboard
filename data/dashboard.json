@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-19 02:19",
-  "yesterday": "2026-08-18",
+  "updated_at": "2026-08-20 02:17",
+  "yesterday": "2026-08-19",
   "ga4": {
     "yesterday": {
-      "sessions": 10,
-      "users": 8,
-      "pageviews": 10
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20260723",
-        "sessions": 5,
-        "users": 4
-      },
       {
         "date": "20260724",
         "sessions": 2,
@@ -132,23 +127,28 @@
         "date": "20260818",
         "sessions": 10,
         "users": 8
+      },
+      {
+        "date": "20260819",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 100,
+      "sessions": 99,
       "users": 74,
-      "bounceRate": 58.0
+      "bounceRate": 58.6
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 31
+        "pageviews": 27
       },
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 24
+        "pageviews": 25
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 64
+        "sessions": 66
       },
       {
         "device": "mobile",
-        "sessions": 34
+        "sessions": 31
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 66
+        "sessions": 68
       },
       {
         "channel": "Organic Search",
@@ -191,7 +191,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 11
+        "sessions": 8
       },
       {
         "channel": "Referral",
@@ -211,10 +211,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 3,
-      "impressions": 230,
-      "ctr": 1.3,
-      "position": 11.8
+      "clicks": 4,
+      "impressions": 233,
+      "ctr": 1.72,
+      "position": 11.7
     },
     "queries": [
       {
@@ -282,11 +282,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-23",
-        "clicks": 1,
-        "impressions": 4
-      },
       {
         "date": "2026-07-24",
         "clicks": 0,
@@ -406,6 +401,11 @@
         "date": "2026-08-16",
         "clicks": 0,
         "impressions": 11
+      },
+      {
+        "date": "2026-08-17",
+        "clicks": 2,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
@@ -421,17 +421,10 @@
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 444,
+      "impressions": 434,
       "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-23",
-        "earnings": 0.0,
-        "rpm": 0.74,
-        "impressions": 13,
-        "clicks": 0
-      },
       {
         "date": "2026-07-24",
         "earnings": 0.0,
@@ -556,6 +549,13 @@
         "earnings": 0.0,
         "rpm": 0.11,
         "impressions": 12,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-18",
+        "earnings": 0.0,
+        "rpm": 0.05,
+        "impressions": 3,
         "clicks": 0
       }
     ]
