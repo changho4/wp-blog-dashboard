@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-20 02:17",
-  "yesterday": "2026-08-19",
+  "updated_at": "2026-08-21 02:24",
+  "yesterday": "2026-08-20",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260724",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260725",
         "sessions": 3,
@@ -132,12 +127,17 @@
         "date": "20260819",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260820",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 99,
-      "users": 74,
-      "bounceRate": 58.6
+      "sessions": 98,
+      "users": 73,
+      "bounceRate": 58.2
     },
     "pages": [
       {
@@ -148,7 +148,7 @@
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 25
+        "pageviews": 26
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -173,7 +173,7 @@
       },
       {
         "device": "mobile",
-        "sessions": 31
+        "sessions": 30
       },
       {
         "device": "tablet",
@@ -187,7 +187,7 @@
       },
       {
         "channel": "Organic Search",
-        "sessions": 20
+        "sessions": 19
       },
       {
         "channel": "Organic Social",
@@ -212,9 +212,9 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 233,
+      "impressions": 232,
       "ctr": 1.72,
-      "position": 11.7
+      "position": 11.6
     },
     "queries": [
       {
@@ -248,9 +248,9 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 4,
         "ctr": 0,
-        "position": 12.1
+        "position": 11.5
       },
       {
         "query": "파파 안달 부루스 고속성장분석기",
@@ -282,11 +282,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-24",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-07-25",
         "clicks": 0,
@@ -406,6 +401,11 @@
         "date": "2026-08-17",
         "clicks": 2,
         "impressions": 7
+      },
+      {
+        "date": "2026-08-18",
+        "clicks": 0,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
@@ -421,17 +421,10 @@
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 434,
+      "impressions": 431,
       "clicks": 9
     },
     "trend": [
-      {
-        "date": "2026-07-24",
-        "earnings": 0.0,
-        "rpm": 1.15,
-        "impressions": 3,
-        "clicks": 0
-      },
       {
         "date": "2026-07-25",
         "earnings": 0.0,
