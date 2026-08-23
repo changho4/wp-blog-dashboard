@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-22 02:17",
-  "yesterday": "2026-08-21",
+  "updated_at": "2026-08-23 02:24",
+  "yesterday": "2026-08-22",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 8,
+      "users": 7,
+      "pageviews": 10
     },
     "trend": [
-      {
-        "date": "20260726",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260727",
         "sessions": 4,
@@ -132,23 +127,28 @@
         "date": "20260821",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260822",
+        "sessions": 8,
+        "users": 7
       }
     ],
     "summary": {
-      "sessions": 96,
-      "users": 72,
-      "bounceRate": 59.4
+      "sessions": 101,
+      "users": 76,
+      "bounceRate": 60.4
     },
     "pages": [
       {
         "title": "Changho World -",
-        "path": "/",
-        "pageviews": 26
+        "path": "/wp/",
+        "pageviews": 30
       },
       {
         "title": "Changho World -",
-        "path": "/wp/",
-        "pageviews": 26
+        "path": "/",
+        "pageviews": 23
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
@@ -156,24 +156,24 @@
         "pageviews": 11
       },
       {
-        "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
-        "path": "/wp/elementor-페이지-1792/",
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 7
       },
       {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 5
+        "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
+        "path": "/wp/elementor-페이지-1792/",
+        "pageviews": 7
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 67
+        "sessions": 73
       },
       {
         "device": "mobile",
-        "sessions": 27
+        "sessions": 26
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 67
+        "sessions": 71
       },
       {
         "channel": "Organic Search",
-        "sessions": 18
+        "sessions": 19
       },
       {
         "channel": "Organic Social",
@@ -212,9 +212,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 235,
-      "ctr": 2.13,
-      "position": 11.6
+      "impressions": 234,
+      "ctr": 2.14,
+      "position": 11.9
     },
     "queries": [
       {
@@ -227,9 +227,16 @@
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 16,
+        "impressions": 17,
         "ctr": 0,
-        "position": 20.1
+        "position": 20
+      },
+      {
+        "query": "부다페스트에서 프라하 야간열차",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
       },
       {
         "query": "스타벅스 리스트레토 추출",
@@ -248,9 +255,16 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 2,
         "ctr": 0,
-        "position": 11.5
+        "position": 13
+      },
+      {
+        "query": "턴 서지",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 28
       },
       {
         "query": "파파 안달 부루스 고속성장분석기",
@@ -272,21 +286,9 @@
         "impressions": 1,
         "ctr": 0,
         "position": 26
-      },
-      {
-        "query": "프라하 부다페스트 야간열차",
-        "clicks": 0,
-        "impressions": 14,
-        "ctr": 0,
-        "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-26",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-07-27",
         "clicks": 0,
@@ -406,22 +408,27 @@
         "date": "2026-08-19",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-08-20",
+        "clicks": 0,
+        "impressions": 5
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.18,
-      "impressions": 10,
-      "clicks": 1,
-      "ctr": 14.29
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 441,
+      "impressions": 447,
       "clicks": 10
     },
     "trend": [
@@ -554,8 +561,8 @@
       {
         "date": "2026-08-21",
         "earnings": 0.0,
-        "rpm": 0.18,
-        "impressions": 10,
+        "rpm": 0.22,
+        "impressions": 16,
         "clicks": 1
       }
     ]
