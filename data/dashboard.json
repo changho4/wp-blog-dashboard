@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-23 02:24",
-  "yesterday": "2026-08-22",
+  "updated_at": "2026-08-24 02:23",
+  "yesterday": "2026-08-23",
   "ga4": {
     "yesterday": {
-      "sessions": 8,
-      "users": 7,
-      "pageviews": 10
+      "sessions": 5,
+      "users": 5,
+      "pageviews": 5
     },
     "trend": [
-      {
-        "date": "20260727",
-        "sessions": 4,
-        "users": 2
-      },
       {
         "date": "20260730",
         "sessions": 2,
@@ -132,28 +127,33 @@
         "date": "20260822",
         "sessions": 8,
         "users": 7
+      },
+      {
+        "date": "20260823",
+        "sessions": 5,
+        "users": 5
       }
     ],
     "summary": {
-      "sessions": 101,
-      "users": 76,
-      "bounceRate": 60.4
+      "sessions": 102,
+      "users": 80,
+      "bounceRate": 62.7
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 30
+        "pageviews": 32
       },
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 23
+        "pageviews": 20
       },
       {
         "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
         "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
-        "pageviews": 11
+        "pageviews": 8
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -173,7 +173,7 @@
       },
       {
         "device": "mobile",
-        "sessions": 26
+        "sessions": 27
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 71
+        "sessions": 72
       },
       {
         "channel": "Organic Search",
@@ -212,9 +212,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 234,
-      "ctr": 2.14,
-      "position": 11.9
+      "impressions": 238,
+      "ctr": 2.1,
+      "position": 11.8
     },
     "queries": [
       {
@@ -289,11 +289,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-27",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-07-28",
         "clicks": 0,
@@ -413,22 +408,27 @@
         "date": "2026-08-20",
         "clicks": 0,
         "impressions": 5
+      },
+      {
+        "date": "2026-08-21",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.22,
+      "impressions": 5,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 447,
+      "impressions": 452,
       "clicks": 10
     },
     "trend": [
@@ -564,6 +564,13 @@
         "rpm": 0.22,
         "impressions": 16,
         "clicks": 1
+      },
+      {
+        "date": "2026-08-23",
+        "earnings": 0.0,
+        "rpm": 0.22,
+        "impressions": 5,
+        "clicks": 0
       }
     ]
   }
