@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-24 02:23",
-  "yesterday": "2026-08-23",
+  "updated_at": "2026-08-25 02:18",
+  "yesterday": "2026-08-24",
   "ga4": {
     "yesterday": {
-      "sessions": 5,
-      "users": 5,
-      "pageviews": 5
+      "sessions": 6,
+      "users": 6,
+      "pageviews": 6
     },
     "trend": [
       {
@@ -132,18 +132,23 @@
         "date": "20260823",
         "sessions": 5,
         "users": 5
+      },
+      {
+        "date": "20260824",
+        "sessions": 6,
+        "users": 6
       }
     ],
     "summary": {
-      "sessions": 102,
-      "users": 80,
-      "bounceRate": 62.7
+      "sessions": 108,
+      "users": 86,
+      "bounceRate": 64.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 32
+        "pageviews": 33
       },
       {
         "title": "Changho World -",
@@ -169,11 +174,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 73
+        "sessions": 77
       },
       {
         "device": "mobile",
-        "sessions": 27
+        "sessions": 29
       },
       {
         "device": "tablet",
@@ -183,11 +188,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 72
+        "sessions": 76
       },
       {
         "channel": "Organic Search",
-        "sessions": 19
+        "sessions": 21
       },
       {
         "channel": "Organic Social",
@@ -212,8 +217,8 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 238,
-      "ctr": 2.1,
+      "impressions": 239,
+      "ctr": 2.09,
       "position": 11.8
     },
     "queries": [
@@ -289,11 +294,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-28",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-07-29",
         "clicks": 0,
@@ -413,6 +413,11 @@
         "date": "2026-08-21",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-08-22",
+        "clicks": 0,
+        "impressions": 5
       }
     ],
     "yesterday_pages": []
@@ -420,15 +425,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.22,
-      "impressions": 5,
+      "rpm": 0.47,
+      "impressions": 9,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 452,
+      "impressions": 465,
       "clicks": 10
     },
     "trend": [
@@ -568,8 +573,15 @@
       {
         "date": "2026-08-23",
         "earnings": 0.0,
-        "rpm": 0.22,
-        "impressions": 5,
+        "rpm": 0.28,
+        "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-24",
+        "earnings": 0.0,
+        "rpm": 0.47,
+        "impressions": 9,
         "clicks": 0
       }
     ]
