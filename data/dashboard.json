@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-25 02:18",
-  "yesterday": "2026-08-24",
+  "updated_at": "2026-08-26 02:25",
+  "yesterday": "2026-08-25",
   "ga4": {
     "yesterday": {
-      "sessions": 6,
-      "users": 6,
-      "pageviews": 6
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 5
     },
     "trend": [
       {
@@ -137,18 +137,23 @@
         "date": "20260824",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20260825",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 108,
-      "users": 86,
-      "bounceRate": 64.8
+      "sessions": 112,
+      "users": 89,
+      "bounceRate": 64.3
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 33
+        "pageviews": 36
       },
       {
         "title": "Changho World -",
@@ -156,14 +161,14 @@
         "pageviews": 20
       },
       {
-        "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
-        "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 8
       },
       {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 7
+        "title": "[원두] 에티오피아 G1 에가체프 첼바 내추럴(불스커피 로스터스) - Changho World",
+        "path": "/wp/2026/07/27/원두-에티오피아-g1-에가체프-첼바-내추럴불스커피-로/",
+        "pageviews": 8
       },
       {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
@@ -174,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 77
+        "sessions": 80
       },
       {
         "device": "mobile",
-        "sessions": 29
+        "sessions": 30
       },
       {
         "device": "tablet",
@@ -188,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 76
+        "sessions": 79
       },
       {
         "channel": "Organic Search",
-        "sessions": 21
+        "sessions": 22
       },
       {
         "channel": "Organic Social",
@@ -217,9 +222,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 239,
-      "ctr": 2.09,
-      "position": 11.8
+      "impressions": 238,
+      "ctr": 2.1,
+      "position": 11.6
     },
     "queries": [
       {
@@ -294,11 +299,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-29",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-07-30",
         "clicks": 0,
@@ -418,32 +418,30 @@
         "date": "2026-08-22",
         "clicks": 0,
         "impressions": 5
+      },
+      {
+        "date": "2026-08-23",
+        "clicks": 0,
+        "impressions": 3
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.47,
-      "impressions": 9,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 465,
+      "impressions": 454,
       "clicks": 10
     },
     "trend": [
-      {
-        "date": "2026-07-29",
-        "earnings": 0.0,
-        "rpm": 0.61,
-        "impressions": 11,
-        "clicks": 0
-      },
       {
         "date": "2026-07-30",
         "earnings": 0.0,
@@ -580,7 +578,7 @@
       {
         "date": "2026-08-24",
         "earnings": 0.0,
-        "rpm": 0.47,
+        "rpm": 0.37,
         "impressions": 9,
         "clicks": 0
       }
