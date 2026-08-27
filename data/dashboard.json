@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-26 02:25",
-  "yesterday": "2026-08-25",
+  "updated_at": "2026-08-27 11:01",
+  "yesterday": "2026-08-26",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
+      "sessions": 5,
+      "users": 5,
       "pageviews": 5
     },
     "trend": [
-      {
-        "date": "20260730",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260731",
         "sessions": 4,
@@ -142,18 +137,23 @@
         "date": "20260825",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260826",
+        "sessions": 5,
+        "users": 5
       }
     ],
     "summary": {
-      "sessions": 112,
-      "users": 89,
-      "bounceRate": 64.3
+      "sessions": 115,
+      "users": 92,
+      "bounceRate": 66.1
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 36
+        "pageviews": 39
       },
       {
         "title": "Changho World -",
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 80
+        "sessions": 84
       },
       {
         "device": "mobile",
-        "sessions": 30
+        "sessions": 29
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 79
+        "sessions": 84
       },
       {
         "channel": "Organic Search",
-        "sessions": 22
+        "sessions": 20
       },
       {
         "channel": "Organic Social",
@@ -222,9 +222,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 238,
-      "ctr": 2.1,
-      "position": 11.6
+      "impressions": 241,
+      "ctr": 2.07,
+      "position": 11.7
     },
     "queries": [
       {
@@ -244,9 +244,9 @@
       {
         "query": "부다페스트에서 프라하 야간열차",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 29
+        "position": 26.5
       },
       {
         "query": "스타벅스 리스트레토 추출",
@@ -265,9 +265,9 @@
       {
         "query": "코스모스핌",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 13
+        "position": 16
       },
       {
         "query": "턴 서지",
@@ -299,11 +299,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-07-30",
-        "clicks": 0,
-        "impressions": 3
-      },
       {
         "date": "2026-07-31",
         "clicks": 1,
@@ -423,32 +418,30 @@
         "date": "2026-08-23",
         "clicks": 0,
         "impressions": 3
+      },
+      {
+        "date": "2026-08-24",
+        "clicks": 0,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.96,
+      "impressions": 12,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 454,
+      "impressions": 465,
       "clicks": 10
     },
     "trend": [
-      {
-        "date": "2026-07-30",
-        "earnings": 0.0,
-        "rpm": 0.05,
-        "impressions": 1,
-        "clicks": 0
-      },
       {
         "date": "2026-07-31",
         "earnings": 0.0,
@@ -580,6 +573,13 @@
         "earnings": 0.0,
         "rpm": 0.37,
         "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-08-26",
+        "earnings": 0.0,
+        "rpm": 0.96,
+        "impressions": 12,
         "clicks": 0
       }
     ]
