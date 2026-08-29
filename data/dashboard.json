@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28 12:35",
-  "yesterday": "2026-08-27",
+  "updated_at": "2026-08-29 07:43",
+  "yesterday": "2026-08-28",
   "ga4": {
     "yesterday": {
       "sessions": 4,
@@ -8,11 +8,6 @@
       "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20260801",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260802",
         "sessions": 2,
@@ -142,18 +137,23 @@
         "date": "20260827",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260828",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 115,
-      "users": 92,
-      "bounceRate": 64.3
+      "sessions": 117,
+      "users": 94,
+      "bounceRate": 65.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 40
+        "pageviews": 41
       },
       {
         "title": "Changho World -",
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 83
+        "sessions": 82
       },
       {
         "device": "mobile",
-        "sessions": 30
+        "sessions": 33
       },
       {
         "device": "tablet",
@@ -193,15 +193,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 81
+        "sessions": 83
       },
       {
         "channel": "Organic Search",
-        "sessions": 22
+        "sessions": 21
       },
       {
         "channel": "Organic Social",
-        "sessions": 9
+        "sessions": 10
       },
       {
         "channel": "Referral",
@@ -222,9 +222,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 243,
-      "ctr": 2.06,
-      "position": 11.7
+      "impressions": 241,
+      "ctr": 2.07,
+      "position": 11.8
     },
     "queries": [
       {
@@ -299,11 +299,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-01",
-        "clicks": 0,
-        "impressions": 2
-      },
       {
         "date": "2026-08-02",
         "clicks": 0,
@@ -434,26 +429,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.21,
-      "impressions": 2,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 464,
+      "impressions": 463,
       "clicks": 10
     },
     "trend": [
-      {
-        "date": "2026-08-01",
-        "earnings": 0.0,
-        "rpm": 0.01,
-        "impressions": 1,
-        "clicks": 0
-      },
       {
         "date": "2026-08-02",
         "earnings": 0.0,
