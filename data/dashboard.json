@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-08-29 07:43",
-  "yesterday": "2026-08-28",
+  "updated_at": "2026-08-30 06:21",
+  "yesterday": "2026-08-29",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "sessions": 0,
+      "users": 0,
+      "pageviews": 0
     },
     "trend": [
-      {
-        "date": "20260802",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260803",
         "sessions": 2,
@@ -145,9 +140,9 @@
       }
     ],
     "summary": {
-      "sessions": 117,
-      "users": 94,
-      "bounceRate": 65.8
+      "sessions": 115,
+      "users": 92,
+      "bounceRate": 66.1
     },
     "pages": [
       {
@@ -158,7 +153,7 @@
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 19
+        "pageviews": 18
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -179,7 +174,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 82
+        "sessions": 80
       },
       {
         "device": "mobile",
@@ -193,7 +188,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 83
+        "sessions": 81
       },
       {
         "channel": "Organic Search",
@@ -224,7 +219,7 @@
       "clicks": 5,
       "impressions": 241,
       "ctr": 2.07,
-      "position": 11.8
+      "position": 11.9
     },
     "queries": [
       {
@@ -293,17 +288,12 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 14,
+        "impressions": 15,
         "ctr": 0,
-        "position": 21
+        "position": 21.1
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-02",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-08-03",
         "clicks": 0,
@@ -423,6 +413,11 @@
         "date": "2026-08-26",
         "clicks": 1,
         "impressions": 6
+      },
+      {
+        "date": "2026-08-27",
+        "clicks": 0,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
@@ -438,17 +433,10 @@
     "summary": {
       "earnings": 0.01,
       "rpm": 0.02,
-      "impressions": 463,
+      "impressions": 454,
       "clicks": 10
     },
     "trend": [
-      {
-        "date": "2026-08-02",
-        "earnings": 0.0,
-        "rpm": 0.47,
-        "impressions": 9,
-        "clicks": 0
-      },
       {
         "date": "2026-08-03",
         "earnings": 0.01,
