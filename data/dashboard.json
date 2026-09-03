@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-02 05:33",
-  "yesterday": "2026-09-01",
+  "updated_at": "2026-09-03 05:33",
+  "yesterday": "2026-09-02",
   "ga4": {
     "yesterday": {
-      "sessions": 0,
-      "users": 0,
-      "pageviews": 0
+      "sessions": 1,
+      "users": 1,
+      "pageviews": 1
     },
     "trend": [
-      {
-        "date": "20260806",
-        "sessions": 3,
-        "users": 2
-      },
       {
         "date": "20260807",
         "sessions": 4,
@@ -132,18 +127,23 @@
         "date": "20260831",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260902",
+        "sessions": 1,
+        "users": 1
       }
     ],
     "summary": {
-      "sessions": 114,
+      "sessions": 112,
       "users": 94,
-      "bounceRate": 69.3
+      "bounceRate": 70.5
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 42
+        "pageviews": 40
       },
       {
         "title": "Changho World -",
@@ -151,29 +151,29 @@
         "pageviews": 14
       },
       {
+        "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
+        "path": "/wp/2026/07/14/fillout-coffee/",
+        "pageviews": 9
+      },
+      {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
         "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 8
       },
       {
-        "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
-        "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 8
-      },
-      {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
-        "path": "/wp/elementor-페이지-1792/",
-        "pageviews": 7
+        "path": "/wp/2026/08/10/원두-과테말라-산-라파엘-게이샤-허니-c-o-e-nw-2025kook-coffee-roasters/",
+        "pageviews": 5
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 80
+        "sessions": 77
       },
       {
         "device": "mobile",
-        "sessions": 32
+        "sessions": 33
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 81
+        "sessions": 78
       },
       {
         "channel": "Organic Search",
-        "sessions": 21
+        "sessions": 22
       },
       {
         "channel": "Organic Social",
@@ -214,7 +214,7 @@
       "clicks": 5,
       "impressions": 229,
       "ctr": 2.18,
-      "position": 11.5
+      "position": 11.4
     },
     "queries": [
       {
@@ -227,7 +227,7 @@
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 12,
+        "impressions": 11,
         "ctr": 0,
         "position": 20.2
       },
@@ -289,11 +289,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-06",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-08-07",
         "clicks": 0,
@@ -413,32 +408,30 @@
         "date": "2026-08-30",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-08-31",
+        "clicks": 0,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.35,
+      "impressions": 11,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 140,
+      "impressions": 147,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-08-06",
-        "earnings": 0.0,
-        "rpm": 0.02,
-        "impressions": 4,
-        "clicks": 0
-      },
       {
         "date": "2026-08-08",
         "earnings": 0.0,
@@ -556,6 +549,13 @@
         "earnings": 0.0,
         "rpm": 0.18,
         "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-02",
+        "earnings": 0.0,
+        "rpm": 0.35,
+        "impressions": 11,
         "clicks": 0
       }
     ]
