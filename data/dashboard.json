@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-03 05:33",
-  "yesterday": "2026-09-02",
+  "updated_at": "2026-09-04 05:39",
+  "yesterday": "2026-09-03",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 8,
+      "users": 7,
+      "pageviews": 7
     },
     "trend": [
-      {
-        "date": "20260807",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260808",
         "sessions": 3,
@@ -132,12 +127,17 @@
         "date": "20260902",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20260903",
+        "sessions": 8,
+        "users": 7
       }
     ],
     "summary": {
-      "sessions": 112,
-      "users": 94,
-      "bounceRate": 70.5
+      "sessions": 116,
+      "users": 98,
+      "bounceRate": 69.8
     },
     "pages": [
       {
@@ -148,12 +148,12 @@
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 14
+        "pageviews": 12
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 9
+        "pageviews": 10
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 77
+        "sessions": 83
       },
       {
         "device": "mobile",
-        "sessions": 33
+        "sessions": 31
       },
       {
         "device": "tablet",
@@ -183,23 +183,19 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 78
+        "sessions": 81
       },
       {
         "channel": "Organic Search",
-        "sessions": 22
+        "sessions": 26
       },
       {
         "channel": "Organic Social",
-        "sessions": 9
+        "sessions": 7
       },
       {
         "channel": "Referral",
         "sessions": 2
-      },
-      {
-        "channel": "Unassigned",
-        "sessions": 1
       }
     ]
   },
@@ -212,24 +208,24 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 229,
-      "ctr": 2.18,
-      "position": 11.4
+      "impressions": 224,
+      "ctr": 2.23,
+      "position": 11.3
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 7,
         "ctr": 0,
-        "position": 27.2
+        "position": 27.3
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 10,
         "ctr": 0,
-        "position": 20.2
+        "position": 20.5
       },
       {
         "query": "부다페스트에서 프라하 야간열차",
@@ -283,17 +279,12 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 9,
         "ctr": 0,
         "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-07",
-        "clicks": 0,
-        "impressions": 7
-      },
       {
         "date": "2026-08-08",
         "clicks": 0,
@@ -413,6 +404,11 @@
         "date": "2026-08-31",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-09-01",
+        "clicks": 0,
+        "impressions": 2
       }
     ],
     "yesterday_pages": []
@@ -420,7 +416,7 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.35,
+      "rpm": 1.21,
       "impressions": 11,
       "clicks": 0,
       "ctr": 0.0
@@ -428,7 +424,7 @@
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 147,
+      "impressions": 158,
       "clicks": 1
     },
     "trend": [
@@ -555,6 +551,13 @@
         "date": "2026-09-02",
         "earnings": 0.0,
         "rpm": 0.35,
+        "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-03",
+        "earnings": 0.0,
+        "rpm": 1.21,
         "impressions": 11,
         "clicks": 0
       }
