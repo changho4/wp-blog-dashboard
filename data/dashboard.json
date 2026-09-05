@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-04 05:39",
-  "yesterday": "2026-09-03",
+  "updated_at": "2026-09-05 05:25",
+  "yesterday": "2026-09-04",
   "ga4": {
     "yesterday": {
-      "sessions": 8,
-      "users": 7,
-      "pageviews": 7
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20260808",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260809",
         "sessions": 4,
@@ -132,12 +127,17 @@
         "date": "20260903",
         "sessions": 8,
         "users": 7
+      },
+      {
+        "date": "20260904",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 116,
-      "users": 98,
-      "bounceRate": 69.8
+      "sessions": 117,
+      "users": 99,
+      "bounceRate": 69.2
     },
     "pages": [
       {
@@ -146,13 +146,13 @@
         "pageviews": 40
       },
       {
-        "title": "Changho World -",
-        "path": "/",
-        "pageviews": 12
-      },
-      {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
+        "pageviews": 11
+      },
+      {
+        "title": "Changho World -",
+        "path": "/",
         "pageviews": 10
       },
       {
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 83
+        "sessions": 81
       },
       {
         "device": "mobile",
-        "sessions": 31
+        "sessions": 34
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 81
+        "sessions": 80
       },
       {
         "channel": "Organic Search",
-        "sessions": 26
+        "sessions": 29
       },
       {
         "channel": "Organic Social",
@@ -195,7 +195,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 2
+        "sessions": 1
       }
     ]
   },
@@ -207,25 +207,25 @@
       "position": 0
     },
     "summary": {
-      "clicks": 5,
-      "impressions": 224,
-      "ctr": 2.23,
-      "position": 11.3
+      "clicks": 6,
+      "impressions": 225,
+      "ctr": 2.67,
+      "position": 11.1
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 6,
         "ctr": 0,
-        "position": 27.3
+        "position": 27
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 9,
         "ctr": 0,
-        "position": 20.5
+        "position": 20.4
       },
       {
         "query": "부다페스트에서 프라하 야간열차",
@@ -279,17 +279,12 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 8,
         "ctr": 0,
         "position": 21
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-08",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-08-09",
         "clicks": 0,
@@ -409,6 +404,11 @@
         "date": "2026-09-01",
         "clicks": 0,
         "impressions": 2
+      },
+      {
+        "date": "2026-09-02",
+        "clicks": 1,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
@@ -416,25 +416,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 1.21,
-      "impressions": 11,
+      "rpm": 0.62,
+      "impressions": 5,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.0,
-      "rpm": 0.0,
-      "impressions": 158,
-      "clicks": 1
+      "earnings": 0.01,
+      "rpm": 0.06,
+      "impressions": 161,
+      "clicks": 2
     },
     "trend": [
-      {
-        "date": "2026-08-08",
-        "earnings": 0.0,
-        "rpm": 0.24,
-        "impressions": 8,
-        "clicks": 0
-      },
       {
         "date": "2026-08-11",
         "earnings": 0.0,
@@ -556,9 +549,16 @@
       },
       {
         "date": "2026-09-03",
-        "earnings": 0.0,
+        "earnings": 0.01,
         "rpm": 1.21,
-        "impressions": 11,
+        "impressions": 17,
+        "clicks": 1
+      },
+      {
+        "date": "2026-09-04",
+        "earnings": 0.0,
+        "rpm": 0.62,
+        "impressions": 5,
         "clicks": 0
       }
     ]
