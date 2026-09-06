@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-05 05:25",
-  "yesterday": "2026-09-04",
+  "updated_at": "2026-09-06 05:40",
+  "yesterday": "2026-09-05",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "sessions": 2,
+      "users": 2,
+      "pageviews": 2
     },
     "trend": [
-      {
-        "date": "20260809",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260810",
         "sessions": 4,
@@ -132,12 +127,17 @@
         "date": "20260904",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20260905",
+        "sessions": 2,
+        "users": 2
       }
     ],
     "summary": {
-      "sessions": 117,
-      "users": 99,
-      "bounceRate": 69.2
+      "sessions": 115,
+      "users": 97,
+      "bounceRate": 67.8
     },
     "pages": [
       {
@@ -153,7 +153,7 @@
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 10
+        "pageviews": 8
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 81
+        "sessions": 80
       },
       {
         "device": "mobile",
-        "sessions": 34
+        "sessions": 33
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 80
+        "sessions": 77
       },
       {
         "channel": "Organic Search",
-        "sessions": 29
+        "sessions": 30
       },
       {
         "channel": "Organic Social",
@@ -208,24 +208,24 @@
     },
     "summary": {
       "clicks": 6,
-      "impressions": 225,
-      "ctr": 2.67,
-      "position": 11.1
+      "impressions": 222,
+      "ctr": 2.7,
+      "position": 10.9
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 5,
         "ctr": 0,
-        "position": 27
+        "position": 26.6
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 9,
+        "impressions": 7,
         "ctr": 0,
-        "position": 20.4
+        "position": 20.3
       },
       {
         "query": "부다페스트에서 프라하 야간열차",
@@ -233,13 +233,6 @@
         "impressions": 2,
         "ctr": 0,
         "position": 26.5
-      },
-      {
-        "query": "스타벅스 리스트레토 추출",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 24
       },
       {
         "query": "슬리퍼 가격",
@@ -281,15 +274,17 @@
         "clicks": 0,
         "impressions": 8,
         "ctr": 0,
-        "position": 21
+        "position": 21.2
+      },
+      {
+        "query": "프라하에서 부다페스트 야간열차",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 20
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-09",
-        "clicks": 0,
-        "impressions": 10
-      },
       {
         "date": "2026-08-10",
         "clicks": 0,
@@ -409,17 +404,22 @@
         "date": "2026-09-02",
         "clicks": 1,
         "impressions": 7
+      },
+      {
+        "date": "2026-09-03",
+        "clicks": 0,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.62,
-      "impressions": 5,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
