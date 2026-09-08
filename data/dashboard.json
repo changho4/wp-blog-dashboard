@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-07 05:51",
-  "yesterday": "2026-09-06",
+  "updated_at": "2026-09-08 05:43",
+  "yesterday": "2026-09-07",
   "ga4": {
     "yesterday": {
-      "sessions": 6,
-      "users": 6,
-      "pageviews": 6
+      "sessions": 2,
+      "users": 2,
+      "pageviews": 2
     },
     "trend": [
-      {
-        "date": "20260811",
-        "sessions": 6,
-        "users": 5
-      },
       {
         "date": "20260812",
         "sessions": 7,
@@ -132,18 +127,23 @@
         "date": "20260906",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20260907",
+        "sessions": 2,
+        "users": 2
       }
     ],
     "summary": {
-      "sessions": 117,
-      "users": 101,
-      "bounceRate": 69.2
+      "sessions": 113,
+      "users": 99,
+      "bounceRate": 70.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 40
+        "pageviews": 38
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -153,12 +153,12 @@
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
         "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 8
+        "pageviews": 5
       },
       {
         "title": "Changho World -",
         "path": "/",
-        "pageviews": 6
+        "pageviews": 4
       },
       {
         "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 78
+        "sessions": 76
       },
       {
         "device": "mobile",
-        "sessions": 37
+        "sessions": 35
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 76
+        "sessions": 73
       },
       {
         "channel": "Organic Search",
@@ -195,7 +195,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 2
+        "sessions": 1
       }
     ]
   },
@@ -208,24 +208,24 @@
     },
     "summary": {
       "clicks": 6,
-      "impressions": 226,
-      "ctr": 2.65,
-      "position": 10.7
+      "impressions": 216,
+      "ctr": 2.78,
+      "position": 10.5
     },
     "queries": [
       {
         "query": "부다페스트 프라하 기차",
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 4,
         "ctr": 0,
-        "position": 26.6
+        "position": 26
       },
       {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 5,
         "ctr": 0,
-        "position": 20.3
+        "position": 20
       },
       {
         "query": "부다페스트에서 프라하 야간열차",
@@ -272,9 +272,9 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 5,
         "ctr": 0,
-        "position": 21.1
+        "position": 21.2
       },
       {
         "query": "프라하에서 부다페스트 야간열차",
@@ -285,11 +285,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-11",
-        "clicks": 0,
-        "impressions": 10
-      },
       {
         "date": "2026-08-12",
         "clicks": 0,
@@ -420,26 +415,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.78,
-      "impressions": 11,
-      "clicks": 3,
-      "ctr": 75.0
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
       "rpm": 0.06,
-      "impressions": 172,
+      "impressions": 168,
       "clicks": 5
     },
     "trend": [
-      {
-        "date": "2026-08-11",
-        "earnings": 0.0,
-        "rpm": 0.23,
-        "impressions": 4,
-        "clicks": 0
-      },
       {
         "date": "2026-08-12",
         "earnings": 0.0,
