@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-10 05:42",
-  "yesterday": "2026-09-09",
+  "updated_at": "2026-09-11 05:42",
+  "yesterday": "2026-09-10",
   "ga4": {
     "yesterday": {
-      "sessions": 7,
-      "users": 7,
-      "pageviews": 7
+      "sessions": 2,
+      "users": 2,
+      "pageviews": 2
     },
     "trend": [
-      {
-        "date": "20260814",
-        "sessions": 8,
-        "users": 6
-      },
       {
         "date": "20260815",
         "sessions": 1,
@@ -132,48 +127,53 @@
         "date": "20260909",
         "sessions": 7,
         "users": 7
+      },
+      {
+        "date": "20260910",
+        "sessions": 2,
+        "users": 2
       }
     ],
     "summary": {
-      "sessions": 109,
-      "users": 100,
-      "bounceRate": 74.3
+      "sessions": 103,
+      "users": 98,
+      "bounceRate": 75.7
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 35
+        "pageviews": 31
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 14
-      },
-      {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 4
-      },
-      {
-        "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
-        "path": "/wp/2026/08/14/원두-페루-세로-네그로-게이샤-워시드lazy-moment-coffee-stand/",
-        "pageviews": 4
+        "pageviews": 15
       },
       {
         "title": "Changho World - 15 중 9 번째 페이지 -",
         "path": "/wp/page/9/",
         "pageviews": 3
+      },
+      {
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
+        "pageviews": 3
+      },
+      {
+        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
+        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
+        "pageviews": 2
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 71
+        "sessions": 66
       },
       {
         "device": "mobile",
-        "sessions": 38
+        "sessions": 37
       },
       {
         "device": "tablet",
@@ -183,7 +183,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 68
+        "sessions": 63
       },
       {
         "channel": "Organic Search",
@@ -191,7 +191,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 7
+        "sessions": 6
       },
       {
         "channel": "Referral",
@@ -208,24 +208,17 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 209,
-      "ctr": 2.39,
-      "position": 10.1
+      "impressions": 145,
+      "ctr": 3.45,
+      "position": 9.6
     },
     "queries": [
       {
-        "query": "부다페스트 프라하 기차",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 22
-      },
-      {
         "query": "부다페스트 프라하 야간열차",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 2,
         "ctr": 0,
-        "position": 19.7
+        "position": 19
       },
       {
         "query": "부다페스트에서 프라하 야간열차",
@@ -242,13 +235,6 @@
         "position": 30
       },
       {
-        "query": "슬리퍼 가격",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 9
-      },
-      {
         "query": "턴 서지",
         "clicks": 0,
         "impressions": 1,
@@ -258,21 +244,21 @@
       {
         "query": "파파 안달 부루스 고속성장분석기",
         "clicks": 0,
-        "impressions": 30,
+        "impressions": 4,
         "ctr": 0,
         "position": 10
       },
       {
         "query": "파파안달부루스 고속성장분석기",
         "clicks": 0,
-        "impressions": 37,
+        "impressions": 6,
         "ctr": 0,
-        "position": 10.0
+        "position": 9.8
       },
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 2,
         "ctr": 0,
         "position": 21
       },
@@ -282,14 +268,16 @@
         "impressions": 1,
         "ctr": 0,
         "position": 17
+      },
+      {
+        "query": "프라하에서 부다페스트 야간열차",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 20
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-14",
-        "clicks": 0,
-        "impressions": 69
-      },
       {
         "date": "2026-08-15",
         "clicks": 0,
@@ -409,6 +397,11 @@
         "date": "2026-09-07",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-09-08",
+        "clicks": 0,
+        "impressions": 5
       }
     ],
     "yesterday_pages": []
@@ -416,25 +409,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.06,
-      "impressions": 3,
+      "rpm": 0.99,
+      "impressions": 5,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
       "rpm": 0.13,
-      "impressions": 155,
+      "impressions": 159,
       "clicks": 5
     },
     "trend": [
-      {
-        "date": "2026-08-14",
-        "earnings": 0.0,
-        "rpm": 0.03,
-        "impressions": 1,
-        "clicks": 0
-      },
       {
         "date": "2026-08-15",
         "earnings": 0.0,
@@ -559,6 +545,13 @@
         "earnings": 0.0,
         "rpm": 0.06,
         "impressions": 3,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-10",
+        "earnings": 0.0,
+        "rpm": 0.99,
+        "impressions": 5,
         "clicks": 0
       }
     ]
