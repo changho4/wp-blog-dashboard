@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-13 05:46",
-  "yesterday": "2026-09-12",
+  "updated_at": "2026-09-14 05:56",
+  "yesterday": "2026-09-13",
   "ga4": {
     "yesterday": {
-      "sessions": 2,
-      "users": 2,
-      "pageviews": 2
+      "sessions": 7,
+      "users": 7,
+      "pageviews": 7
     },
     "trend": [
-      {
-        "date": "20260817",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260818",
         "sessions": 10,
@@ -132,12 +127,17 @@
         "date": "20260912",
         "sessions": 2,
         "users": 2
+      },
+      {
+        "date": "20260913",
+        "sessions": 7,
+        "users": 7
       }
     ],
     "summary": {
-      "sessions": 104,
-      "users": 99,
-      "bounceRate": 76.9
+      "sessions": 108,
+      "users": 103,
+      "bounceRate": 77.8
     },
     "pages": [
       {
@@ -161,19 +161,19 @@
         "pageviews": 3
       },
       {
-        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
-        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
+        "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
+        "path": "/wp/2026/08/10/원두-과테말라-산-라파엘-게이샤-허니-c-o-e-nw-2025kook-coffee-roasters/",
         "pageviews": 2
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 65
+        "sessions": 66
       },
       {
         "device": "mobile",
-        "sessions": 39
+        "sessions": 42
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 63
+        "sessions": 68
       },
       {
         "channel": "Organic Search",
-        "sessions": 35
+        "sessions": 34
       },
       {
         "channel": "Organic Social",
@@ -207,10 +207,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 5,
-      "impressions": 131,
-      "ctr": 3.82,
-      "position": 9.7
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 1.59,
+      "position": 9.9
     },
     "queries": [
       {
@@ -278,11 +278,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-17",
-        "clicks": 3,
-        "impressions": 7
-      },
       {
         "date": "2026-08-18",
         "clicks": 0,
@@ -402,6 +397,11 @@
         "date": "2026-09-10",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-09-11",
+        "clicks": 0,
+        "impressions": 2
       }
     ],
     "yesterday_pages": []
@@ -416,18 +416,11 @@
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.13,
-      "impressions": 153,
+      "rpm": 0.14,
+      "impressions": 141,
       "clicks": 5
     },
     "trend": [
-      {
-        "date": "2026-08-17",
-        "earnings": 0.0,
-        "rpm": 0.11,
-        "impressions": 12,
-        "clicks": 0
-      },
       {
         "date": "2026-08-18",
         "earnings": 0.0,
