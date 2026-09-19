@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-18 05:39",
-  "yesterday": "2026-09-17",
+  "updated_at": "2026-09-19 05:34",
+  "yesterday": "2026-09-18",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 15,
+      "users": 15,
+      "pageviews": 15
     },
     "trend": [
-      {
-        "date": "20260822",
-        "sessions": 8,
-        "users": 7
-      },
       {
         "date": "20260823",
         "sessions": 5,
@@ -122,18 +117,23 @@
         "date": "20260917",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20260918",
+        "sessions": 15,
+        "users": 15
       }
     ],
     "summary": {
-      "sessions": 105,
-      "users": 102,
-      "bounceRate": 79.0
+      "sessions": 112,
+      "users": 111,
+      "bounceRate": 81.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 26
+        "pageviews": 23
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -141,29 +141,29 @@
         "pageviews": 13
       },
       {
+        "title": "브롬톤과 버디 비교 - Changho World",
+        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "pageviews": 4
+      },
+      {
         "title": "Changho World - 15 중 9 번째 페이지 -",
         "path": "/wp/page/9/",
         "pageviews": 3
       },
       {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 3
-      },
-      {
-        "title": "브롬톤과 버디 비교 - Changho World",
-        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "title": "블루투스 헤드폰 구입하기 - Changho World",
+        "path": "/wp/2015/02/03/블루투스-헤드폰-구입하기/",
         "pageviews": 3
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 61
+        "sessions": 70
       },
       {
         "device": "mobile",
-        "sessions": 44
+        "sessions": 42
       },
       {
         "device": "tablet",
@@ -173,11 +173,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 70
+        "sessions": 78
       },
       {
         "channel": "Organic Search",
-        "sessions": 32
+        "sessions": 31
       },
       {
         "channel": "Organic Social",
@@ -198,8 +198,8 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 126,
-      "ctr": 1.59,
+      "impressions": 128,
+      "ctr": 1.56,
       "position": 9.6
     },
     "queries": [
@@ -254,11 +254,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-22",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-08-23",
         "clicks": 0,
@@ -378,6 +373,11 @@
         "date": "2026-09-15",
         "clicks": 0,
         "impressions": 4
+      },
+      {
+        "date": "2026-09-16",
+        "clicks": 0,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
@@ -385,15 +385,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.17,
-      "impressions": 11,
+      "rpm": 0.16,
+      "impressions": 8,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.15,
-      "impressions": 134,
+      "rpm": 0.14,
+      "impressions": 142,
       "clicks": 4
     },
     "trend": [
@@ -507,6 +507,13 @@
         "earnings": 0.0,
         "rpm": 0.17,
         "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-18",
+        "earnings": 0.0,
+        "rpm": 0.16,
+        "impressions": 8,
         "clicks": 0
       }
     ]
