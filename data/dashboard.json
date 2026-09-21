@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-20 05:53",
-  "yesterday": "2026-09-19",
+  "updated_at": "2026-09-21 06:00",
+  "yesterday": "2026-09-20",
   "ga4": {
     "yesterday": {
-      "sessions": 17,
-      "users": 17,
-      "pageviews": 17
+      "sessions": 15,
+      "users": 15,
+      "pageviews": 15
     },
     "trend": [
-      {
-        "date": "20260824",
-        "sessions": 6,
-        "users": 6
-      },
       {
         "date": "20260825",
         "sessions": 4,
@@ -122,28 +117,33 @@
         "date": "20260919",
         "sessions": 17,
         "users": 17
+      },
+      {
+        "date": "20260920",
+        "sessions": 15,
+        "users": 15
       }
     ],
     "summary": {
-      "sessions": 124,
-      "users": 123,
-      "bounceRate": 83.1
+      "sessions": 133,
+      "users": 132,
+      "bounceRate": 84.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 21
+        "pageviews": 22
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 13
+        "pageviews": 11
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 4
+        "pageviews": 6
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
@@ -159,7 +159,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 84
+        "sessions": 93
       },
       {
         "device": "mobile",
@@ -173,11 +173,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 90
+        "sessions": 100
       },
       {
         "channel": "Organic Search",
-        "sessions": 31
+        "sessions": 30
       },
       {
         "channel": "Organic Social",
@@ -198,18 +198,11 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 137,
-      "ctr": 1.46,
-      "position": 9.3
+      "impressions": 136,
+      "ctr": 1.47,
+      "position": 9.0
     },
     "queries": [
-      {
-        "query": "부다페스트에서 프라하 야간열차",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 24
-      },
       {
         "query": "브롬톤 전기자전거",
         "clicks": 0,
@@ -254,11 +247,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-24",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-08-25",
         "clicks": 0,
@@ -378,6 +366,11 @@
         "date": "2026-09-17",
         "clicks": 0,
         "impressions": 12
+      },
+      {
+        "date": "2026-09-18",
+        "clicks": 0,
+        "impressions": 5
       }
     ],
     "yesterday_pages": []
@@ -385,25 +378,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.01,
-      "impressions": 2,
+      "rpm": 0.02,
+      "impressions": 4,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
       "rpm": 0.15,
-      "impressions": 135,
+      "impressions": 133,
       "clicks": 4
     },
     "trend": [
-      {
-        "date": "2026-08-24",
-        "earnings": 0.0,
-        "rpm": 0.37,
-        "impressions": 9,
-        "clicks": 0
-      },
       {
         "date": "2026-08-26",
         "earnings": 0.0,
@@ -512,8 +498,15 @@
       {
         "date": "2026-09-19",
         "earnings": 0.0,
-        "rpm": 0.01,
-        "impressions": 2,
+        "rpm": 0.05,
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-20",
+        "earnings": 0.0,
+        "rpm": 0.02,
+        "impressions": 4,
         "clicks": 0
       }
     ]
