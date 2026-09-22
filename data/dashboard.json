@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-21 06:00",
-  "yesterday": "2026-09-20",
+  "updated_at": "2026-09-22 05:56",
+  "yesterday": "2026-09-21",
   "ga4": {
     "yesterday": {
-      "sessions": 15,
-      "users": 15,
-      "pageviews": 15
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 12
     },
     "trend": [
-      {
-        "date": "20260825",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260826",
         "sessions": 5,
@@ -122,12 +117,17 @@
         "date": "20260920",
         "sessions": 15,
         "users": 15
+      },
+      {
+        "date": "20260921",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 133,
-      "users": 132,
-      "bounceRate": 84.2
+      "sessions": 141,
+      "users": 140,
+      "bounceRate": 85.8
     },
     "pages": [
       {
@@ -138,7 +138,7 @@
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 11
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -151,19 +151,19 @@
         "pageviews": 4
       },
       {
-        "title": "Changho World - 15 중 9 번째 페이지 -",
-        "path": "/wp/page/9/",
+        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
+        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
         "pageviews": 3
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 93
+        "sessions": 102
       },
       {
         "device": "mobile",
-        "sessions": 40
+        "sessions": 39
       },
       {
         "device": "tablet",
@@ -173,7 +173,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 100
+        "sessions": 108
       },
       {
         "channel": "Organic Search",
@@ -198,9 +198,9 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 136,
-      "ctr": 1.47,
-      "position": 9.0
+      "impressions": 142,
+      "ctr": 1.41,
+      "position": 8.8
     },
     "queries": [
       {
@@ -237,21 +237,9 @@
         "impressions": 1,
         "ctr": 0,
         "position": 17
-      },
-      {
-        "query": "프라하에서 부다페스트 야간열차",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 20
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-25",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-08-26",
         "clicks": 1,
@@ -371,6 +359,11 @@
         "date": "2026-09-18",
         "clicks": 0,
         "impressions": 5
+      },
+      {
+        "date": "2026-09-19",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
@@ -378,15 +371,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.02,
-      "impressions": 4,
+      "rpm": 0.32,
+      "impressions": 10,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.15,
-      "impressions": 133,
+      "rpm": 0.14,
+      "impressions": 143,
       "clicks": 4
     },
     "trend": [
@@ -507,6 +500,13 @@
         "earnings": 0.0,
         "rpm": 0.02,
         "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-21",
+        "earnings": 0.0,
+        "rpm": 0.32,
+        "impressions": 10,
         "clicks": 0
       }
     ]
