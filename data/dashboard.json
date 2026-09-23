@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-22 05:56",
-  "yesterday": "2026-09-21",
+  "updated_at": "2026-09-23 05:39",
+  "yesterday": "2026-09-22",
   "ga4": {
     "yesterday": {
       "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "users": 11,
+      "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20260826",
-        "sessions": 5,
-        "users": 5
-      },
       {
         "date": "20260827",
         "sessions": 4,
@@ -122,28 +117,33 @@
         "date": "20260921",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20260922",
+        "sessions": 12,
+        "users": 11
       }
     ],
     "summary": {
-      "sessions": 141,
-      "users": 140,
+      "sessions": 148,
+      "users": 146,
       "bounceRate": 85.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 22
+        "pageviews": 23
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 12
+        "pageviews": 14
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 6
+        "pageviews": 8
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
@@ -159,11 +159,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 102
+        "sessions": 106
       },
       {
         "device": "mobile",
-        "sessions": 39
+        "sessions": 42
       },
       {
         "device": "tablet",
@@ -173,11 +173,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 108
+        "sessions": 112
       },
       {
         "channel": "Organic Search",
-        "sessions": 30
+        "sessions": 32
       },
       {
         "channel": "Organic Social",
@@ -185,7 +185,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 1
+        "sessions": 2
       }
     ]
   },
@@ -197,10 +197,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 2,
-      "impressions": 142,
-      "ctr": 1.41,
-      "position": 8.8
+      "clicks": 1,
+      "impressions": 145,
+      "ctr": 0.69,
+      "position": 8.7
     },
     "queries": [
       {
@@ -240,11 +240,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-26",
-        "clicks": 1,
-        "impressions": 6
-      },
       {
         "date": "2026-08-27",
         "clicks": 0,
@@ -364,32 +359,30 @@
         "date": "2026-09-19",
         "clicks": 0,
         "impressions": 10
+      },
+      {
+        "date": "2026-09-20",
+        "clicks": 0,
+        "impressions": 9
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.32,
-      "impressions": 10,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.14,
-      "impressions": 143,
+      "rpm": 0.15,
+      "impressions": 131,
       "clicks": 4
     },
     "trend": [
-      {
-        "date": "2026-08-26",
-        "earnings": 0.0,
-        "rpm": 0.96,
-        "impressions": 12,
-        "clicks": 0
-      },
       {
         "date": "2026-08-27",
         "earnings": 0.0,
@@ -505,7 +498,7 @@
       {
         "date": "2026-09-21",
         "earnings": 0.0,
-        "rpm": 0.32,
+        "rpm": 0.24,
         "impressions": 10,
         "clicks": 0
       }
