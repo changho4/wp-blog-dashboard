@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-23 05:39",
-  "yesterday": "2026-09-22",
+  "updated_at": "2026-09-24 05:56",
+  "yesterday": "2026-09-23",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 11,
-      "pageviews": 13
+      "sessions": 10,
+      "users": 10,
+      "pageviews": 10
     },
     "trend": [
-      {
-        "date": "20260827",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260828",
         "sessions": 4,
@@ -122,23 +117,28 @@
         "date": "20260922",
         "sessions": 12,
         "users": 11
+      },
+      {
+        "date": "20260923",
+        "sessions": 10,
+        "users": 10
       }
     ],
     "summary": {
-      "sessions": 148,
-      "users": 146,
-      "bounceRate": 85.8
+      "sessions": 154,
+      "users": 152,
+      "bounceRate": 87.7
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 23
+        "pageviews": 24
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 14
+        "pageviews": 15
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -159,11 +159,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 106
+        "sessions": 110
       },
       {
         "device": "mobile",
-        "sessions": 42
+        "sessions": 44
       },
       {
         "device": "tablet",
@@ -173,19 +173,19 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 112
+        "sessions": 120
       },
       {
         "channel": "Organic Search",
-        "sessions": 32
-      },
-      {
-        "channel": "Organic Social",
-        "sessions": 2
+        "sessions": 31
       },
       {
         "channel": "Referral",
         "sessions": 2
+      },
+      {
+        "channel": "Organic Social",
+        "sessions": 1
       }
     ]
   },
@@ -198,9 +198,9 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 145,
-      "ctr": 0.69,
-      "position": 8.7
+      "impressions": 149,
+      "ctr": 0.67,
+      "position": 8.4
     },
     "queries": [
       {
@@ -227,9 +227,9 @@
       {
         "query": "프라하 부다페스트 야간열차",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 21
+        "position": 19
       },
       {
         "query": "프라하 부다페스트 야간열차 후기",
@@ -240,11 +240,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-27",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-08-28",
         "clicks": 0,
@@ -364,6 +359,11 @@
         "date": "2026-09-20",
         "clicks": 0,
         "impressions": 9
+      },
+      {
+        "date": "2026-09-21",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
@@ -379,17 +379,10 @@
     "summary": {
       "earnings": 0.02,
       "rpm": 0.15,
-      "impressions": 131,
+      "impressions": 134,
       "clicks": 4
     },
     "trend": [
-      {
-        "date": "2026-08-27",
-        "earnings": 0.0,
-        "rpm": 0.21,
-        "impressions": 2,
-        "clicks": 0
-      },
       {
         "date": "2026-08-30",
         "earnings": 0.0,
@@ -500,6 +493,13 @@
         "earnings": 0.0,
         "rpm": 0.24,
         "impressions": 10,
+        "clicks": 0
+      },
+      {
+        "date": "2026-09-22",
+        "earnings": 0.0,
+        "rpm": 0.19,
+        "impressions": 5,
         "clicks": 0
       }
     ]
