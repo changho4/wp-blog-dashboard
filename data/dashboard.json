@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-24 05:56",
-  "yesterday": "2026-09-23",
+  "updated_at": "2026-09-25 05:58",
+  "yesterday": "2026-09-24",
   "ga4": {
     "yesterday": {
-      "sessions": 10,
-      "users": 10,
-      "pageviews": 10
+      "sessions": 9,
+      "users": 9,
+      "pageviews": 9
     },
     "trend": [
-      {
-        "date": "20260828",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20260830",
         "sessions": 8,
@@ -122,12 +117,17 @@
         "date": "20260923",
         "sessions": 10,
         "users": 10
+      },
+      {
+        "date": "20260924",
+        "sessions": 9,
+        "users": 9
       }
     ],
     "summary": {
-      "sessions": 154,
-      "users": 152,
-      "bounceRate": 87.7
+      "sessions": 159,
+      "users": 157,
+      "bounceRate": 88.1
     },
     "pages": [
       {
@@ -159,11 +159,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 110
+        "sessions": 117
       },
       {
         "device": "mobile",
-        "sessions": 44
+        "sessions": 42
       },
       {
         "device": "tablet",
@@ -173,7 +173,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 120
+        "sessions": 126
       },
       {
         "channel": "Organic Search",
@@ -182,10 +182,6 @@
       {
         "channel": "Referral",
         "sessions": 2
-      },
-      {
-        "channel": "Organic Social",
-        "sessions": 1
       }
     ]
   },
@@ -198,9 +194,9 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 149,
-      "ctr": 0.67,
-      "position": 8.4
+      "impressions": 144,
+      "ctr": 0.69,
+      "position": 8.5
     },
     "queries": [
       {
@@ -240,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-08-28",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-08-29",
         "clicks": 0,
@@ -364,6 +355,11 @@
         "date": "2026-09-21",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-09-22",
+        "clicks": 0,
+        "impressions": 1
       }
     ],
     "yesterday_pages": []
