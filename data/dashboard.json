@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-29 06:40",
-  "yesterday": "2026-09-28",
+  "updated_at": "2026-09-30 06:26",
+  "yesterday": "2026-09-29",
   "ga4": {
     "yesterday": {
-      "sessions": 8,
-      "users": 8,
-      "pageviews": 8
+      "sessions": 17,
+      "users": 17,
+      "pageviews": 17
     },
     "trend": [
-      {
-        "date": "20260902",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260903",
         "sessions": 8,
@@ -132,28 +127,33 @@
         "date": "20260928",
         "sessions": 8,
         "users": 8
+      },
+      {
+        "date": "20260929",
+        "sessions": 17,
+        "users": 17
       }
     ],
     "summary": {
-      "sessions": 193,
-      "users": 191,
-      "bounceRate": 90.2
+      "sessions": 209,
+      "users": 207,
+      "bounceRate": 90.9
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 33
+        "pageviews": 35
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 14
+        "pageviews": 13
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 8
+        "pageviews": 10
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
@@ -161,15 +161,15 @@
         "pageviews": 4
       },
       {
-        "title": "6단 브롬톤 기어비 – 로드바이크와 비교 - Changho World",
-        "path": "/wp/2021/09/28/6단-브롬톤-기어비-로드바이크와-비교/",
-        "pageviews": 3
+        "title": "페이지가 없습니다. - Changho World",
+        "path": "/wp/예제-페이지/",
+        "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 148
+        "sessions": 164
       },
       {
         "device": "mobile",
@@ -183,19 +183,19 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 161
+        "sessions": 176
       },
       {
         "channel": "Organic Search",
         "sessions": 29
       },
       {
-        "channel": "Referral",
+        "channel": "Organic Social",
         "sessions": 2
       },
       {
-        "channel": "Organic Social",
-        "sessions": 1
+        "channel": "Referral",
+        "sessions": 2
       },
       {
         "channel": "Unassigned",
@@ -217,6 +217,13 @@
       "position": 8.5
     },
     "queries": [
+      {
+        "query": "고속성장분석기",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 22
+      },
       {
         "query": "브롬톤 자전거 단점",
         "clicks": 0,
@@ -261,11 +268,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-02",
-        "clicks": 1,
-        "impressions": 7
-      },
       {
         "date": "2026-09-03",
         "clicks": 0,
@@ -385,32 +387,30 @@
         "date": "2026-09-26",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-09-27",
+        "clicks": 1,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.17,
-      "impressions": 12,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.14,
-      "impressions": 138,
+      "rpm": 0.16,
+      "impressions": 127,
       "clicks": 4
     },
     "trend": [
-      {
-        "date": "2026-09-02",
-        "earnings": 0.0,
-        "rpm": 0.35,
-        "impressions": 11,
-        "clicks": 0
-      },
       {
         "date": "2026-09-03",
         "earnings": 0.01,
@@ -526,7 +526,7 @@
       {
         "date": "2026-09-28",
         "earnings": 0.0,
-        "rpm": 0.17,
+        "rpm": 0.13,
         "impressions": 12,
         "clicks": 0
       }
