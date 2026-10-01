@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-09-30 06:26",
-  "yesterday": "2026-09-29",
+  "updated_at": "2026-10-01 07:00",
+  "yesterday": "2026-09-30",
   "ga4": {
     "yesterday": {
-      "sessions": 17,
-      "users": 17,
-      "pageviews": 17
+      "sessions": 9,
+      "users": 9,
+      "pageviews": 9
     },
     "trend": [
-      {
-        "date": "20260903",
-        "sessions": 8,
-        "users": 7
-      },
       {
         "date": "20260904",
         "sessions": 4,
@@ -132,23 +127,28 @@
         "date": "20260929",
         "sessions": 17,
         "users": 17
+      },
+      {
+        "date": "20260930",
+        "sessions": 9,
+        "users": 9
       }
     ],
     "summary": {
-      "sessions": 209,
-      "users": 207,
-      "bounceRate": 90.9
+      "sessions": 210,
+      "users": 209,
+      "bounceRate": 91.9
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 35
+        "pageviews": 36
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 13
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -169,7 +169,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 164
+        "sessions": 165
       },
       {
         "device": "mobile",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 176
+        "sessions": 181
       },
       {
         "channel": "Organic Search",
-        "sessions": 29
+        "sessions": 25
       },
       {
         "channel": "Organic Social",
@@ -253,13 +253,6 @@
         "position": 9
       },
       {
-        "query": "프라하 부다페스트 야간열차",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 19
-      },
-      {
         "query": "프라하 부다페스트 야간열차 후기",
         "clicks": 0,
         "impressions": 1,
@@ -268,11 +261,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-03",
-        "clicks": 0,
-        "impressions": 7
-      },
       {
         "date": "2026-09-04",
         "clicks": 0,
@@ -392,6 +380,11 @@
         "date": "2026-09-27",
         "clicks": 1,
         "impressions": 7
+      },
+      {
+        "date": "2026-09-28",
+        "clicks": 0,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
@@ -405,19 +398,12 @@
       "ctr": 0
     },
     "summary": {
-      "earnings": 0.02,
-      "rpm": 0.16,
-      "impressions": 127,
-      "clicks": 4
+      "earnings": 0.01,
+      "rpm": 0.09,
+      "impressions": 110,
+      "clicks": 3
     },
     "trend": [
-      {
-        "date": "2026-09-03",
-        "earnings": 0.01,
-        "rpm": 1.21,
-        "impressions": 17,
-        "clicks": 1
-      },
       {
         "date": "2026-09-04",
         "earnings": 0.0,
