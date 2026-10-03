@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-02 06:49",
-  "yesterday": "2026-10-01",
+  "updated_at": "2026-10-03 06:13",
+  "yesterday": "2026-10-02",
   "ga4": {
     "yesterday": {
-      "sessions": 10,
-      "users": 10,
-      "pageviews": 10
+      "sessions": 22,
+      "users": 22,
+      "pageviews": 23
     },
     "trend": [
-      {
-        "date": "20260905",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260906",
         "sessions": 6,
@@ -132,18 +127,23 @@
         "date": "20261001",
         "sessions": 10,
         "users": 10
+      },
+      {
+        "date": "20261002",
+        "sessions": 22,
+        "users": 22
       }
     ],
     "summary": {
-      "sessions": 216,
-      "users": 215,
-      "bounceRate": 93.1
+      "sessions": 236,
+      "users": 235,
+      "bounceRate": 94.1
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 37
+        "pageviews": 41
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -153,7 +153,7 @@
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 9
+        "pageviews": 8
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
@@ -169,11 +169,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 172
+        "sessions": 193
       },
       {
         "device": "mobile",
-        "sessions": 44
+        "sessions": 43
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 190
+        "sessions": 211
       },
       {
         "channel": "Organic Search",
-        "sessions": 22
+        "sessions": 21
       },
       {
         "channel": "Organic Social",
@@ -212,9 +212,9 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 147,
-      "ctr": 0.68,
-      "position": 8.5
+      "impressions": 139,
+      "ctr": 0.72,
+      "position": 8.4
     },
     "queries": [
       {
@@ -239,13 +239,6 @@
         "position": 30
       },
       {
-        "query": "파파안달부루스 고속성장분석기",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 9
-      },
-      {
         "query": "프라하 부다페스트 야간열차 후기",
         "clicks": 0,
         "impressions": 1,
@@ -254,11 +247,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-05",
-        "clicks": 0,
-        "impressions": 8
-      },
       {
         "date": "2026-09-06",
         "clicks": 0,
@@ -384,11 +372,11 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.03,
-      "impressions": 9,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.01,
