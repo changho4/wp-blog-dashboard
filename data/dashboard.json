@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-03 06:13",
-  "yesterday": "2026-10-02",
+  "updated_at": "2026-10-04 06:40",
+  "yesterday": "2026-10-03",
   "ga4": {
     "yesterday": {
-      "sessions": 22,
-      "users": 22,
-      "pageviews": 23
+      "sessions": 14,
+      "users": 14,
+      "pageviews": 14
     },
     "trend": [
-      {
-        "date": "20260906",
-        "sessions": 6,
-        "users": 6
-      },
       {
         "date": "20260907",
         "sessions": 2,
@@ -132,23 +127,28 @@
         "date": "20261002",
         "sessions": 22,
         "users": 22
+      },
+      {
+        "date": "20261003",
+        "sessions": 14,
+        "users": 14
       }
     ],
     "summary": {
-      "sessions": 236,
-      "users": 235,
-      "bounceRate": 94.1
+      "sessions": 244,
+      "users": 243,
+      "bounceRate": 95.1
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 41
+        "pageviews": 40
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 11
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -156,24 +156,24 @@
         "pageviews": 8
       },
       {
-        "title": "브롬톤과 버디 비교 - Changho World",
-        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 4
-      },
-      {
         "title": "페이지가 없습니다. - Changho World",
         "path": "/wp/예제-페이지/",
         "pageviews": 4
+      },
+      {
+        "title": "Changho World - 15 중 9 번째 페이지 -",
+        "path": "/wp/page/9/",
+        "pageviews": 3
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 193
+        "sessions": 203
       },
       {
         "device": "mobile",
-        "sessions": 43
+        "sessions": 41
       },
       {
         "device": "tablet",
@@ -183,11 +183,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 211
+        "sessions": 221
       },
       {
         "channel": "Organic Search",
-        "sessions": 21
+        "sessions": 20
       },
       {
         "channel": "Organic Social",
@@ -195,7 +195,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 2
+        "sessions": 1
       },
       {
         "channel": "Unassigned",
@@ -212,9 +212,9 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 139,
-      "ctr": 0.72,
-      "position": 8.4
+      "impressions": 136,
+      "ctr": 0.74,
+      "position": 8.1
     },
     "queries": [
       {
@@ -230,28 +230,9 @@
         "impressions": 1,
         "ctr": 0,
         "position": 25
-      },
-      {
-        "query": "브롬톤 전기자전거",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 30
-      },
-      {
-        "query": "프라하 부다페스트 야간열차 후기",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 17
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-06",
-        "clicks": 0,
-        "impressions": 3
-      },
       {
         "date": "2026-09-07",
         "clicks": 0,
@@ -372,26 +353,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
-      "clicks": 0,
-      "ctr": 0
+      "earnings": 0.0,
+      "rpm": 0.21,
+      "impressions": 17,
+      "clicks": 1,
+      "ctr": 4.76
     },
     "summary": {
       "earnings": 0.01,
-      "rpm": 0.09,
-      "impressions": 114,
-      "clicks": 3
+      "rpm": 0.08,
+      "impressions": 120,
+      "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-06",
-        "earnings": 0.0,
-        "rpm": 0.78,
-        "impressions": 11,
-        "clicks": 3
-      },
       {
         "date": "2026-09-08",
         "earnings": 0.01,
@@ -496,6 +470,13 @@
         "rpm": 0.03,
         "impressions": 9,
         "clicks": 0
+      },
+      {
+        "date": "2026-10-03",
+        "earnings": 0.0,
+        "rpm": 0.21,
+        "impressions": 17,
+        "clicks": 1
       }
     ]
   }
