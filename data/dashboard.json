@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-05 06:40",
-  "yesterday": "2026-10-04",
+  "updated_at": "2026-10-06 07:21",
+  "yesterday": "2026-10-05",
   "ga4": {
     "yesterday": {
-      "sessions": 26,
-      "users": 26,
-      "pageviews": 26
+      "sessions": 13,
+      "users": 13,
+      "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20260908",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20260909",
         "sessions": 7,
@@ -132,18 +127,23 @@
         "date": "20261004",
         "sessions": 26,
         "users": 26
+      },
+      {
+        "date": "20261005",
+        "sessions": 13,
+        "users": 13
       }
     ],
     "summary": {
-      "sessions": 268,
-      "users": 267,
-      "bounceRate": 95.1
+      "sessions": 278,
+      "users": 277,
+      "bounceRate": 95.7
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 44
+        "pageviews": 45
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -156,34 +156,30 @@
         "pageviews": 8
       },
       {
-        "title": "페이지가 없습니다. - Changho World",
-        "path": "/wp/예제-페이지/",
+        "title": "아이팟클래식 벽돌상태 대처방법 - Changho World",
+        "path": "/wp/2014/07/03/아이팟클래식-벽돌상태-대처방법/",
         "pageviews": 4
       },
       {
-        "title": "Changho World - 15 중 9 번째 페이지 -",
-        "path": "/wp/page/9/",
-        "pageviews": 3
+        "title": "페이지가 없습니다. - Changho World",
+        "path": "/wp/예제-페이지/",
+        "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 220
+        "sessions": 232
       },
       {
         "device": "mobile",
-        "sessions": 48
-      },
-      {
-        "device": "tablet",
-        "sessions": 1
+        "sessions": 46
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 242
+        "sessions": 252
       },
       {
         "channel": "Organic Search",
@@ -233,11 +229,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-08",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-09-09",
         "clicks": 0,
@@ -357,32 +348,30 @@
         "date": "2026-10-02",
         "clicks": 0,
         "impressions": 5
+      },
+      {
+        "date": "2026-10-03",
+        "clicks": 0,
+        "impressions": 5
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.01,
-      "impressions": 1,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
-      "earnings": 0.01,
-      "rpm": 0.08,
-      "impressions": 121,
+      "earnings": 0.0,
+      "rpm": 0.0,
+      "impressions": 107,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-08",
-        "earnings": 0.01,
-        "rpm": 0.5,
-        "impressions": 14,
-        "clicks": 0
-      },
       {
         "date": "2026-09-09",
         "earnings": 0.0,
