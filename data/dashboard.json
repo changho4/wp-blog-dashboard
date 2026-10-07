@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-06 07:21",
-  "yesterday": "2026-10-05",
+  "updated_at": "2026-10-07 07:00",
+  "yesterday": "2026-10-06",
   "ga4": {
     "yesterday": {
-      "sessions": 13,
-      "users": 13,
-      "pageviews": 13
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 12
     },
     "trend": [
-      {
-        "date": "20260909",
-        "sessions": 7,
-        "users": 7
-      },
       {
         "date": "20260910",
         "sessions": 2,
@@ -132,18 +127,23 @@
         "date": "20261005",
         "sessions": 13,
         "users": 13
+      },
+      {
+        "date": "20261006",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 278,
-      "users": 277,
-      "bounceRate": 95.7
+      "sessions": 283,
+      "users": 282,
+      "bounceRate": 96.1
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 45
+        "pageviews": 47
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -169,21 +169,21 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 232
+        "sessions": 238
       },
       {
         "device": "mobile",
-        "sessions": 46
+        "sessions": 45
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 252
+        "sessions": 258
       },
       {
         "channel": "Organic Search",
-        "sessions": 22
+        "sessions": 21
       },
       {
         "channel": "Organic Social",
@@ -208,9 +208,9 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 140,
+      "impressions": 141,
       "ctr": 0.71,
-      "position": 8.0
+      "position": 8.3
     },
     "queries": [
       {
@@ -229,11 +229,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-09",
-        "clicks": 0,
-        "impressions": 7
-      },
       {
         "date": "2026-09-10",
         "clicks": 0,
@@ -353,32 +348,30 @@
         "date": "2026-10-03",
         "clicks": 0,
         "impressions": 5
+      },
+      {
+        "date": "2026-10-04",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.07,
+      "impressions": 5,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 107,
+      "impressions": 109,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-09",
-        "earnings": 0.0,
-        "rpm": 0.06,
-        "impressions": 3,
-        "clicks": 0
-      },
       {
         "date": "2026-09-10",
         "earnings": 0.0,
@@ -482,6 +475,13 @@
         "earnings": 0.0,
         "rpm": 0.01,
         "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-06",
+        "earnings": 0.0,
+        "rpm": 0.07,
+        "impressions": 5,
         "clicks": 0
       }
     ]
