@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-07 07:00",
-  "yesterday": "2026-10-06",
+  "updated_at": "2026-10-08 07:08",
+  "yesterday": "2026-10-07",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 19,
+      "users": 19,
+      "pageviews": 20
     },
     "trend": [
-      {
-        "date": "20260910",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260911",
         "sessions": 3,
@@ -132,23 +127,28 @@
         "date": "20261006",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20261007",
+        "sessions": 19,
+        "users": 19
       }
     ],
     "summary": {
-      "sessions": 283,
-      "users": 282,
-      "bounceRate": 96.1
+      "sessions": 299,
+      "users": 299,
+      "bounceRate": 96.0
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 47
+        "pageviews": 48
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 13
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -156,34 +156,34 @@
         "pageviews": 8
       },
       {
-        "title": "아이팟클래식 벽돌상태 대처방법 - Changho World",
-        "path": "/wp/2014/07/03/아이팟클래식-벽돌상태-대처방법/",
+        "title": "둘째와 둘만간 제주도 자전거여행 - Changho World",
+        "path": "/wp/2017/10/27/둘째와-둘만간-제주도-자전거여행/",
         "pageviews": 4
       },
       {
-        "title": "페이지가 없습니다. - Changho World",
-        "path": "/wp/예제-페이지/",
+        "title": "아이팟클래식 벽돌상태 대처방법 - Changho World",
+        "path": "/wp/2014/07/03/아이팟클래식-벽돌상태-대처방법/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 238
+        "sessions": 250
       },
       {
         "device": "mobile",
-        "sessions": 45
+        "sessions": 49
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 258
+        "sessions": 273
       },
       {
         "channel": "Organic Search",
-        "sessions": 21
+        "sessions": 22
       },
       {
         "channel": "Organic Social",
@@ -208,8 +208,8 @@
     },
     "summary": {
       "clicks": 1,
-      "impressions": 141,
-      "ctr": 0.71,
+      "impressions": 150,
+      "ctr": 0.67,
       "position": 8.3
     },
     "queries": [
@@ -229,11 +229,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-10",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-09-11",
         "clicks": 0,
@@ -353,32 +348,30 @@
         "date": "2026-10-04",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-10-05",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.07,
-      "impressions": 5,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 109,
+      "impressions": 104,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-10",
-        "earnings": 0.0,
-        "rpm": 0.99,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-09-11",
         "earnings": 0.0,
