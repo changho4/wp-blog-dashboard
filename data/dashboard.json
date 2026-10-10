@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-09 07:13",
-  "yesterday": "2026-10-08",
+  "updated_at": "2026-10-10 06:49",
+  "yesterday": "2026-10-09",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 6,
+      "users": 6,
+      "pageviews": 6
     },
     "trend": [
-      {
-        "date": "20260912",
-        "sessions": 2,
-        "users": 2
-      },
       {
         "date": "20260913",
         "sessions": 7,
@@ -132,18 +127,23 @@
         "date": "20261008",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20261009",
+        "sessions": 6,
+        "users": 6
       }
     ],
     "summary": {
-      "sessions": 308,
-      "users": 308,
-      "bounceRate": 96.4
+      "sessions": 312,
+      "users": 312,
+      "bounceRate": 96.5
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 49
+        "pageviews": 50
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -169,7 +169,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 259
+        "sessions": 263
       },
       {
         "device": "mobile",
@@ -179,7 +179,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 284
+        "sessions": 287
       },
       {
         "channel": "Organic Search",
@@ -191,7 +191,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 1
+        "sessions": 2
       },
       {
         "channel": "Unassigned",
@@ -208,8 +208,8 @@
     },
     "summary": {
       "clicks": 3,
-      "impressions": 156,
-      "ctr": 1.92,
+      "impressions": 150,
+      "ctr": 2.0,
       "position": 8.3
     },
     "queries": [
@@ -229,11 +229,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-12",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-09-13",
         "clicks": 0,
@@ -359,16 +354,16 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.32,
+      "impressions": 6,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 100,
+      "impressions": 106,
       "clicks": 1
     },
     "trend": [
@@ -468,6 +463,13 @@
         "earnings": 0.0,
         "rpm": 0.07,
         "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-09",
+        "earnings": 0.0,
+        "rpm": 0.32,
+        "impressions": 6,
         "clicks": 0
       }
     ]
