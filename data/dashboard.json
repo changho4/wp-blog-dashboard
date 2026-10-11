@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-10 06:49",
-  "yesterday": "2026-10-09",
+  "updated_at": "2026-10-11 06:55",
+  "yesterday": "2026-10-10",
   "ga4": {
     "yesterday": {
-      "sessions": 6,
-      "users": 6,
-      "pageviews": 6
+      "sessions": 16,
+      "users": 16,
+      "pageviews": 16
     },
     "trend": [
-      {
-        "date": "20260913",
-        "sessions": 7,
-        "users": 7
-      },
       {
         "date": "20260915",
         "sessions": 1,
@@ -132,23 +127,28 @@
         "date": "20261009",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20261010",
+        "sessions": 16,
+        "users": 16
       }
     ],
     "summary": {
-      "sessions": 312,
-      "users": 312,
-      "bounceRate": 96.5
+      "sessions": 321,
+      "users": 321,
+      "bounceRate": 96.0
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 50
+        "pageviews": 49
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 11
+        "pageviews": 14
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -169,7 +169,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 263
+        "sessions": 272
       },
       {
         "device": "mobile",
@@ -179,11 +179,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 287
+        "sessions": 293
       },
       {
         "channel": "Organic Search",
-        "sessions": 20
+        "sessions": 23
       },
       {
         "channel": "Organic Social",
@@ -208,9 +208,9 @@
     },
     "summary": {
       "clicks": 3,
-      "impressions": 150,
-      "ctr": 2.0,
-      "position": 8.3
+      "impressions": 152,
+      "ctr": 1.97,
+      "position": 8.4
     },
     "queries": [
       {
@@ -229,11 +229,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-13",
-        "clicks": 0,
-        "impressions": 8
-      },
       {
         "date": "2026-09-14",
         "clicks": 0,
@@ -348,6 +343,16 @@
         "date": "2026-10-06",
         "clicks": 2,
         "impressions": 8
+      },
+      {
+        "date": "2026-10-07",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-10-08",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
@@ -355,15 +360,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.32,
-      "impressions": 6,
+      "rpm": 0.02,
+      "impressions": 5,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 106,
+      "impressions": 111,
       "clicks": 1
     },
     "trend": [
@@ -468,8 +473,15 @@
       {
         "date": "2026-10-09",
         "earnings": 0.0,
-        "rpm": 0.32,
+        "rpm": 0.29,
         "impressions": 6,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-10",
+        "earnings": 0.0,
+        "rpm": 0.02,
+        "impressions": 5,
         "clicks": 0
       }
     ]
