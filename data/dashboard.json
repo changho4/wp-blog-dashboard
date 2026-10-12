@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-11 06:55",
-  "yesterday": "2026-10-10",
+  "updated_at": "2026-10-12 07:05",
+  "yesterday": "2026-10-11",
   "ga4": {
     "yesterday": {
-      "sessions": 16,
-      "users": 16,
-      "pageviews": 16
+      "sessions": 13,
+      "users": 12,
+      "pageviews": 12
     },
     "trend": [
       {
@@ -132,18 +132,23 @@
         "date": "20261010",
         "sessions": 16,
         "users": 16
+      },
+      {
+        "date": "20261011",
+        "sessions": 13,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 321,
-      "users": 321,
-      "bounceRate": 96.0
+      "sessions": 334,
+      "users": 333,
+      "bounceRate": 95.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 49
+        "pageviews": 52
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -169,21 +174,21 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 272
+        "sessions": 281
       },
       {
         "device": "mobile",
-        "sessions": 49
+        "sessions": 53
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 293
+        "sessions": 304
       },
       {
         "channel": "Organic Search",
-        "sessions": 23
+        "sessions": 25
       },
       {
         "channel": "Organic Social",
@@ -208,8 +213,8 @@
     },
     "summary": {
       "clicks": 3,
-      "impressions": 152,
-      "ctr": 1.97,
+      "impressions": 148,
+      "ctr": 2.03,
       "position": 8.4
     },
     "queries": [
@@ -229,11 +234,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-14",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-09-15",
         "clicks": 0,
@@ -353,6 +353,11 @@
         "date": "2026-10-08",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-10-09",
+        "clicks": 0,
+        "impressions": 1
       }
     ],
     "yesterday_pages": []
@@ -360,15 +365,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.02,
-      "impressions": 5,
+      "rpm": 0.03,
+      "impressions": 9,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 111,
+      "impressions": 120,
       "clicks": 1
     },
     "trend": [
@@ -482,6 +487,13 @@
         "earnings": 0.0,
         "rpm": 0.02,
         "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-11",
+        "earnings": 0.0,
+        "rpm": 0.03,
+        "impressions": 9,
         "clicks": 0
       }
     ]
