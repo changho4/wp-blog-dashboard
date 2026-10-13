@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-12 07:05",
-  "yesterday": "2026-10-11",
+  "updated_at": "2026-10-13 07:30",
+  "yesterday": "2026-10-12",
   "ga4": {
     "yesterday": {
-      "sessions": 13,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 9,
+      "users": 9,
+      "pageviews": 9
     },
     "trend": [
-      {
-        "date": "20260915",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20260917",
         "sessions": 12,
@@ -137,18 +132,23 @@
         "date": "20261011",
         "sessions": 13,
         "users": 12
+      },
+      {
+        "date": "20261012",
+        "sessions": 9,
+        "users": 9
       }
     ],
     "summary": {
-      "sessions": 334,
-      "users": 333,
-      "bounceRate": 95.8
+      "sessions": 342,
+      "users": 341,
+      "bounceRate": 96.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 52
+        "pageviews": 53
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -174,7 +174,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 281
+        "sessions": 289
       },
       {
         "device": "mobile",
@@ -184,11 +184,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 304
+        "sessions": 313
       },
       {
         "channel": "Organic Search",
-        "sessions": 25
+        "sessions": 24
       },
       {
         "channel": "Organic Social",
@@ -234,11 +234,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-15",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-09-16",
         "clicks": 0,
@@ -358,6 +353,11 @@
         "date": "2026-10-09",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-10-10",
+        "clicks": 0,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
@@ -365,25 +365,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.03,
-      "impressions": 9,
+      "rpm": 0.0,
+      "impressions": 1,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 120,
+      "impressions": 116,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-15",
-        "earnings": 0.0,
-        "rpm": 0.97,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-09-17",
         "earnings": 0.0,
@@ -494,6 +487,13 @@
         "earnings": 0.0,
         "rpm": 0.03,
         "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-12",
+        "earnings": 0.0,
+        "rpm": 0.0,
+        "impressions": 1,
         "clicks": 0
       }
     ]
