@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-14 05:56",
-  "yesterday": "2026-10-13",
+  "updated_at": "2026-10-15 05:41",
+  "yesterday": "2026-10-14",
   "ga4": {
     "yesterday": {
-      "sessions": 16,
-      "users": 16,
-      "pageviews": 21
+      "sessions": 9,
+      "users": 9,
+      "pageviews": 9
     },
     "trend": [
-      {
-        "date": "20260917",
-        "sessions": 12,
-        "users": 12
-      },
       {
         "date": "20260918",
         "sessions": 15,
@@ -142,18 +137,23 @@
         "date": "20261013",
         "sessions": 16,
         "users": 16
+      },
+      {
+        "date": "20261014",
+        "sessions": 9,
+        "users": 9
       }
     ],
     "summary": {
-      "sessions": 358,
-      "users": 357,
-      "bounceRate": 95.3
+      "sessions": 355,
+      "users": 354,
+      "bounceRate": 94.9
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 56
+        "pageviews": 57
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -166,8 +166,8 @@
         "pageviews": 8
       },
       {
-        "title": "둘째와 둘만간 제주도 자전거여행 - Changho World",
-        "path": "/wp/2017/10/27/둘째와-둘만간-제주도-자전거여행/",
+        "title": "아버지 칠순여행 계획 - Changho World",
+        "path": "/wp/2012/02/14/아버지-칠순여행-계획/",
         "pageviews": 4
       },
       {
@@ -179,17 +179,17 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 302
+        "sessions": 300
       },
       {
         "device": "mobile",
-        "sessions": 56
+        "sessions": 55
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 326
+        "sessions": 323
       },
       {
         "channel": "Organic Search",
@@ -217,10 +217,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 3,
-      "impressions": 144,
-      "ctr": 2.08,
-      "position": 8.3
+      "clicks": 4,
+      "impressions": 138,
+      "ctr": 2.9,
+      "position": 8.4
     },
     "queries": [
       {
@@ -239,11 +239,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-17",
-        "clicks": 0,
-        "impressions": 12
-      },
       {
         "date": "2026-09-18",
         "clicks": 0,
@@ -363,32 +358,30 @@
         "date": "2026-10-11",
         "clicks": 0,
         "impressions": 3
+      },
+      {
+        "date": "2026-10-12",
+        "clicks": 1,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.16,
-      "impressions": 15,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 131,
+      "impressions": 120,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-17",
-        "earnings": 0.0,
-        "rpm": 0.17,
-        "impressions": 11,
-        "clicks": 0
-      },
       {
         "date": "2026-09-18",
         "earnings": 0.0,
@@ -504,7 +497,7 @@
       {
         "date": "2026-10-13",
         "earnings": 0.0,
-        "rpm": 0.16,
+        "rpm": 0.15,
         "impressions": 15,
         "clicks": 0
       }
