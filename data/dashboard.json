@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-15 05:41",
-  "yesterday": "2026-10-14",
+  "updated_at": "2026-10-16 05:36",
+  "yesterday": "2026-10-15",
   "ga4": {
     "yesterday": {
-      "sessions": 9,
-      "users": 9,
-      "pageviews": 9
+      "sessions": 5,
+      "users": 5,
+      "pageviews": 5
     },
     "trend": [
-      {
-        "date": "20260918",
-        "sessions": 15,
-        "users": 15
-      },
       {
         "date": "20260919",
         "sessions": 17,
@@ -142,12 +137,17 @@
         "date": "20261014",
         "sessions": 9,
         "users": 9
+      },
+      {
+        "date": "20261015",
+        "sessions": 5,
+        "users": 5
       }
     ],
     "summary": {
-      "sessions": 355,
-      "users": 354,
-      "bounceRate": 94.9
+      "sessions": 345,
+      "users": 344,
+      "bounceRate": 95.1
     },
     "pages": [
       {
@@ -179,7 +179,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 300
+        "sessions": 290
       },
       {
         "device": "mobile",
@@ -189,11 +189,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 323
+        "sessions": 314
       },
       {
         "channel": "Organic Search",
-        "sessions": 27
+        "sessions": 26
       },
       {
         "channel": "Organic Social",
@@ -217,10 +217,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 4,
-      "impressions": 138,
-      "ctr": 2.9,
-      "position": 8.4
+      "clicks": 5,
+      "impressions": 139,
+      "ctr": 3.6,
+      "position": 8.6
     },
     "queries": [
       {
@@ -239,11 +239,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-18",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-09-19",
         "clicks": 0,
@@ -363,32 +358,30 @@
         "date": "2026-10-12",
         "clicks": 1,
         "impressions": 6
+      },
+      {
+        "date": "2026-10-13",
+        "clicks": 1,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.08,
+      "impressions": 11,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 120,
+      "impressions": 123,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-18",
-        "earnings": 0.0,
-        "rpm": 0.15,
-        "impressions": 8,
-        "clicks": 0
-      },
       {
         "date": "2026-09-19",
         "earnings": 0.0,
@@ -499,6 +492,13 @@
         "earnings": 0.0,
         "rpm": 0.15,
         "impressions": 15,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-15",
+        "earnings": 0.0,
+        "rpm": 0.08,
+        "impressions": 11,
         "clicks": 0
       }
     ]
