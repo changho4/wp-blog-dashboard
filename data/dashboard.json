@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-16 05:36",
-  "yesterday": "2026-10-15",
+  "updated_at": "2026-10-17 05:24",
+  "yesterday": "2026-10-16",
   "ga4": {
     "yesterday": {
-      "sessions": 5,
-      "users": 5,
-      "pageviews": 5
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20260919",
-        "sessions": 17,
-        "users": 17
-      },
       {
         "date": "20260920",
         "sessions": 15,
@@ -142,12 +137,17 @@
         "date": "20261015",
         "sessions": 5,
         "users": 5
+      },
+      {
+        "date": "20261016",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 345,
-      "users": 344,
-      "bounceRate": 95.1
+      "sessions": 340,
+      "users": 339,
+      "bounceRate": 94.4
     },
     "pages": [
       {
@@ -163,23 +163,23 @@
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 8
+        "pageviews": 9
+      },
+      {
+        "title": "4인가족 연말 홍콩여행 - Changho World",
+        "path": "/wp/2016/01/22/4인가족-연말-홍콩여행/",
+        "pageviews": 4
       },
       {
         "title": "아버지 칠순여행 계획 - Changho World",
         "path": "/wp/2012/02/14/아버지-칠순여행-계획/",
-        "pageviews": 4
-      },
-      {
-        "title": "아이팟클래식 벽돌상태 대처방법 - Changho World",
-        "path": "/wp/2014/07/03/아이팟클래식-벽돌상태-대처방법/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 290
+        "sessions": 285
       },
       {
         "device": "mobile",
@@ -189,11 +189,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 314
+        "sessions": 307
       },
       {
         "channel": "Organic Search",
-        "sessions": 26
+        "sessions": 28
       },
       {
         "channel": "Organic Social",
@@ -218,9 +218,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 139,
-      "ctr": 3.6,
-      "position": 8.6
+      "impressions": 135,
+      "ctr": 3.7,
+      "position": 8.9
     },
     "queries": [
       {
@@ -239,11 +239,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-19",
-        "clicks": 0,
-        "impressions": 10
-      },
       {
         "date": "2026-09-20",
         "clicks": 0,
@@ -363,6 +358,11 @@
         "date": "2026-10-13",
         "clicks": 1,
         "impressions": 6
+      },
+      {
+        "date": "2026-10-14",
+        "clicks": 0,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
@@ -370,25 +370,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.08,
-      "impressions": 11,
+      "rpm": 0.02,
+      "impressions": 4,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 123,
+      "impressions": 127,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-19",
-        "earnings": 0.0,
-        "rpm": 0.05,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-09-20",
         "earnings": 0.0,
@@ -498,7 +491,14 @@
         "date": "2026-10-15",
         "earnings": 0.0,
         "rpm": 0.08,
-        "impressions": 11,
+        "impressions": 16,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-16",
+        "earnings": 0.0,
+        "rpm": 0.02,
+        "impressions": 4,
         "clicks": 0
       }
     ]
