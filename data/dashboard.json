@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-19 05:52",
-  "yesterday": "2026-10-18",
+  "updated_at": "2026-10-20 05:44",
+  "yesterday": "2026-10-19",
   "ga4": {
     "yesterday": {
-      "sessions": 7,
-      "users": 7,
-      "pageviews": 7
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 12
     },
     "trend": [
-      {
-        "date": "20260922",
-        "sessions": 12,
-        "users": 11
-      },
       {
         "date": "20260923",
         "sessions": 10,
@@ -142,58 +137,63 @@
         "date": "20261018",
         "sessions": 7,
         "users": 7
+      },
+      {
+        "date": "20261019",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
       "sessions": 331,
-      "users": 330,
-      "bounceRate": 94.3
+      "users": 331,
+      "bounceRate": 94.6
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 55
+        "pageviews": 51
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 14
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 7
+        "pageviews": 6
+      },
+      {
+        "title": "4인가족 싱가폴 가족여행 Part1 - Changho World",
+        "path": "/wp/2014/01/16/4인가족-싱가폴-가족여행-part1/",
+        "pageviews": 4
       },
       {
         "title": "4인가족 연말 홍콩여행 - Changho World",
         "path": "/wp/2016/01/22/4인가족-연말-홍콩여행/",
-        "pageviews": 4
-      },
-      {
-        "title": "아버지 칠순여행 계획 - Changho World",
-        "path": "/wp/2012/02/14/아버지-칠순여행-계획/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 276
+        "sessions": 279
       },
       {
         "device": "mobile",
-        "sessions": 55
+        "sessions": 52
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 297
+        "sessions": 299
       },
       {
         "channel": "Organic Search",
-        "sessions": 27
+        "sessions": 26
       },
       {
         "channel": "Organic Social",
@@ -201,11 +201,11 @@
       },
       {
         "channel": "Referral",
-        "sessions": 2
+        "sessions": 1
       },
       {
         "channel": "Unassigned",
-        "sessions": 2
+        "sessions": 1
       }
     ]
   },
@@ -218,9 +218,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 127,
-      "ctr": 3.94,
-      "position": 9.2
+      "impressions": 130,
+      "ctr": 3.85,
+      "position": 9.1
     },
     "queries": [
       {
@@ -239,11 +239,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-22",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-09-23",
         "clicks": 0,
@@ -363,32 +358,30 @@
         "date": "2026-10-16",
         "clicks": 0,
         "impressions": 4
+      },
+      {
+        "date": "2026-10-17",
+        "clicks": 0,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.11,
+      "impressions": 11,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 113,
+      "impressions": 119,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-22",
-        "earnings": 0.0,
-        "rpm": 0.19,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-09-25",
         "earnings": 0.0,
@@ -485,6 +478,13 @@
         "earnings": 0.0,
         "rpm": 0.02,
         "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-19",
+        "earnings": 0.0,
+        "rpm": 0.11,
+        "impressions": 11,
         "clicks": 0
       }
     ]
