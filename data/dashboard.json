@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-20 05:44",
-  "yesterday": "2026-10-19",
+  "updated_at": "2026-10-21 05:48",
+  "yesterday": "2026-10-20",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 14,
+      "users": 14,
+      "pageviews": 14
     },
     "trend": [
-      {
-        "date": "20260923",
-        "sessions": 10,
-        "users": 10
-      },
       {
         "date": "20260924",
         "sessions": 9,
@@ -140,25 +135,30 @@
       },
       {
         "date": "20261019",
-        "sessions": 12,
-        "users": 12
+        "sessions": 15,
+        "users": 15
+      },
+      {
+        "date": "20261020",
+        "sessions": 14,
+        "users": 14
       }
     ],
     "summary": {
-      "sessions": 331,
-      "users": 331,
-      "bounceRate": 94.6
+      "sessions": 338,
+      "users": 338,
+      "bounceRate": 94.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 51
+        "pageviews": 52
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 12
+        "pageviews": 11
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -166,34 +166,34 @@
         "pageviews": 6
       },
       {
-        "title": "4인가족 싱가폴 가족여행 Part1 - Changho World",
-        "path": "/wp/2014/01/16/4인가족-싱가폴-가족여행-part1/",
-        "pageviews": 4
+        "title": "아리와 함께 간 제주도 여행 _ 씨스타크루즈호 타고 목포 제주 오가기 - Changho World",
+        "path": "/wp/2014/03/03/아리와-함께-간-제주도-여행-_-씨스타크루즈호-타고-목/",
+        "pageviews": 5
       },
       {
-        "title": "4인가족 연말 홍콩여행 - Changho World",
-        "path": "/wp/2016/01/22/4인가족-연말-홍콩여행/",
+        "title": "4인가족 싱가폴 가족여행 Part1 - Changho World",
+        "path": "/wp/2014/01/16/4인가족-싱가폴-가족여행-part1/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 279
+        "sessions": 288
       },
       {
         "device": "mobile",
-        "sessions": 52
+        "sessions": 50
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 299
+        "sessions": 307
       },
       {
         "channel": "Organic Search",
-        "sessions": 26
+        "sessions": 25
       },
       {
         "channel": "Organic Social",
@@ -218,17 +218,17 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 130,
-      "ctr": 3.85,
-      "position": 9.1
+      "impressions": 138,
+      "ctr": 3.62,
+      "position": 9.3
     },
     "queries": [
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 22
+        "position": 26
       },
       {
         "query": "브롬톤 자전거 단점",
@@ -239,11 +239,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-23",
-        "clicks": 0,
-        "impressions": 2
-      },
       {
         "date": "2026-09-24",
         "clicks": 0,
@@ -363,17 +358,22 @@
         "date": "2026-10-17",
         "clicks": 0,
         "impressions": 4
+      },
+      {
+        "date": "2026-10-18",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.11,
-      "impressions": 11,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.0,
