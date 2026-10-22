@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-21 05:48",
-  "yesterday": "2026-10-20",
+  "updated_at": "2026-10-22 05:51",
+  "yesterday": "2026-10-21",
   "ga4": {
     "yesterday": {
-      "sessions": 14,
-      "users": 14,
-      "pageviews": 14
+      "sessions": 15,
+      "users": 15,
+      "pageviews": 16
     },
     "trend": [
-      {
-        "date": "20260924",
-        "sessions": 9,
-        "users": 9
-      },
       {
         "date": "20260925",
         "sessions": 7,
@@ -142,12 +137,17 @@
         "date": "20261020",
         "sessions": 14,
         "users": 14
+      },
+      {
+        "date": "20261021",
+        "sessions": 15,
+        "users": 15
       }
     ],
     "summary": {
-      "sessions": 338,
-      "users": 338,
-      "bounceRate": 94.4
+      "sessions": 345,
+      "users": 344,
+      "bounceRate": 94.2
     },
     "pages": [
       {
@@ -158,7 +158,7 @@
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 11
+        "pageviews": 12
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -179,21 +179,21 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 288
+        "sessions": 294
       },
       {
         "device": "mobile",
-        "sessions": 50
+        "sessions": 51
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 307
+        "sessions": 313
       },
       {
         "channel": "Organic Search",
-        "sessions": 25
+        "sessions": 26
       },
       {
         "channel": "Organic Social",
@@ -218,9 +218,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 138,
-      "ctr": 3.62,
-      "position": 9.3
+      "impressions": 136,
+      "ctr": 3.68,
+      "position": 9.1
     },
     "queries": [
       {
@@ -229,21 +229,9 @@
         "impressions": 2,
         "ctr": 0,
         "position": 26
-      },
-      {
-        "query": "브롬톤 자전거 단점",
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 25
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-24",
-        "clicks": 0,
-        "impressions": 9
-      },
       {
         "date": "2026-09-25",
         "clicks": 0,
@@ -363,22 +351,27 @@
         "date": "2026-10-18",
         "clicks": 0,
         "impressions": 10
+      },
+      {
+        "date": "2026-10-19",
+        "clicks": 0,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.1,
+      "impressions": 9,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 119,
+      "impressions": 126,
       "clicks": 1
     },
     "trend": [
@@ -463,7 +456,7 @@
         "date": "2026-10-13",
         "earnings": 0.0,
         "rpm": 0.15,
-        "impressions": 15,
+        "impressions": 13,
         "clicks": 0
       },
       {
@@ -485,6 +478,13 @@
         "earnings": 0.0,
         "rpm": 0.11,
         "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-21",
+        "earnings": 0.0,
+        "rpm": 0.1,
+        "impressions": 9,
         "clicks": 0
       }
     ]
