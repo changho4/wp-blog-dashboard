@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-23 05:50",
-  "yesterday": "2026-10-22",
+  "updated_at": "2026-10-24 05:32",
+  "yesterday": "2026-10-23",
   "ga4": {
     "yesterday": {
-      "sessions": 1,
-      "users": 1,
-      "pageviews": 1
+      "sessions": 6,
+      "users": 6,
+      "pageviews": 6
     },
     "trend": [
-      {
-        "date": "20260926",
-        "sessions": 9,
-        "users": 9
-      },
       {
         "date": "20260927",
         "sessions": 19,
@@ -142,18 +137,23 @@
         "date": "20261022",
         "sessions": 1,
         "users": 1
+      },
+      {
+        "date": "20261023",
+        "sessions": 6,
+        "users": 6
       }
     ],
     "summary": {
-      "sessions": 339,
-      "users": 338,
-      "bounceRate": 94.1
+      "sessions": 336,
+      "users": 335,
+      "bounceRate": 94.0
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 48
+        "pageviews": 49
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -179,17 +179,17 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 288
+        "sessions": 286
       },
       {
         "device": "mobile",
-        "sessions": 51
+        "sessions": 50
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 306
+        "sessions": 303
       },
       {
         "channel": "Organic Search",
@@ -232,11 +232,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-26",
-        "clicks": 0,
-        "impressions": 6
-      },
       {
         "date": "2026-09-27",
         "clicks": 1,
@@ -356,6 +351,11 @@
         "date": "2026-10-20",
         "clicks": 0,
         "impressions": 2
+      },
+      {
+        "date": "2026-10-21",
+        "clicks": 0,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
@@ -371,17 +371,10 @@
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 125,
+      "impressions": 118,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-09-26",
-        "earnings": 0.0,
-        "rpm": 0.06,
-        "impressions": 7,
-        "clicks": 0
-      },
       {
         "date": "2026-09-28",
         "earnings": 0.0,
