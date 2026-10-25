@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-24 05:32",
-  "yesterday": "2026-10-23",
+  "updated_at": "2026-10-25 05:49",
+  "yesterday": "2026-10-24",
   "ga4": {
     "yesterday": {
-      "sessions": 6,
-      "users": 6,
-      "pageviews": 6
+      "sessions": 3,
+      "users": 3,
+      "pageviews": 3
     },
     "trend": [
-      {
-        "date": "20260927",
-        "sessions": 19,
-        "users": 19
-      },
       {
         "date": "20260928",
         "sessions": 8,
@@ -142,23 +137,28 @@
         "date": "20261023",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20261024",
+        "sessions": 3,
+        "users": 3
       }
     ],
     "summary": {
-      "sessions": 336,
-      "users": 335,
-      "bounceRate": 94.0
+      "sessions": 320,
+      "users": 319,
+      "bounceRate": 93.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 49
+        "pageviews": 45
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 13
+        "pageviews": 11
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -166,38 +166,38 @@
         "pageviews": 6
       },
       {
-        "title": "아리와 함께 간 제주도 여행 _ 씨스타크루즈호 타고 목포 제주 오가기 - Changho World",
-        "path": "/wp/2014/03/03/아리와-함께-간-제주도-여행-_-씨스타크루즈호-타고-목/",
-        "pageviews": 5
+        "title": "4인가족 연말 홍콩여행 - Changho World",
+        "path": "/wp/2016/01/22/4인가족-연말-홍콩여행/",
+        "pageviews": 4
       },
       {
-        "title": "4인가족 싱가폴 가족여행 Part1 - Changho World",
-        "path": "/wp/2014/01/16/4인가족-싱가폴-가족여행-part1/",
+        "title": "아리와 함께 간 제주도 여행 _ 씨스타크루즈호 타고 목포 제주 오가기 - Changho World",
+        "path": "/wp/2014/03/03/아리와-함께-간-제주도-여행-_-씨스타크루즈호-타고-목/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 286
+        "sessions": 276
       },
       {
         "device": "mobile",
-        "sessions": 50
+        "sessions": 44
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 303
+        "sessions": 289
       },
       {
         "channel": "Organic Search",
-        "sessions": 27
+        "sessions": 26
       },
       {
         "channel": "Organic Social",
-        "sessions": 4
+        "sessions": 3
       },
       {
         "channel": "Referral",
@@ -217,26 +217,21 @@
       "position": 0
     },
     "summary": {
-      "clicks": 5,
-      "impressions": 134,
-      "ctr": 3.73,
+      "clicks": 4,
+      "impressions": 127,
+      "ctr": 3.15,
       "position": 9.0
     },
     "queries": [
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 26
+        "position": 30
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-27",
-        "clicks": 1,
-        "impressions": 7
-      },
       {
         "date": "2026-09-28",
         "clicks": 0,
@@ -356,22 +351,27 @@
         "date": "2026-10-21",
         "clicks": 0,
         "impressions": 6
+      },
+      {
+        "date": "2026-10-22",
+        "clicks": 0,
+        "impressions": 0
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.01,
+      "impressions": 6,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 118,
+      "impressions": 124,
       "clicks": 1
     },
     "trend": [
@@ -471,6 +471,13 @@
         "earnings": 0.0,
         "rpm": 0.1,
         "impressions": 9,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-24",
+        "earnings": 0.0,
+        "rpm": 0.01,
+        "impressions": 6,
         "clicks": 0
       }
     ]
