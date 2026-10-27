@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-26 05:51",
-  "yesterday": "2026-10-25",
+  "updated_at": "2026-10-27 06:04",
+  "yesterday": "2026-10-26",
   "ga4": {
     "yesterday": {
-      "sessions": 5,
-      "users": 5,
-      "pageviews": 5
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20260929",
-        "sessions": 17,
-        "users": 17
-      },
       {
         "date": "20260930",
         "sessions": 9,
@@ -142,18 +137,23 @@
         "date": "20261025",
         "sessions": 5,
         "users": 5
+      },
+      {
+        "date": "20261026",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 317,
-      "users": 316,
-      "bounceRate": 93.7
+      "sessions": 304,
+      "users": 303,
+      "bounceRate": 93.8
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 46
+        "pageviews": 45
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -161,13 +161,13 @@
         "pageviews": 11
       },
       {
-        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
-        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 6
-      },
-      {
         "title": "4인가족 연말 홍콩여행 - Changho World",
         "path": "/wp/2016/01/22/4인가족-연말-홍콩여행/",
+        "pageviews": 4
+      },
+      {
+        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
+        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 4
       },
       {
@@ -179,17 +179,17 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 271
+        "sessions": 259
       },
       {
         "device": "mobile",
-        "sessions": 46
+        "sessions": 45
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 286
+        "sessions": 274
       },
       {
         "channel": "Organic Search",
@@ -197,7 +197,7 @@
       },
       {
         "channel": "Organic Social",
-        "sessions": 3
+        "sessions": 2
       },
       {
         "channel": "Referral",
@@ -218,8 +218,8 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 120,
-      "ctr": 3.33,
+      "impressions": 115,
+      "ctr": 3.48,
       "position": 9.0
     },
     "queries": [
@@ -232,11 +232,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-29",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-09-30",
         "clicks": 0,
@@ -367,16 +362,16 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.0,
+      "rpm": 0.08,
+      "impressions": 7,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 112,
+      "impressions": 119,
       "clicks": 1
     },
     "trend": [
@@ -476,6 +471,13 @@
         "earnings": 0.0,
         "rpm": 0.01,
         "impressions": 6,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-26",
+        "earnings": 0.0,
+        "rpm": 0.08,
+        "impressions": 7,
         "clicks": 0
       }
     ]
