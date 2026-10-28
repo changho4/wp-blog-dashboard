@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-27 06:04",
-  "yesterday": "2026-10-26",
+  "updated_at": "2026-10-28 06:42",
+  "yesterday": "2026-10-27",
   "ga4": {
     "yesterday": {
-      "sessions": 4,
-      "users": 4,
-      "pageviews": 4
+      "sessions": 3,
+      "users": 3,
+      "pageviews": 3
     },
     "trend": [
-      {
-        "date": "20260930",
-        "sessions": 9,
-        "users": 9
-      },
       {
         "date": "20261001",
         "sessions": 10,
@@ -142,18 +137,23 @@
         "date": "20261026",
         "sessions": 4,
         "users": 4
+      },
+      {
+        "date": "20261027",
+        "sessions": 3,
+        "users": 3
       }
     ],
     "summary": {
-      "sessions": 304,
-      "users": 303,
-      "bounceRate": 93.8
+      "sessions": 298,
+      "users": 297,
+      "bounceRate": 93.3
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 45
+        "pageviews": 46
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -171,29 +171,29 @@
         "pageviews": 4
       },
       {
-        "title": "아리와 함께 간 제주도 여행 _ 씨스타크루즈호 타고 목포 제주 오가기 - Changho World",
-        "path": "/wp/2014/03/03/아리와-함께-간-제주도-여행-_-씨스타크루즈호-타고-목/",
+        "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
+        "path": "/wp/2026/08/14/원두-페루-세로-네그로-게이샤-워시드lazy-moment-coffee-stand/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 259
+        "sessions": 252
       },
       {
         "device": "mobile",
-        "sessions": 45
+        "sessions": 46
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 274
+        "sessions": 267
       },
       {
         "channel": "Organic Search",
-        "sessions": 26
+        "sessions": 27
       },
       {
         "channel": "Organic Social",
@@ -218,9 +218,9 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 115,
-      "ctr": 3.48,
-      "position": 9.0
+      "impressions": 112,
+      "ctr": 3.57,
+      "position": 9.1
     },
     "queries": [
       {
@@ -232,11 +232,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-09-30",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-10-01",
         "clicks": 0,
@@ -356,17 +351,22 @@
         "date": "2026-10-24",
         "clicks": 0,
         "impressions": 0
+      },
+      {
+        "date": "2026-10-25",
+        "clicks": 0,
+        "impressions": 1
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.08,
-      "impressions": 7,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.0,
