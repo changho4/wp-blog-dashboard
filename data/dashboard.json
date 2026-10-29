@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-28 06:42",
-  "yesterday": "2026-10-27",
+  "updated_at": "2026-10-29 06:50",
+  "yesterday": "2026-10-28",
   "ga4": {
     "yesterday": {
-      "sessions": 3,
-      "users": 3,
-      "pageviews": 3
+      "sessions": 4,
+      "users": 4,
+      "pageviews": 4
     },
     "trend": [
-      {
-        "date": "20261001",
-        "sessions": 10,
-        "users": 10
-      },
       {
         "date": "20261002",
         "sessions": 22,
@@ -142,12 +137,17 @@
         "date": "20261027",
         "sessions": 3,
         "users": 3
+      },
+      {
+        "date": "20261028",
+        "sessions": 4,
+        "users": 4
       }
     ],
     "summary": {
-      "sessions": 298,
-      "users": 297,
-      "bounceRate": 93.3
+      "sessions": 292,
+      "users": 291,
+      "bounceRate": 93.2
     },
     "pages": [
       {
@@ -179,17 +179,17 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 252
+        "sessions": 247
       },
       {
         "device": "mobile",
-        "sessions": 46
+        "sessions": 45
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 267
+        "sessions": 261
       },
       {
         "channel": "Organic Search",
@@ -217,10 +217,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 4,
-      "impressions": 112,
-      "ctr": 3.57,
-      "position": 9.1
+      "clicks": 5,
+      "impressions": 118,
+      "ctr": 4.24,
+      "position": 9.0
     },
     "queries": [
       {
@@ -232,11 +232,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-01",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-10-02",
         "clicks": 0,
@@ -356,6 +351,11 @@
         "date": "2026-10-25",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-10-26",
+        "clicks": 1,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
@@ -371,17 +371,10 @@
     "summary": {
       "earnings": 0.0,
       "rpm": 0.0,
-      "impressions": 119,
+      "impressions": 110,
       "clicks": 1
     },
     "trend": [
-      {
-        "date": "2026-10-01",
-        "earnings": 0.0,
-        "rpm": 0.03,
-        "impressions": 9,
-        "clicks": 0
-      },
       {
         "date": "2026-10-03",
         "earnings": 0.0,
