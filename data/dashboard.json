@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-10-30 06:54",
-  "yesterday": "2026-10-29",
+  "updated_at": "2026-10-31 06:48",
+  "yesterday": "2026-10-30",
   "ga4": {
     "yesterday": {
-      "sessions": 11,
-      "users": 11,
-      "pageviews": 11
+      "sessions": 17,
+      "users": 16,
+      "pageviews": 16
     },
     "trend": [
-      {
-        "date": "20261003",
-        "sessions": 14,
-        "users": 14
-      },
       {
         "date": "20261004",
         "sessions": 26,
@@ -142,23 +137,28 @@
         "date": "20261029",
         "sessions": 11,
         "users": 11
+      },
+      {
+        "date": "20261030",
+        "sessions": 17,
+        "users": 16
       }
     ],
     "summary": {
-      "sessions": 281,
-      "users": 280,
-      "bounceRate": 93.2
+      "sessions": 284,
+      "users": 282,
+      "bounceRate": 92.6
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 43
+        "pageviews": 44
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
         "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 11
+        "pageviews": 9
       },
       {
         "title": "4인가족 연말 홍콩여행 - Changho World",
@@ -166,20 +166,20 @@
         "pageviews": 4
       },
       {
-        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
-        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 4
       },
       {
-        "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
-        "path": "/wp/2026/08/14/원두-페루-세로-네그로-게이샤-워시드lazy-moment-coffee-stand/",
+        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
+        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 4
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 237
+        "sessions": 240
       },
       {
         "device": "mobile",
@@ -189,15 +189,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 251
+        "sessions": 253
       },
       {
         "channel": "Organic Search",
-        "sessions": 26
+        "sessions": 25
       },
       {
         "channel": "Organic Social",
-        "sessions": 2
+        "sessions": 4
       },
       {
         "channel": "Referral",
@@ -218,8 +218,8 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 114,
-      "ctr": 4.39,
+      "impressions": 109,
+      "ctr": 4.59,
       "position": 9.2
     },
     "queries": [
@@ -232,11 +232,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-03",
-        "clicks": 0,
-        "impressions": 5
-      },
       {
         "date": "2026-10-04",
         "clicks": 0,
@@ -356,32 +351,30 @@
         "date": "2026-10-27",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-10-28",
+        "clicks": 0,
+        "impressions": 0
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.02,
-      "rpm": 1.33,
-      "impressions": 10,
+      "earnings": 0.0,
+      "rpm": 0.3,
+      "impressions": 7,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.02,
-      "rpm": 0.17,
-      "impressions": 120,
-      "clicks": 1
+      "rpm": 0.18,
+      "impressions": 110,
+      "clicks": 0
     },
     "trend": [
-      {
-        "date": "2026-10-03",
-        "earnings": 0.0,
-        "rpm": 0.21,
-        "impressions": 17,
-        "clicks": 1
-      },
       {
         "date": "2026-10-04",
         "earnings": 0.0,
@@ -476,8 +469,15 @@
       {
         "date": "2026-10-29",
         "earnings": 0.02,
-        "rpm": 1.33,
+        "rpm": 1.14,
         "impressions": 10,
+        "clicks": 0
+      },
+      {
+        "date": "2026-10-30",
+        "earnings": 0.0,
+        "rpm": 0.3,
+        "impressions": 7,
         "clicks": 0
       }
     ]
