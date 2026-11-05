@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-04 07:21",
-  "yesterday": "2026-11-03",
+  "updated_at": "2026-11-05 07:47",
+  "yesterday": "2026-11-04",
   "ga4": {
     "yesterday": {
-      "sessions": 20,
-      "users": 20,
-      "pageviews": 22
+      "sessions": 15,
+      "users": 15,
+      "pageviews": 14
     },
     "trend": [
-      {
-        "date": "20261008",
-        "sessions": 12,
-        "users": 12
-      },
       {
         "date": "20261009",
         "sessions": 6,
@@ -142,12 +137,17 @@
         "date": "20261103",
         "sessions": 20,
         "users": 20
+      },
+      {
+        "date": "20261104",
+        "sessions": 15,
+        "users": 15
       }
     ],
     "summary": {
-      "sessions": 290,
-      "users": 287,
-      "bounceRate": 90.3
+      "sessions": 293,
+      "users": 290,
+      "bounceRate": 89.4
     },
     "pages": [
       {
@@ -156,14 +156,14 @@
         "pageviews": 42
       },
       {
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
+        "pageviews": 9
+      },
+      {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 8
-      },
-      {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 7
       },
       {
         "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
@@ -179,29 +179,33 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 249
+        "sessions": 251
       },
       {
         "device": "mobile",
         "sessions": 41
+      },
+      {
+        "device": "tablet",
+        "sessions": 1
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 253
+        "sessions": 251
       },
       {
         "channel": "Organic Search",
-        "sessions": 29
+        "sessions": 31
       },
       {
         "channel": "Organic Social",
-        "sessions": 5
+        "sessions": 7
       },
       {
         "channel": "Unassigned",
-        "sessions": 2
+        "sessions": 3
       },
       {
         "channel": "Referral",
@@ -218,9 +222,9 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 89,
-      "ctr": 4.49,
-      "position": 8.8
+      "impressions": 88,
+      "ctr": 4.55,
+      "position": 8.4
     },
     "queries": [
       {
@@ -232,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-08",
-        "clicks": 0,
-        "impressions": 8
-      },
       {
         "date": "2026-10-09",
         "clicks": 0,
@@ -356,23 +355,33 @@
         "date": "2026-11-01",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-11-02",
+        "clicks": 0,
+        "impressions": 6
+      },
+      {
+        "date": "2026-11-03",
+        "clicks": 0,
+        "impressions": 1
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 0.51,
-      "impressions": 18,
-      "clicks": 0,
-      "ctr": 0.0
+      "earnings": 0.0,
+      "rpm": 0.05,
+      "impressions": 6,
+      "clicks": 2,
+      "ctr": 9.52
     },
     "summary": {
       "earnings": 0.04,
-      "rpm": 0.22,
-      "impressions": 184,
-      "clicks": 0
+      "rpm": 0.21,
+      "impressions": 190,
+      "clicks": 2
     },
     "trend": [
       {
@@ -490,9 +499,16 @@
       {
         "date": "2026-11-03",
         "earnings": 0.01,
-        "rpm": 0.51,
+        "rpm": 0.46,
         "impressions": 18,
         "clicks": 0
+      },
+      {
+        "date": "2026-11-04",
+        "earnings": 0.0,
+        "rpm": 0.05,
+        "impressions": 6,
+        "clicks": 2
       }
     ]
   }
