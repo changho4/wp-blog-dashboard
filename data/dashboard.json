@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-05 07:47",
-  "yesterday": "2026-11-04",
+  "updated_at": "2026-11-06 07:46",
+  "yesterday": "2026-11-05",
   "ga4": {
     "yesterday": {
-      "sessions": 15,
-      "users": 15,
+      "sessions": 14,
+      "users": 14,
       "pageviews": 14
     },
     "trend": [
-      {
-        "date": "20261009",
-        "sessions": 6,
-        "users": 6
-      },
       {
         "date": "20261010",
         "sessions": 16,
@@ -142,11 +137,16 @@
         "date": "20261104",
         "sessions": 15,
         "users": 15
+      },
+      {
+        "date": "20261105",
+        "sessions": 14,
+        "users": 14
       }
     ],
     "summary": {
-      "sessions": 293,
-      "users": 290,
+      "sessions": 301,
+      "users": 298,
       "bounceRate": 89.4
     },
     "pages": [
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 251
+        "sessions": 258
       },
       {
         "device": "mobile",
-        "sessions": 41
+        "sessions": 42
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 251
+        "sessions": 258
       },
       {
         "channel": "Organic Search",
-        "sessions": 31
+        "sessions": 32
       },
       {
         "channel": "Organic Social",
@@ -222,8 +222,8 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 88,
-      "ctr": 4.55,
+      "impressions": 87,
+      "ctr": 4.6,
       "position": 8.4
     },
     "queries": [
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-09",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-10-10",
         "clicks": 0,
@@ -372,25 +367,18 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.0,
-      "rpm": 0.05,
-      "impressions": 6,
-      "clicks": 2,
-      "ctr": 9.52
+      "rpm": 0.09,
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.04,
       "rpm": 0.21,
-      "impressions": 190,
+      "impressions": 187,
       "clicks": 2
     },
     "trend": [
-      {
-        "date": "2026-10-09",
-        "earnings": 0.0,
-        "rpm": 0.29,
-        "impressions": 6,
-        "clicks": 0
-      },
       {
         "date": "2026-10-10",
         "earnings": 0.0,
@@ -506,9 +494,16 @@
       {
         "date": "2026-11-04",
         "earnings": 0.0,
-        "rpm": 0.05,
+        "rpm": 0.04,
         "impressions": 6,
         "clicks": 2
+      },
+      {
+        "date": "2026-11-05",
+        "earnings": 0.0,
+        "rpm": 0.09,
+        "impressions": 3,
+        "clicks": 0
       }
     ]
   }
