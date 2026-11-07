@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-06 07:46",
-  "yesterday": "2026-11-05",
+  "updated_at": "2026-11-07 06:54",
+  "yesterday": "2026-11-06",
   "ga4": {
     "yesterday": {
-      "sessions": 14,
-      "users": 14,
-      "pageviews": 14
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 12
     },
     "trend": [
-      {
-        "date": "20261010",
-        "sessions": 16,
-        "users": 16
-      },
       {
         "date": "20261011",
         "sessions": 13,
@@ -142,12 +137,17 @@
         "date": "20261105",
         "sessions": 14,
         "users": 14
+      },
+      {
+        "date": "20261106",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 301,
-      "users": 298,
-      "bounceRate": 89.4
+      "sessions": 297,
+      "users": 294,
+      "bounceRate": 90.2
     },
     "pages": [
       {
@@ -166,24 +166,24 @@
         "pageviews": 8
       },
       {
-        "title": "[원두] 에티오피아 할로베리티 내추럴 디카페인(필아웃) - Changho World",
-        "path": "/wp/2026/07/14/fillout-coffee/",
-        "pageviews": 7
-      },
-      {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
         "path": "/wp/2026/08/10/원두-과테말라-산-라파엘-게이샤-허니-c-o-e-nw-2025kook-coffee-roasters/",
+        "pageviews": 6
+      },
+      {
+        "title": "브롬톤과 버디 비교 - Changho World",
+        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
         "pageviews": 6
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 258
+        "sessions": 257
       },
       {
         "device": "mobile",
-        "sessions": 42
+        "sessions": 39
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 258
+        "sessions": 256
       },
       {
         "channel": "Organic Search",
-        "sessions": 32
+        "sessions": 29
       },
       {
         "channel": "Organic Social",
@@ -209,7 +209,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 1
+        "sessions": 2
       }
     ]
   },
@@ -224,7 +224,7 @@
       "clicks": 4,
       "impressions": 87,
       "ctr": 4.6,
-      "position": 8.4
+      "position": 8.3
     },
     "queries": [
       {
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-10",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-10-11",
         "clicks": 0,
@@ -360,32 +355,30 @@
         "date": "2026-11-03",
         "clicks": 0,
         "impressions": 1
+      },
+      {
+        "date": "2026-11-04",
+        "clicks": 0,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.09,
-      "impressions": 3,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.04,
-      "rpm": 0.21,
-      "impressions": 187,
+      "rpm": 0.22,
+      "impressions": 182,
       "clicks": 2
     },
     "trend": [
-      {
-        "date": "2026-10-10",
-        "earnings": 0.0,
-        "rpm": 0.02,
-        "impressions": 5,
-        "clicks": 0
-      },
       {
         "date": "2026-10-11",
         "earnings": 0.0,
