@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-09 07:45",
-  "yesterday": "2026-11-08",
+  "updated_at": "2026-11-10 08:06",
+  "yesterday": "2026-11-09",
   "ga4": {
     "yesterday": {
-      "sessions": 15,
-      "users": 15,
-      "pageviews": 15
+      "sessions": 14,
+      "users": 14,
+      "pageviews": 17
     },
     "trend": [
-      {
-        "date": "20261013",
-        "sessions": 16,
-        "users": 16
-      },
       {
         "date": "20261014",
         "sessions": 9,
@@ -142,18 +137,28 @@
         "date": "20261108",
         "sessions": 15,
         "users": 15
+      },
+      {
+        "date": "20261109",
+        "sessions": 14,
+        "users": 14
       }
     ],
     "summary": {
-      "sessions": 305,
-      "users": 303,
-      "bounceRate": 88.9
+      "sessions": 303,
+      "users": 301,
+      "bounceRate": 89.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 44
+        "pageviews": 45
+      },
+      {
+        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
+        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
+        "pageviews": 13
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -161,25 +166,20 @@
         "pageviews": 10
       },
       {
-        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
-        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 10
-      },
-      {
         "title": "[원두] 과테말라 산 라파엘 게이샤 허니 C.O.E NW 2025(KOOK COFFEE Roasters) - Changho World",
         "path": "/wp/2026/08/10/원두-과테말라-산-라파엘-게이샤-허니-c-o-e-nw-2025kook-coffee-roasters/",
-        "pageviews": 7
+        "pageviews": 6
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 7
+        "pageviews": 6
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 263
+        "sessions": 261
       },
       {
         "device": "mobile",
@@ -197,7 +197,7 @@
       },
       {
         "channel": "Organic Search",
-        "sessions": 32
+        "sessions": 30
       },
       {
         "channel": "Organic Social",
@@ -221,10 +221,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 3,
+      "clicks": 2,
       "impressions": 86,
-      "ctr": 3.49,
-      "position": 8.6
+      "ctr": 2.33,
+      "position": 8.4
     },
     "queries": [
       {
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-13",
-        "clicks": 1,
-        "impressions": 6
-      },
       {
         "date": "2026-10-14",
         "clicks": 0,
@@ -365,32 +360,30 @@
         "date": "2026-11-07",
         "clicks": 0,
         "impressions": 4
+      },
+      {
+        "date": "2026-11-08",
+        "clicks": 0,
+        "impressions": 6
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 0.44,
-      "impressions": 8,
-      "clicks": 1,
-      "ctr": 5.88
+      "earnings": 0.0,
+      "rpm": 0.36,
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.05,
-      "rpm": 0.25,
-      "impressions": 198,
+      "rpm": 0.26,
+      "impressions": 192,
       "clicks": 3
     },
     "trend": [
-      {
-        "date": "2026-10-13",
-        "earnings": 0.0,
-        "rpm": 0.15,
-        "impressions": 13,
-        "clicks": 0
-      },
       {
         "date": "2026-10-15",
         "earnings": 0.0,
@@ -499,9 +492,16 @@
       {
         "date": "2026-11-08",
         "earnings": 0.01,
-        "rpm": 0.44,
+        "rpm": 0.4,
         "impressions": 8,
         "clicks": 1
+      },
+      {
+        "date": "2026-11-09",
+        "earnings": 0.0,
+        "rpm": 0.36,
+        "impressions": 7,
+        "clicks": 0
       }
     ]
   }
