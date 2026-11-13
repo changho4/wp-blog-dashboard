@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-12 08:03",
-  "yesterday": "2026-11-11",
+  "updated_at": "2026-11-13 07:41",
+  "yesterday": "2026-11-12",
   "ga4": {
     "yesterday": {
-      "sessions": 34,
-      "users": 34,
-      "pageviews": 34
+      "sessions": 21,
+      "users": 21,
+      "pageviews": 21
     },
     "trend": [
-      {
-        "date": "20261016",
-        "sessions": 12,
-        "users": 12
-      },
       {
         "date": "20261017",
         "sessions": 11,
@@ -142,27 +137,32 @@
         "date": "20261111",
         "sessions": 34,
         "users": 34
+      },
+      {
+        "date": "20261112",
+        "sessions": 21,
+        "users": 21
       }
     ],
     "summary": {
-      "sessions": 332,
-      "users": 330,
-      "bounceRate": 90.7
+      "sessions": 341,
+      "users": 339,
+      "bounceRate": 91.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 45
-      },
-      {
-        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
-        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 13
+        "pageviews": 44
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
         "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
+        "pageviews": 10
+      },
+      {
+        "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
+        "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 10
       },
       {
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 284
+        "sessions": 291
       },
       {
         "device": "mobile",
-        "sessions": 47
+        "sessions": 49
       },
       {
         "device": "tablet",
@@ -193,15 +193,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 288
+        "sessions": 297
       },
       {
         "channel": "Organic Search",
-        "sessions": 31
+        "sessions": 30
       },
       {
         "channel": "Organic Social",
-        "sessions": 7
+        "sessions": 8
       },
       {
         "channel": "Referral",
@@ -222,8 +222,8 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 83,
-      "ctr": 2.41,
+      "impressions": 79,
+      "ctr": 2.53,
       "position": 8.2
     },
     "queries": [
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-16",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-10-17",
         "clicks": 0,
@@ -371,26 +366,19 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
+      "earnings": 0.01,
+      "rpm": 0.27,
+      "impressions": 15,
       "clicks": 0,
-      "ctr": 0
+      "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.05,
-      "rpm": 0.27,
-      "impressions": 186,
+      "earnings": 0.06,
+      "rpm": 0.3,
+      "impressions": 197,
       "clicks": 3
     },
     "trend": [
-      {
-        "date": "2026-10-16",
-        "earnings": 0.0,
-        "rpm": 0.02,
-        "impressions": 4,
-        "clicks": 0
-      },
       {
         "date": "2026-10-19",
         "earnings": 0.0,
@@ -501,6 +489,13 @@
         "earnings": 0.0,
         "rpm": 0.18,
         "impressions": 10,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-12",
+        "earnings": 0.01,
+        "rpm": 0.27,
+        "impressions": 15,
         "clicks": 0
       }
     ]
