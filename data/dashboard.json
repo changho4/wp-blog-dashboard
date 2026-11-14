@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-13 07:41",
-  "yesterday": "2026-11-12",
+  "updated_at": "2026-11-14 07:27",
+  "yesterday": "2026-11-13",
   "ga4": {
     "yesterday": {
-      "sessions": 21,
-      "users": 21,
-      "pageviews": 21
+      "sessions": 30,
+      "users": 30,
+      "pageviews": 32
     },
     "trend": [
-      {
-        "date": "20261017",
-        "sessions": 11,
-        "users": 11
-      },
       {
         "date": "20261018",
         "sessions": 7,
@@ -142,12 +137,17 @@
         "date": "20261112",
         "sessions": 21,
         "users": 21
+      },
+      {
+        "date": "20261113",
+        "sessions": 30,
+        "users": 30
       }
     ],
     "summary": {
-      "sessions": 341,
-      "users": 339,
-      "bounceRate": 91.2
+      "sessions": 360,
+      "users": 357,
+      "bounceRate": 91.7
     },
     "pages": [
       {
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 291
+        "sessions": 312
       },
       {
         "device": "mobile",
-        "sessions": 49
+        "sessions": 47
       },
       {
         "device": "tablet",
@@ -193,15 +193,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 297
+        "sessions": 319
       },
       {
         "channel": "Organic Search",
-        "sessions": 30
+        "sessions": 29
       },
       {
         "channel": "Organic Social",
-        "sessions": 8
+        "sessions": 7
       },
       {
         "channel": "Referral",
@@ -209,7 +209,7 @@
       },
       {
         "channel": "Unassigned",
-        "sessions": 3
+        "sessions": 2
       }
     ]
   },
@@ -222,9 +222,9 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 79,
-      "ctr": 2.53,
-      "position": 8.2
+      "impressions": 75,
+      "ctr": 2.67,
+      "position": 8.3
     },
     "queries": [
       {
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-17",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-10-18",
         "clicks": 0,
@@ -366,11 +361,11 @@
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 0.27,
-      "impressions": 15,
+      "earnings": 0,
+      "rpm": 0,
+      "impressions": 0,
       "clicks": 0,
-      "ctr": 0.0
+      "ctr": 0
     },
     "summary": {
       "earnings": 0.06,
