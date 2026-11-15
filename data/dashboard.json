@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-14 07:27",
-  "yesterday": "2026-11-13",
+  "updated_at": "2026-11-15 07:40",
+  "yesterday": "2026-11-14",
   "ga4": {
     "yesterday": {
-      "sessions": 30,
-      "users": 30,
-      "pageviews": 32
+      "sessions": 5,
+      "users": 5,
+      "pageviews": 5
     },
     "trend": [
-      {
-        "date": "20261018",
-        "sessions": 7,
-        "users": 7
-      },
       {
         "date": "20261019",
         "sessions": 15,
@@ -142,18 +137,23 @@
         "date": "20261113",
         "sessions": 30,
         "users": 30
+      },
+      {
+        "date": "20261114",
+        "sessions": 5,
+        "users": 5
       }
     ],
     "summary": {
-      "sessions": 360,
-      "users": 357,
-      "bounceRate": 91.7
+      "sessions": 358,
+      "users": 355,
+      "bounceRate": 91.6
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 44
+        "pageviews": 46
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 312
+        "sessions": 309
       },
       {
         "device": "mobile",
-        "sessions": 47
+        "sessions": 48
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 319
+        "sessions": 315
       },
       {
         "channel": "Organic Search",
-        "sessions": 29
+        "sessions": 30
       },
       {
         "channel": "Organic Social",
@@ -205,7 +205,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 3
+        "sessions": 4
       },
       {
         "channel": "Unassigned",
@@ -222,25 +222,20 @@
     },
     "summary": {
       "clicks": 2,
-      "impressions": 75,
-      "ctr": 2.67,
-      "position": 8.3
+      "impressions": 72,
+      "ctr": 2.78,
+      "position": 8.5
     },
     "queries": [
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 3,
         "ctr": 0,
-        "position": 23
+        "position": 20.7
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-18",
-        "clicks": 0,
-        "impressions": 10
-      },
       {
         "date": "2026-10-19",
         "clicks": 0,
@@ -355,23 +350,38 @@
         "date": "2026-11-10",
         "clicks": 0,
         "impressions": 3
+      },
+      {
+        "date": "2026-11-11",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-11-12",
+        "clicks": 0,
+        "impressions": 2
+      },
+      {
+        "date": "2026-11-13",
+        "clicks": 0,
+        "impressions": 3
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0,
-      "rpm": 0,
-      "impressions": 0,
-      "clicks": 0,
-      "ctr": 0
+      "earnings": 0.01,
+      "rpm": 0.89,
+      "impressions": 16,
+      "clicks": 2,
+      "ctr": 25.0
     },
     "summary": {
-      "earnings": 0.06,
-      "rpm": 0.3,
-      "impressions": 197,
-      "clicks": 3
+      "earnings": 0.07,
+      "rpm": 0.33,
+      "impressions": 213,
+      "clicks": 5
     },
     "trend": [
       {
@@ -492,6 +502,13 @@
         "rpm": 0.27,
         "impressions": 15,
         "clicks": 0
+      },
+      {
+        "date": "2026-11-14",
+        "earnings": 0.01,
+        "rpm": 0.89,
+        "impressions": 16,
+        "clicks": 2
       }
     ]
   }
