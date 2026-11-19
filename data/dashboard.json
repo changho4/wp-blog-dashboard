@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-18 08:19",
-  "yesterday": "2026-11-17",
+  "updated_at": "2026-11-19 08:31",
+  "yesterday": "2026-11-18",
   "ga4": {
     "yesterday": {
-      "sessions": 14,
-      "users": 13,
-      "pageviews": 13
+      "sessions": 17,
+      "users": 17,
+      "pageviews": 18
     },
     "trend": [
-      {
-        "date": "20261022",
-        "sessions": 1,
-        "users": 1
-      },
       {
         "date": "20261023",
         "sessions": 6,
@@ -142,18 +137,23 @@
         "date": "20261117",
         "sessions": 14,
         "users": 13
+      },
+      {
+        "date": "20261118",
+        "sessions": 17,
+        "users": 17
       }
     ],
     "summary": {
-      "sessions": 352,
-      "users": 348,
-      "bounceRate": 88.6
+      "sessions": 368,
+      "users": 364,
+      "bounceRate": 88.9
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 47
+        "pageviews": 51
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -173,17 +173,17 @@
       {
         "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
         "path": "/wp/2026/08/14/원두-페루-세로-네그로-게이샤-워시드lazy-moment-coffee-stand/",
-        "pageviews": 6
+        "pageviews": 8
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 292
+        "sessions": 304
       },
       {
         "device": "mobile",
-        "sessions": 59
+        "sessions": 63
       },
       {
         "device": "tablet",
@@ -193,7 +193,7 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 298
+        "sessions": 313
       },
       {
         "channel": "Organic Search",
@@ -221,10 +221,10 @@
       "position": 0
     },
     "summary": {
-      "clicks": 3,
-      "impressions": 67,
-      "ctr": 4.48,
-      "position": 8.8
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 4.76,
+      "position": 8.4
     },
     "queries": [
       {
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-22",
-        "clicks": 0,
-        "impressions": 0
-      },
       {
         "date": "2026-10-23",
         "clicks": 0,
@@ -360,6 +355,16 @@
         "date": "2026-11-15",
         "clicks": 1,
         "impressions": 8
+      },
+      {
+        "date": "2026-11-16",
+        "clicks": 1,
+        "impressions": 7
+      },
+      {
+        "date": "2026-11-17",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
@@ -367,15 +372,15 @@
   "adsense": {
     "yesterday": {
       "earnings": 0.01,
-      "rpm": 0.68,
-      "impressions": 15,
+      "rpm": 1.55,
+      "impressions": 18,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.09,
-      "rpm": 0.36,
-      "impressions": 253,
+      "earnings": 0.1,
+      "rpm": 0.37,
+      "impressions": 271,
       "clicks": 6
     },
     "trend": [
@@ -510,6 +515,13 @@
         "earnings": 0.01,
         "rpm": 0.68,
         "impressions": 15,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-18",
+        "earnings": 0.01,
+        "rpm": 1.55,
+        "impressions": 18,
         "clicks": 0
       }
     ]
