@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-19 08:31",
-  "yesterday": "2026-11-18",
+  "updated_at": "2026-11-20 08:13",
+  "yesterday": "2026-11-19",
   "ga4": {
     "yesterday": {
-      "sessions": 17,
-      "users": 17,
-      "pageviews": 18
+      "sessions": 11,
+      "users": 11,
+      "pageviews": 11
     },
     "trend": [
-      {
-        "date": "20261023",
-        "sessions": 6,
-        "users": 6
-      },
       {
         "date": "20261024",
         "sessions": 3,
@@ -142,12 +137,17 @@
         "date": "20261118",
         "sessions": 17,
         "users": 17
+      },
+      {
+        "date": "20261119",
+        "sessions": 11,
+        "users": 11
       }
     ],
     "summary": {
-      "sessions": 368,
-      "users": 364,
-      "bounceRate": 88.9
+      "sessions": 373,
+      "users": 369,
+      "bounceRate": 87.9
     },
     "pages": [
       {
@@ -161,29 +161,29 @@
         "pageviews": 12
       },
       {
+        "title": "브롬톤과 버디 비교 - Changho World",
+        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "pageviews": 12
+      },
+      {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
         "pageviews": 11
       },
       {
-        "title": "브롬톤과 버디 비교 - Changho World",
-        "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 10
-      },
-      {
         "title": "[원두] 페루 세로 네그로 게이샤 워시드(Lazy Moment Coffee Stand) - Changho World",
         "path": "/wp/2026/08/14/원두-페루-세로-네그로-게이샤-워시드lazy-moment-coffee-stand/",
-        "pageviews": 8
+        "pageviews": 9
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 304
+        "sessions": 303
       },
       {
         "device": "mobile",
-        "sessions": 63
+        "sessions": 69
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 313
+        "sessions": 310
       },
       {
         "channel": "Organic Search",
-        "sessions": 40
+        "sessions": 48
       },
       {
         "channel": "Organic Social",
@@ -222,9 +222,9 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 84,
-      "ctr": 4.76,
-      "position": 8.4
+      "impressions": 86,
+      "ctr": 4.65,
+      "position": 8.3
     },
     "queries": [
       {
@@ -236,11 +236,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-23",
-        "clicks": 0,
-        "impressions": 0
-      },
       {
         "date": "2026-10-24",
         "clicks": 0,
@@ -365,22 +360,27 @@
         "date": "2026-11-17",
         "clicks": 0,
         "impressions": 10
+      },
+      {
+        "date": "2026-11-18",
+        "clicks": 0,
+        "impressions": 2
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 1.55,
-      "impressions": 18,
+      "earnings": 0.07,
+      "rpm": 7.33,
+      "impressions": 38,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.1,
-      "rpm": 0.37,
-      "impressions": 271,
+      "earnings": 0.17,
+      "rpm": 0.55,
+      "impressions": 309,
       "clicks": 6
     },
     "trend": [
@@ -522,6 +522,13 @@
         "earnings": 0.01,
         "rpm": 1.55,
         "impressions": 18,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-19",
+        "earnings": 0.07,
+        "rpm": 7.33,
+        "impressions": 38,
         "clicks": 0
       }
     ]
