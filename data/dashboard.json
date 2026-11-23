@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-22 07:52",
-  "yesterday": "2026-11-21",
+  "updated_at": "2026-11-23 08:44",
+  "yesterday": "2026-11-22",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
-      "pageviews": 12
+      "sessions": 6,
+      "users": 6,
+      "pageviews": 8
     },
     "trend": [
-      {
-        "date": "20261026",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20261027",
         "sessions": 3,
@@ -142,12 +137,17 @@
         "date": "20261121",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20261122",
+        "sessions": 6,
+        "users": 6
       }
     ],
     "summary": {
-      "sessions": 386,
-      "users": 381,
-      "bounceRate": 86.8
+      "sessions": 388,
+      "users": 383,
+      "bounceRate": 86.6
     },
     "pages": [
       {
@@ -179,11 +179,11 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 307
+        "sessions": 306
       },
       {
         "device": "mobile",
-        "sessions": 79
+        "sessions": 82
       },
       {
         "device": "tablet",
@@ -197,7 +197,7 @@
       },
       {
         "channel": "Organic Search",
-        "sessions": 60
+        "sessions": 61
       },
       {
         "channel": "Organic Social",
@@ -210,6 +210,10 @@
       {
         "channel": "Unassigned",
         "sessions": 2
+      },
+      {
+        "channel": "AI Assistant",
+        "sessions": 1
       }
     ]
   },
@@ -222,8 +226,8 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 98,
-      "ctr": 4.08,
+      "impressions": 105,
+      "ctr": 3.81,
       "position": 9.9
     },
     "queries": [
@@ -244,17 +248,12 @@
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 6,
+        "impressions": 7,
         "ctr": 0,
-        "position": 29.7
+        "position": 28.9
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-26",
-        "clicks": 1,
-        "impressions": 7
-      },
       {
         "date": "2026-10-27",
         "clicks": 0,
@@ -374,32 +373,35 @@
         "date": "2026-11-19",
         "clicks": 0,
         "impressions": 13
+      },
+      {
+        "date": "2026-11-20",
+        "clicks": 0,
+        "impressions": 10
+      },
+      {
+        "date": "2026-11-21",
+        "clicks": 1,
+        "impressions": 4
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 1.16,
-      "impressions": 28,
-      "clicks": 1,
-      "ctr": 14.29
+      "earnings": 0.0,
+      "rpm": 1.07,
+      "impressions": 11,
+      "clicks": 0,
+      "ctr": 0.0
     },
     "summary": {
       "earnings": 0.19,
-      "rpm": 0.54,
-      "impressions": 353,
+      "rpm": 0.53,
+      "impressions": 357,
       "clicks": 7
     },
     "trend": [
-      {
-        "date": "2026-10-26",
-        "earnings": 0.0,
-        "rpm": 0.08,
-        "impressions": 7,
-        "clicks": 0
-      },
       {
         "date": "2026-10-29",
         "earnings": 0.02,
@@ -546,6 +548,13 @@
         "rpm": 1.16,
         "impressions": 28,
         "clicks": 1
+      },
+      {
+        "date": "2026-11-22",
+        "earnings": 0.0,
+        "rpm": 1.07,
+        "impressions": 11,
+        "clicks": 0
       }
     ]
   }
