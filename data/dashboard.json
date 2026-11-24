@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-23 08:44",
-  "yesterday": "2026-11-22",
+  "updated_at": "2026-11-24 10:44",
+  "yesterday": "2026-11-23",
   "ga4": {
     "yesterday": {
-      "sessions": 6,
-      "users": 6,
-      "pageviews": 8
+      "sessions": 27,
+      "users": 26,
+      "pageviews": 27
     },
     "trend": [
-      {
-        "date": "20261027",
-        "sessions": 3,
-        "users": 3
-      },
       {
         "date": "20261028",
         "sessions": 4,
@@ -142,12 +137,17 @@
         "date": "20261122",
         "sessions": 6,
         "users": 6
+      },
+      {
+        "date": "20261123",
+        "sessions": 27,
+        "users": 26
       }
     ],
     "summary": {
-      "sessions": 388,
-      "users": 383,
-      "bounceRate": 86.6
+      "sessions": 412,
+      "users": 405,
+      "bounceRate": 86.2
     },
     "pages": [
       {
@@ -156,34 +156,34 @@
         "pageviews": 52
       },
       {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 13
+        "title": "2022 고속성장분석기 구하는 법 - Changho World",
+        "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
+        "pageviews": 15
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 13
+        "pageviews": 15
       },
       {
-        "title": "2022 고속성장분석기 구하는 법 - Changho World",
-        "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
-        "pageviews": 12
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
+        "pageviews": 14
       },
       {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 11
+        "pageviews": 12
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 306
+        "sessions": 324
       },
       {
         "device": "mobile",
-        "sessions": 82
+        "sessions": 88
       },
       {
         "device": "tablet",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 312
+        "sessions": 330
       },
       {
         "channel": "Organic Search",
-        "sessions": 61
+        "sessions": 67
       },
       {
         "channel": "Organic Social",
@@ -226,9 +226,9 @@
     },
     "summary": {
       "clicks": 4,
-      "impressions": 105,
-      "ctr": 3.81,
-      "position": 9.9
+      "impressions": 112,
+      "ctr": 3.57,
+      "position": 10.2
     },
     "queries": [
       {
@@ -239,26 +239,28 @@
         "position": 39
       },
       {
-        "query": "고속성장",
+        "query": "고속분석기",
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 23
+        "position": 36
+      },
+      {
+        "query": "고속성장",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 24.5
       },
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 7,
+        "impressions": 8,
         "ctr": 0,
-        "position": 28.9
+        "position": 26.5
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-27",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-10-28",
         "clicks": 0,
@@ -383,22 +385,27 @@
         "date": "2026-11-21",
         "clicks": 1,
         "impressions": 4
+      },
+      {
+        "date": "2026-11-22",
+        "clicks": 0,
+        "impressions": 8
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 1.07,
-      "impressions": 11,
+      "earnings": 0.01,
+      "rpm": 0.81,
+      "impressions": 20,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.19,
+      "earnings": 0.2,
       "rpm": 0.53,
-      "impressions": 357,
+      "impressions": 377,
       "clicks": 7
     },
     "trend": [
@@ -554,6 +561,13 @@
         "earnings": 0.0,
         "rpm": 1.07,
         "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-23",
+        "earnings": 0.01,
+        "rpm": 0.81,
+        "impressions": 20,
         "clicks": 0
       }
     ]
