@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-24 10:44",
-  "yesterday": "2026-11-23",
+  "updated_at": "2026-11-25 09:40",
+  "yesterday": "2026-11-24",
   "ga4": {
     "yesterday": {
-      "sessions": 27,
-      "users": 26,
-      "pageviews": 27
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20261028",
-        "sessions": 4,
-        "users": 4
-      },
       {
         "date": "20261029",
         "sessions": 11,
@@ -142,23 +137,28 @@
         "date": "20261123",
         "sessions": 27,
         "users": 26
+      },
+      {
+        "date": "20261124",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 412,
-      "users": 405,
+      "sessions": 420,
+      "users": 413,
       "bounceRate": 86.2
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 52
+        "pageviews": 58
       },
       {
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
         "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
-        "pageviews": 15
+        "pageviews": 16
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
@@ -179,7 +179,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 324
+        "sessions": 332
       },
       {
         "device": "mobile",
@@ -193,11 +193,11 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 330
+        "sessions": 337
       },
       {
         "channel": "Organic Search",
-        "sessions": 67
+        "sessions": 68
       },
       {
         "channel": "Organic Social",
@@ -225,12 +225,19 @@
       "position": 0
     },
     "summary": {
-      "clicks": 4,
-      "impressions": 112,
-      "ctr": 3.57,
-      "position": 10.2
+      "clicks": 5,
+      "impressions": 122,
+      "ctr": 4.1,
+      "position": 10.3
     },
     "queries": [
+      {
+        "query": "고속 성장",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+      },
       {
         "query": "고속 성장 분석기",
         "clicks": 0,
@@ -255,17 +262,12 @@
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 8,
+        "impressions": 10,
         "ctr": 0,
-        "position": 26.5
+        "position": 23.7
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-28",
-        "clicks": 0,
-        "impressions": 0
-      },
       {
         "date": "2026-10-29",
         "clicks": 0,
@@ -390,22 +392,27 @@
         "date": "2026-11-22",
         "clicks": 0,
         "impressions": 8
+      },
+      {
+        "date": "2026-11-23",
+        "clicks": 1,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 0.81,
-      "impressions": 20,
+      "earnings": 0.0,
+      "rpm": 0.55,
+      "impressions": 7,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
       "earnings": 0.2,
-      "rpm": 0.53,
-      "impressions": 377,
+      "rpm": 0.52,
+      "impressions": 384,
       "clicks": 7
     },
     "trend": [
@@ -568,6 +575,13 @@
         "earnings": 0.01,
         "rpm": 0.81,
         "impressions": 20,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-24",
+        "earnings": 0.0,
+        "rpm": 0.55,
+        "impressions": 7,
         "clicks": 0
       }
     ]
