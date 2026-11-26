@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-25 09:40",
-  "yesterday": "2026-11-24",
+  "updated_at": "2026-11-26 09:15",
+  "yesterday": "2026-11-25",
   "ga4": {
     "yesterday": {
-      "sessions": 12,
-      "users": 12,
+      "sessions": 13,
+      "users": 13,
       "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20261029",
-        "sessions": 11,
-        "users": 11
-      },
       {
         "date": "20261030",
         "sessions": 17,
@@ -142,28 +137,33 @@
         "date": "20261124",
         "sessions": 12,
         "users": 12
+      },
+      {
+        "date": "20261125",
+        "sessions": 13,
+        "users": 13
       }
     ],
     "summary": {
-      "sessions": 420,
-      "users": 413,
-      "bounceRate": 86.2
+      "sessions": 422,
+      "users": 414,
+      "bounceRate": 86.0
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 58
+        "pageviews": 60
       },
       {
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
         "path": "/wp/2021/09/29/2022-고속성장분석기-구하는-법/",
-        "pageviews": 16
+        "pageviews": 18
       },
       {
         "title": "[원두] 코스타리카 에르바수 비야 사르치 허니(프릳츠) - Changho World",
         "path": "/wp/2026/07/27/원두-코스타리카-에르바수-비야-사르치-허니/",
-        "pageviews": 15
+        "pageviews": 16
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -179,25 +179,25 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 332
+        "sessions": 329
       },
       {
         "device": "mobile",
-        "sessions": 88
+        "sessions": 92
       },
       {
         "device": "tablet",
-        "sessions": 1
+        "sessions": 2
       }
     ],
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 337
+        "sessions": 333
       },
       {
         "channel": "Organic Search",
-        "sessions": 68
+        "sessions": 73
       },
       {
         "channel": "Organic Social",
@@ -205,7 +205,7 @@
       },
       {
         "channel": "Referral",
-        "sessions": 4
+        "sessions": 5
       },
       {
         "channel": "Unassigned",
@@ -226,8 +226,8 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 122,
-      "ctr": 4.1,
+      "impressions": 128,
+      "ctr": 3.91,
       "position": 10.3
     },
     "queries": [
@@ -268,11 +268,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-29",
-        "clicks": 0,
-        "impressions": 1
-      },
       {
         "date": "2026-10-30",
         "clicks": 0,
@@ -397,32 +392,30 @@
         "date": "2026-11-23",
         "clicks": 1,
         "impressions": 10
+      },
+      {
+        "date": "2026-11-24",
+        "clicks": 0,
+        "impressions": 7
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.0,
-      "rpm": 0.55,
-      "impressions": 7,
+      "earnings": 0.01,
+      "rpm": 0.86,
+      "impressions": 17,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.2,
-      "rpm": 0.52,
-      "impressions": 384,
+      "earnings": 0.19,
+      "rpm": 0.49,
+      "impressions": 391,
       "clicks": 7
     },
     "trend": [
-      {
-        "date": "2026-10-29",
-        "earnings": 0.02,
-        "rpm": 1.14,
-        "impressions": 10,
-        "clicks": 0
-      },
       {
         "date": "2026-10-30",
         "earnings": 0.0,
@@ -582,6 +575,13 @@
         "earnings": 0.0,
         "rpm": 0.55,
         "impressions": 7,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-25",
+        "earnings": 0.01,
+        "rpm": 0.86,
+        "impressions": 17,
         "clicks": 0
       }
     ]
