@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-26 09:15",
-  "yesterday": "2026-11-25",
+  "updated_at": "2026-11-27 09:31",
+  "yesterday": "2026-11-26",
   "ga4": {
     "yesterday": {
-      "sessions": 13,
-      "users": 13,
+      "sessions": 11,
+      "users": 11,
       "pageviews": 13
     },
     "trend": [
-      {
-        "date": "20261030",
-        "sessions": 17,
-        "users": 16
-      },
       {
         "date": "20261031",
         "sessions": 18,
@@ -142,18 +137,23 @@
         "date": "20261125",
         "sessions": 13,
         "users": 13
+      },
+      {
+        "date": "20261126",
+        "sessions": 11,
+        "users": 11
       }
     ],
     "summary": {
-      "sessions": 422,
-      "users": 414,
-      "bounceRate": 86.0
+      "sessions": 418,
+      "users": 409,
+      "bounceRate": 85.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 60
+        "pageviews": 64
       },
       {
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
@@ -166,24 +166,24 @@
         "pageviews": 16
       },
       {
-        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
-        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
-        "pageviews": 14
-      },
-      {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
+        "pageviews": 13
+      },
+      {
+        "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
+        "path": "/wp/2026/08/11/레시피-게이샤-레시피센터커피/",
         "pageviews": 12
       }
     ],
     "devices": [
       {
         "device": "desktop",
-        "sessions": 329
+        "sessions": 322
       },
       {
         "device": "mobile",
-        "sessions": 92
+        "sessions": 93
       },
       {
         "device": "tablet",
@@ -193,15 +193,15 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 333
+        "sessions": 326
       },
       {
         "channel": "Organic Search",
-        "sessions": 73
+        "sessions": 77
       },
       {
         "channel": "Organic Social",
-        "sessions": 8
+        "sessions": 6
       },
       {
         "channel": "Referral",
@@ -226,9 +226,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 128,
-      "ctr": 3.91,
-      "position": 10.3
+      "impressions": 134,
+      "ctr": 3.73,
+      "position": 10.2
     },
     "queries": [
       {
@@ -264,15 +264,10 @@
         "clicks": 0,
         "impressions": 10,
         "ctr": 0,
-        "position": 23.7
+        "position": 24.9
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-30",
-        "clicks": 0,
-        "impressions": 4
-      },
       {
         "date": "2026-10-31",
         "clicks": 1,
@@ -397,32 +392,30 @@
         "date": "2026-11-24",
         "clicks": 0,
         "impressions": 7
+      },
+      {
+        "date": "2026-11-25",
+        "clicks": 0,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.01,
-      "rpm": 0.86,
-      "impressions": 17,
+      "earnings": 0.03,
+      "rpm": 3.05,
+      "impressions": 33,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.19,
-      "rpm": 0.49,
-      "impressions": 391,
+      "earnings": 0.22,
+      "rpm": 0.53,
+      "impressions": 417,
       "clicks": 7
     },
     "trend": [
-      {
-        "date": "2026-10-30",
-        "earnings": 0.0,
-        "rpm": 0.3,
-        "impressions": 7,
-        "clicks": 0
-      },
       {
         "date": "2026-10-31",
         "earnings": 0.01,
@@ -582,6 +575,13 @@
         "earnings": 0.01,
         "rpm": 0.86,
         "impressions": 17,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-26",
+        "earnings": 0.03,
+        "rpm": 3.05,
+        "impressions": 33,
         "clicks": 0
       }
     ]
