@@ -1,18 +1,13 @@
 {
-  "updated_at": "2026-11-27 09:31",
-  "yesterday": "2026-11-26",
+  "updated_at": "2026-11-28 08:44",
+  "yesterday": "2026-11-27",
   "ga4": {
     "yesterday": {
-      "sessions": 11,
-      "users": 11,
-      "pageviews": 13
+      "sessions": 12,
+      "users": 12,
+      "pageviews": 15
     },
     "trend": [
-      {
-        "date": "20261031",
-        "sessions": 18,
-        "users": 18
-      },
       {
         "date": "20261101",
         "sessions": 19,
@@ -142,18 +137,23 @@
         "date": "20261126",
         "sessions": 11,
         "users": 11
+      },
+      {
+        "date": "20261127",
+        "sessions": 12,
+        "users": 12
       }
     ],
     "summary": {
-      "sessions": 418,
-      "users": 409,
+      "sessions": 412,
+      "users": 403,
       "bounceRate": 85.4
     },
     "pages": [
       {
         "title": "Changho World -",
         "path": "/wp/",
-        "pageviews": 64
+        "pageviews": 69
       },
       {
         "title": "2022 고속성장분석기 구하는 법 - Changho World",
@@ -168,7 +168,7 @@
       {
         "title": "브롬톤과 버디 비교 - Changho World",
         "path": "/wp/2021/03/09/브롬톤과-버디-비교/",
-        "pageviews": 13
+        "pageviews": 14
       },
       {
         "title": "[레시피] 게이샤 레시피(센터커피) - Changho World",
@@ -179,7 +179,7 @@
     "devices": [
       {
         "device": "desktop",
-        "sessions": 322
+        "sessions": 316
       },
       {
         "device": "mobile",
@@ -193,26 +193,26 @@
     "channels": [
       {
         "channel": "Direct",
-        "sessions": 326
+        "sessions": 320
       },
       {
         "channel": "Organic Search",
-        "sessions": 77
+        "sessions": 76
       },
       {
         "channel": "Organic Social",
-        "sessions": 6
+        "sessions": 7
       },
       {
         "channel": "Referral",
         "sessions": 5
       },
       {
-        "channel": "Unassigned",
+        "channel": "AI Assistant",
         "sessions": 2
       },
       {
-        "channel": "AI Assistant",
+        "channel": "Unassigned",
         "sessions": 1
       }
     ]
@@ -226,9 +226,9 @@
     },
     "summary": {
       "clicks": 5,
-      "impressions": 134,
-      "ctr": 3.73,
-      "position": 10.2
+      "impressions": 142,
+      "ctr": 3.52,
+      "position": 10.0
     },
     "queries": [
       {
@@ -262,17 +262,19 @@
       {
         "query": "고속성장분석기",
         "clicks": 0,
-        "impressions": 10,
+        "impressions": 11,
         "ctr": 0,
-        "position": 24.9
+        "position": 22.2
+      },
+      {
+        "query": "프라하에서 부다페스트 야간열차",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 14
       }
     ],
     "trend": [
-      {
-        "date": "2026-10-31",
-        "clicks": 1,
-        "impressions": 2
-      },
       {
         "date": "2026-11-01",
         "clicks": 0,
@@ -397,32 +399,30 @@
         "date": "2026-11-25",
         "clicks": 0,
         "impressions": 10
+      },
+      {
+        "date": "2026-11-26",
+        "clicks": 1,
+        "impressions": 10
       }
     ],
     "yesterday_pages": []
   },
   "adsense": {
     "yesterday": {
-      "earnings": 0.03,
-      "rpm": 3.05,
-      "impressions": 33,
+      "earnings": 0.0,
+      "rpm": 1.12,
+      "impressions": 7,
       "clicks": 0,
       "ctr": 0.0
     },
     "summary": {
-      "earnings": 0.22,
+      "earnings": 0.21,
       "rpm": 0.53,
-      "impressions": 417,
+      "impressions": 394,
       "clicks": 7
     },
     "trend": [
-      {
-        "date": "2026-10-31",
-        "earnings": 0.01,
-        "rpm": 0.5,
-        "impressions": 30,
-        "clicks": 0
-      },
       {
         "date": "2026-11-01",
         "earnings": 0.0,
@@ -582,6 +582,13 @@
         "earnings": 0.03,
         "rpm": 3.05,
         "impressions": 33,
+        "clicks": 0
+      },
+      {
+        "date": "2026-11-27",
+        "earnings": 0.0,
+        "rpm": 1.12,
+        "impressions": 7,
         "clicks": 0
       }
     ]
